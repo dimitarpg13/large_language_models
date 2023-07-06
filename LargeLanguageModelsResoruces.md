@@ -76,3 +76,9 @@
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
+
+## online videos
+
+* [How ChatGPT is Trained with Ari Seff (February, 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
+
+* [Let's build GPT: from scratch, in code, spelled out with Andrej Karpathy (February 2023)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
