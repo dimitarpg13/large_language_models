@@ -81,6 +81,8 @@
 
 * [Retentive Network: A Successor to Transformer for Large Language Models, Sun, Y., Microsoft Research, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_2023.pdf)
 
+* [Meta-Transformer: A Unifed Framework for Multi-Modal Learning, Zhang, Y., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Meta-Transformer_Unified_Framework_for_Multi-Modal_Learning_2023.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
