@@ -73,6 +73,14 @@
 
 * [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TutorialOnLongShortTermMemory2019.pdf)
 
+* [What Can Transformers Learn in Context? A Case Study of Simple Function Classes, Carg S., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/What_Can_Transformers_Learn%20In-Context-A_Case_Study_of_Simple_Function_Classes_Stanford_2023.pdf)
+
+* [Toward Understanding Why Adam Converges Faster Than SGD for Transformers, Pan, Y, et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Toward_Understanding_Why_Adam_Converges_Faster_Than_SGD_for_Transformers_CMU_2023.pdf)
+
+* [How ChatGPT Behavior is Changing Over Time?, Chen, L, Stanford, UC Berkeley, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/How_ChatGPT_behavior_is_changing_over_time_2023.pdf)
+
+* [Retentive Network: A Successor to Transformer for Large Language Models, Sun, Y., Microsoft Research, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_2023.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
