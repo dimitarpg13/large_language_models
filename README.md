@@ -28,7 +28,7 @@ Berkeley Koala:
 https://bair.berkeley.edu/blog/2023/04/03/koala/
 
 
-## Other Relevant Work
+## Relevant Work
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
@@ -44,6 +44,10 @@ https://bair.berkeley.edu/blog/2023/04/03/koala/
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
 
+ * [Deep Learning and Neural Networks](https://github.com/dimitarpg13/deep_learning_and_neural_networks/blob/main/Resources.md)
+
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
+ * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
+
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
