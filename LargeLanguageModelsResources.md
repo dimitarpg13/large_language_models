@@ -92,3 +92,11 @@
 * [How ChatGPT is Trained with Ari Seff (February, 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
 
 * [Let's build GPT: from scratch, in code, spelled out with Andrej Karpathy (February 2023)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+## medium
+
+* [The Transformer Architecture of GPT Models with Beatriz Stollniz](https://towardsdatascience.com/the-transformer-architecture-of-gpt-models-b8695b48728b)
+
+* [Learning Transformers Code First Part 1 - The Setup with Lily Hughs-Robinson](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
+
+* [Learning Transformers Code First Part 2 - GPT Up Close and Personal with Lily Hughs-Robinson](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
