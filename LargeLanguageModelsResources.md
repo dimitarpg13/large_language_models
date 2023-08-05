@@ -100,3 +100,5 @@
 * [Learning Transformers Code First Part 1 - The Setup with Lily Hughs-Robinson](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
 
 * [Learning Transformers Code First Part 2 - GPT Up Close and Personal with Lily Hughs-Robinson](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
+
+* [Understanding Large Language Models: The Physics of ChatGPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
