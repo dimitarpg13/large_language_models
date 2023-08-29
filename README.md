@@ -50,4 +50,3 @@ https://bair.berkeley.edu/blog/2023/04/03/koala/
  
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
 
- * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming)
