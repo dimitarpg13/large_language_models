@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [Llama 2: Open Foundation and Fine-Tuned Chat Models, Hugo Touvron, Louis Martin, et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLaMAOpenandEfficientFoundationLanguageModels_MetaAI_2023.pdf)
+
 * [GPT-4 Technical Report, OpenAI, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/GPT-4_Technical_Report_OpenAI_2023.pdf)
 
 * [Sparks of artificial general intelligence: early experiments with GPT-4, Microsoft Research](https://github.com/dimitarpg13/large_language_models/blob/main/articles/SparksofArtificialGeneralIntelligenceEarlyExperimentswithGPT4.pdf)
