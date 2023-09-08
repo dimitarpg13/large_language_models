@@ -104,3 +104,13 @@
 * [Learning Transformers Code First Part 2 - GPT Up Close and Personal with Lily Hughs-Robinson](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
 
 * [Understanding Large Language Models: The Physics of ChatGPT and BERT with Tim Lou](https://towardsdatascience.com/understanding-large-language-models-the-physics-of-chat-gpt-and-bert-ea512bcc6a64)
+
+* [Transformer Architectures and the Rise of BERT, GPT, and T5: A Beginner's Guide with Manas Joshi](https://pub.towardsai.net/transformer-architectures-and-the-rise-of-bert-gpt-and-t5-a-beginners-guide-ea5e5bca923c)
+
+* [Inside GPT - I: Understanding the text generation with Fatih Demirci](https://towardsdatascience.com/inside-gpt-i-1e8840ca8093)
+
+* [Platypus: Quick, Cheap and Powerful LLM with Salvatore Raieli](https://levelup.gitconnected.com/platypus-quick-cheap-and-powerful-llm-404b86af8755)
+
+* [Configuring Nemo-Guardrails Your Way: An Alternative Method for LLM with Masatake Hirono](https://towardsdatascience.com/configuring-nemo-guardrails-your-way-an-alternative-method-for-large-language-models-c82aaff78f6e)
+
+* [ChatGPT stories compiled by Mateusz Wasalski](https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d)
