@@ -85,6 +85,8 @@
 
 * [Meta-Transformer: A Unifed Framework for Multi-Modal Learning, Zhang, Y., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Meta-Transformer_Unified_Framework_for_Multi-Modal_Learning_2023.pdf)
 
+* [Retentive Network: A Successor to Transformer for Large Language Models, Sun et al, Microsft Research, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_Microsoft_Tsinghua_Sun_2023.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
@@ -114,3 +116,5 @@
 * [Configuring Nemo-Guardrails Your Way: An Alternative Method for LLM with Masatake Hirono](https://towardsdatascience.com/configuring-nemo-guardrails-your-way-an-alternative-method-for-large-language-models-c82aaff78f6e)
 
 * [ChatGPT stories compiled by Mateusz Wasalski](https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d)
+
+* [RetNet: Transformer killer is here with Vishal Rajput](https://medium.com/aiguys/retnet-transformer-killer-is-here-1dc7f50d1205)
