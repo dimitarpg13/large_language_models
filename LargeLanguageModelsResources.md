@@ -118,3 +118,5 @@
 * [ChatGPT stories compiled by Mateusz Wasalski](https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d)
 
 * [RetNet: Transformer killer is here with Vishal Rajput](https://medium.com/aiguys/retnet-transformer-killer-is-here-1dc7f50d1205)
+
+* [Fine-Tuning Large Language Models (LLMs) with Shawhin Talebi](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
