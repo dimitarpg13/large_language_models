@@ -120,3 +120,5 @@
 * [RetNet: Transformer killer is here with Vishal Rajput](https://medium.com/aiguys/retnet-transformer-killer-is-here-1dc7f50d1205)
 
 * [Fine-Tuning Large Language Models (LLMs) with Shawhin Talebi](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
+
+* [How to Build an LLM from Scratch with Shawhin Talebi](https://towardsdatascience.com/how-to-build-an-llm-from-scratch-8c477768f1f9)
