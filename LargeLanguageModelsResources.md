@@ -85,7 +85,13 @@
 
 * [Meta-Transformer: A Unifed Framework for Multi-Modal Learning, Zhang, Y., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Meta-Transformer_Unified_Framework_for_Multi-Modal_Learning_2023.pdf)
 
-* [Retentive Network: A Successor to Transformer for Large Language Models, Sun et al, Microsft Research, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_Microsoft_Tsinghua_Sun_2023.pdf)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin, Google AI, 2019](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BERT-Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding_Devlin_Google_2019.pdf)
+
+* [Improving Language Understanding by Generative Pre-Training, A. Redford, Open AI, 2018](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Improving_Language_Understanding_by_Generative_Pre-Training_Redford_OpenAI_2018.pdf)
+
+* [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron, Meta, 2023](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Llama2-Open_Foundation_and_Fine-Tuned_Chat_Models_Touvron_Meta_2023.pdf)
+
+* [Scaling Language Models - Methods, Analysis and Insights from Training Gopher,JW Rae, DeepMind, 2021](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Scaling_Language_Models-Methods_Analysis_Insights_from_Training_Gopher_Rae_DeepMind_2021.pdf)
 
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
