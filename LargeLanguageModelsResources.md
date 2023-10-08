@@ -130,3 +130,11 @@
 * [How to Build an LLM from Scratch with Shawhin Talebi](https://towardsdatascience.com/how-to-build-an-llm-from-scratch-8c477768f1f9)
 
 * [Conversations as Directed Graphs with LangChain with Daniel Warfield](https://towardsdatascience.com/conversations-as-directed-graphs-with-lang-chain-46d70e1a846c)
+
+* [Mastering Language Models with Samuel Montgomery](https://towardsdatascience.com/mastering-language-models-32e1d891511a)
+
+* [Self-Supervised Learning Using Projection Heads with Daniel Warfield](https://towardsdatascience.com/self-supervised-learning-using-projection-heads-b77af3911d33)
+
+* [Summing Coin Values in Images using Lang-SAM and Deep Learning with Gamze Zorlubas](https://towardsdatascience.com/coin-counting-using-lang-sam-b469827808a7)
+
+* [‘Talk’ to Your SQL Database Using LangChain and Azure OpenAI with Satwiki De](https://towardsdatascience.com/talk-to-your-sql-database-using-langchain-and-azure-openai-bb79ad22c5e2)
