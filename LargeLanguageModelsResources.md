@@ -128,3 +128,5 @@
 * [Fine-Tuning Large Language Models (LLMs) with Shawhin Talebi](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
 
 * [How to Build an LLM from Scratch with Shawhin Talebi](https://towardsdatascience.com/how-to-build-an-llm-from-scratch-8c477768f1f9)
+
+* [Conversations as Directed Graphs with LangChain with Daniel Warfield](https://towardsdatascience.com/conversations-as-directed-graphs-with-lang-chain-46d70e1a846c)
