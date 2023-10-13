@@ -138,3 +138,5 @@
 * [Summing Coin Values in Images using Lang-SAM and Deep Learning with Gamze Zorlubas](https://towardsdatascience.com/coin-counting-using-lang-sam-b469827808a7)
 
 * [‘Talk’ to Your SQL Database Using LangChain and Azure OpenAI with Satwiki De](https://towardsdatascience.com/talk-to-your-sql-database-using-langchain-and-azure-openai-bb79ad22c5e2)
+
+* [RLHF: Reinforcement Learning from Human Feedback with Ms Aerin](https://automata88.medium.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1)
