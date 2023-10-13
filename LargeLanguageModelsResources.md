@@ -140,3 +140,8 @@
 * [‘Talk’ to Your SQL Database Using LangChain and Azure OpenAI with Satwiki De](https://towardsdatascience.com/talk-to-your-sql-database-using-langchain-and-azure-openai-bb79ad22c5e2)
 
 * [RLHF: Reinforcement Learning from Human Feedback with Ms Aerin](https://automata88.medium.com/rlhf-reinforcement-learning-from-human-feedback-faa5ff4761d1)
+
+    related paper: [Training language models to follow instructions
+with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_2022.pdf)
+
+    related code: [Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture](https://github.com/lucidrains/PaLM-rlhf-pytorch/tree/main)
