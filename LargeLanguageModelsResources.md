@@ -5,6 +5,8 @@
 
 * [GPT-4 Technical Report, OpenAI, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/GPT-4_Technical_Report_OpenAI_2023.pdf)
 
+* [The Dawn of LMMs: Preliminary Explorations with GPT-4Vision, Yang et al, Microsoft, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Dawn_of_LMMs-Preliminary_Explorations_with_GPT-4Vision_Yang_Microsoft_2023.pdf)
+
 * [Sparks of artificial general intelligence: early experiments with GPT-4, Microsoft Research](https://github.com/dimitarpg13/large_language_models/blob/main/articles/SparksofArtificialGeneralIntelligenceEarlyExperimentswithGPT4.pdf)
 
 * [LLaMA: Open and Efficient Foundation Language Models, Meta AI](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLaMAOpenandEfficientFoundationLanguageModels_MetaAI_2023.pdf)
