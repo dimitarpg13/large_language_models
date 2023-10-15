@@ -15,6 +15,8 @@
 
 * [Physics of Large Language Models (Part 1), Context-free Grammar, Meta FAIR Labs, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Physics_of_Language_Models-Part%201_Context-Free_Grammar_Meta_FAIR_Labs_2023.pdf)
 
+* [Evaluating Large Language Models is a minefield, A. Narayan, S. Kapoor, Princeton U., 2023, online blog](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+
 * [Transformers Learn In-Context by Gradient Descent, Oswald et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_Learn_In-Context_by_Gradient_Descent_Oswald_2023.pdf)
 
 * [Transformers as Algorithms: Generalization and Stability in In-context Learning, Li et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
