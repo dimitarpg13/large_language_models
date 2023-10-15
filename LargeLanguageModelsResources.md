@@ -9,6 +9,8 @@
 
 * [Sparks of artificial general intelligence: early experiments with GPT-4, Microsoft Research](https://github.com/dimitarpg13/large_language_models/blob/main/articles/SparksofArtificialGeneralIntelligenceEarlyExperimentswithGPT4.pdf)
 
+* [Large Language Models can learn rules, Zhu et al, DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Large_Language_Models_Can_Learn_Rules_Zhu_DeepMind_2023.pdf)
+
 * [LLaMA: Open and Efficient Foundation Language Models, Meta AI](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLaMAOpenandEfficientFoundationLanguageModels_MetaAI_2023.pdf)
 
 * [Physics of Large Language Models (Part 1), Context-free Grammar, Meta FAIR Labs, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Physics_of_Language_Models-Part%201_Context-Free_Grammar_Meta_FAIR_Labs_2023.pdf)
