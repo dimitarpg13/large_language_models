@@ -61,6 +61,10 @@
 
 * [Attention in Natural Language Processing, Galassi et al., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/AttentionInNaturalLanguageProcessing.pdf)
 
+* [Vision Language Transformers: A Survey, Clayton Fields, Casey Kennington, 2003](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Vision_Language_Transformers-A_Survey_Fields_2023.pdf)
+
+* [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization, Jin et al, Peking U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Language-Vision_Pretraining_in_LLM_with_Dynamic_Discrete_Visual_Tokenization_Jin_2023.pdf)
+
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al., Google AI, 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
 
 * [FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling, Ott et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FairseqAFastExtensibleToolkitForSequenceModeling.pdf)
