@@ -17,6 +17,8 @@
 
 * [Evaluating Large Language Models is a minefield, A. Narayan, S. Kapoor, Princeton U., 2023, online blog](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 
+* [Multimodality and Large Multimodal Models (LMMs), Chip Huyen, 2023, online article](https://huyenchip.com/2023/10/10/multimodal.html)
+
 * [Transformers Learn In-Context by Gradient Descent, Oswald et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_Learn_In-Context_by_Gradient_Descent_Oswald_2023.pdf)
 
 * [Transformers as Algorithms: Generalization and Stability in In-context Learning, Li et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
