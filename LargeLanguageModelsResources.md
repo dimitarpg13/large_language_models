@@ -19,6 +19,8 @@
 
 * [Multimodality and Large Multimodal Models (LMMs), Chip Huyen, 2023, online article](https://huyenchip.com/2023/10/10/multimodal.html)
 
+* [Branch-Solve-Merge Improves Large Language Model Evaluation and Generation, S. Saha et al, UNC Chapel Hill, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Branch-Solve-Merge_Improves_Large_Language_Model_Evaluation_and_Generation_Saha_UNCChapelHill_2023.pdf)
+
 * [Transformers Learn In-Context by Gradient Descent, Oswald et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_Learn_In-Context_by_Gradient_Descent_Oswald_2023.pdf)
 
 * [Transformers as Algorithms: Generalization and Stability in In-context Learning, Li et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
