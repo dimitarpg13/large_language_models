@@ -161,3 +161,8 @@
 with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_2022.pdf)
 
     related code: [Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture](https://github.com/lucidrains/PaLM-rlhf-pytorch/tree/main)
+
+
+* [How to Convert Any Text Into a Graph of Concepts with Rahul Nayak](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)
+
+    related repo: [Knowledge_Graph](https://github.com/rahulnyk/knowledge_graph)
