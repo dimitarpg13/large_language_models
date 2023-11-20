@@ -101,6 +101,8 @@
 
 * [How ChatGPT Behavior is Changing Over Time?, Chen, L, Stanford, UC Berkeley, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/How_ChatGPT_behavior_is_changing_over_time_2023.pdf)
 
+* [What Is ChatGPT Doing and Why Does It Work?, S. Wolfram, Feb 2023, online article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
 * [Retentive Network: A Successor to Transformer for Large Language Models, Sun, Y., Microsoft Research, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_2023.pdf)
 
 * [Meta-Transformer: A Unifed Framework for Multi-Modal Learning, Zhang, Y., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Meta-Transformer_Unified_Framework_for_Multi-Modal_Learning_2023.pdf)
