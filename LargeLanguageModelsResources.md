@@ -1,6 +1,11 @@
 # Large Language Models Resources
 
 ## articles
+
+* [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford U., UC Berkeley, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
+
+    related repo: https://sites.google.com/view/chain-of-code
+
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models, Hugo Touvron, Louis Martin, et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLaMAOpenandEfficientFoundationLanguageModels_MetaAI_2023.pdf)
 
 * [GPT-4 Technical Report, OpenAI, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/GPT-4_Technical_Report_OpenAI_2023.pdf)
