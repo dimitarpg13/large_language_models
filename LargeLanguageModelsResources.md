@@ -177,3 +177,7 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 * [How to Convert Any Text Into a Graph of Concepts with Rahul Nayak](https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)
 
     related repo: [Knowledge_Graph](https://github.com/rahulnyk/knowledge_graph)
+
+* [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab with Dmitrii Eliuseev](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)
+
+* [LLMs for Everyone: Running the LLaMA-13B model and LangChain in Google Colab with Dmitrii Eliuseev](https://towardsdatascience.com/llms-for-everyone-running-the-llama-13b-model-and-langchain-in-google-colab-68d88021cf0b)
