@@ -181,3 +181,7 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 * [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab with Dmitrii Eliuseev](https://towardsdatascience.com/llms-for-everyone-running-langchain-and-a-mistralai-7b-model-in-google-colab-246ca94d7c4d)
 
 * [LLMs for Everyone: Running the LLaMA-13B model and LangChain in Google Colab with Dmitrii Eliuseev](https://towardsdatascience.com/llms-for-everyone-running-the-llama-13b-model-and-langchain-in-google-colab-68d88021cf0b)
+
+    related repo: https://github.com/ggerganov/llama.cpp
+    related repo: https://github.com/langchain-ai/langchain
+    related repo: https://colab.research.google.com/
