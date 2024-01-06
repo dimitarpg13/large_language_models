@@ -24,6 +24,8 @@
 
 * [Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks, M. Mitchell et al, Santa Fe Institute, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Comparing_Humans_GPT-4_and_GPT-4V_On_Abstraction_and_Reasoning_Tasks_Mitchell_SantaFe_2023.pdf)
 
+* [Understanding LLMs: A Comprehensive Overview from Training to Inference, Liu et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Understanding_LLMs-A_Comprehensive_Overview_from_Training_to_Inference_Liu_2024.pdf)
+
 * [Multimodality and Large Multimodal Models (LMMs), Chip Huyen, 2023, online article](https://huyenchip.com/2023/10/10/multimodal.html)
 
 * [Branch-Solve-Merge Improves Large Language Model Evaluation and Generation, S. Saha et al, UNC Chapel Hill, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Branch-Solve-Merge_Improves_Large_Language_Model_Evaluation_and_Generation_Saha_UNCChapelHill_2023.pdf)
