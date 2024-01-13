@@ -132,6 +132,11 @@
 
 * [Let's build GPT: from scratch, in code, spelled out with Andrej Karpathy (February 2023)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
+## LLM visualization
+
+https://bbycroft.net/llm
+
+
 ## medium
 
 * [The Transformer Architecture of GPT Models with Beatriz Stollniz](https://towardsdatascience.com/the-transformer-architecture-of-gpt-models-b8695b48728b)
