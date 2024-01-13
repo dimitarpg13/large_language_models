@@ -134,7 +134,7 @@
 
 ## LLM visualization
 
-The resource below attempts to visualize what is happening in LLM under the hood. This is a helpful tool to comprehend the work of decoder-only Transformer-based LLMs. The author Brendan Bycroft has made an interesting attempt to visualize these structures and clarify how they operate. This webpage in the link below provides visualization for a family of GPT models, presented in 3D animations with walkthrough. The tool provides a step-by-step guide for single-token inference, coupled with interactive elements for a hands-on experience.
+The resource below attempts to visualize what is happening in LLM under the hood and is a helpful tool to comprehend the work of decoder-only Transformer-based LLMs. The author Brendan Bycroft has made an interesting attempt to visualize these structures and clarify how they operate. This webpage in the link below provides visualization for a family of GPT models, presented in 3D animations with walkthrough. The tool provides a step-by-step guide for single-token inference, coupled with interactive elements for a hands-on experience.
 
 https://bbycroft.net/llm
 
