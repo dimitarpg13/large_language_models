@@ -197,3 +197,7 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
     related repo: https://colab.research.google.com/
 
+* [Is Mamba the End of ChatGPT As We Know It? Igancio de Gregorio](https://pub.towardsai.net/is-mamba-the-end-of-chatgpt-as-we-know-it-a2ce57de0b02)
+
+    related paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu et al, CMU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2024.pdf)
+
