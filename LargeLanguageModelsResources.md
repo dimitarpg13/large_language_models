@@ -40,6 +40,8 @@
 
 * [Can GPT-3 Perform Statutory Reasoning?, Blair-Stanek, A et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Can_GPT-3_Perform_Statutory_Reasoning_Blair-Stanek_2023.pdf)
 
+* [Solving olympiad geometry without human demonstrations, TH Trinh et al, DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Solving_olympiad_geometry_without_human_demonstrations_Trinh_DeepMind_2023.pdf)
+
 * [An Explanation of In-context Learning as Implicity Bayesian Inference, Xie et al., Stanford, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/An_Explanation_of_In-context_Learning_as_Implicit_Bayesian_Inference_Stanford_2022.pdf)
 
 * [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions, S. Bhattamishra, Oxford U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Understanding_In-Context_Learning_in_Transformers_and_LLMs_by_Learning_to_Learn_Discrete_Functions_Bhattamishra_2023.pdf)
