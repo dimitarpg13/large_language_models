@@ -124,6 +124,8 @@
 
 * [Scaling Language Models - Methods, Analysis and Insights from Training Gopher,JW Rae, DeepMind, 2021](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Scaling_Language_Models-Methods_Analysis_Insights_from_Training_Gopher_Rae_DeepMind_2021.pdf)
 
+* [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering, Tal Ridnik et al, CodiumAI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Code_Generation_with_AlphaCodium-From_Prompt_Engineering_to_Flow_Engineering_Ridnik_2024.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
