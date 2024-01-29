@@ -229,4 +229,8 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
     related paper: [Learning to summarize from human feedback, N. Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2022.pdf)
 
+* Mistral AI vs. Meta: Comparing Top Open-source LLMs with Luis Roque, Jan 2024
+
+    https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e
+
 
