@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Self-Rewarding Language Models, W. Yuan et al, Meta, NYU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Rewarding_Language_Models_Yuan_2024.pdf)
+
 * [Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts, M. Besta et al, ETH Zurich, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Topologies_of_Reasoning-Demystifying_Chains_Trees_and_Graphs_of_Thoughts_Besta_ETH_Zurich_2024.pdf)
 
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford U., UC Berkeley, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
