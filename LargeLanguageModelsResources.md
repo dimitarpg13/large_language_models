@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts, M. Besta et al, ETH Zurich, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Topologies_of_Reasoning-Demystifying_Chains_Trees_and_Graphs_of_Thoughts_Besta_ETH_Zurich_2024.pdf)
+
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford U., UC Berkeley, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
 
     related repo: https://sites.google.com/view/chain-of-code
@@ -226,5 +228,9 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
     related paper: [A General Language Assistant as a Laboratory for Alignment, A. Askell et al, Anthropic, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_General_Language_Assistant_as_a_Laboratory_for_Alignment_Askell_Anthropic_2021.pdf)
 
     related paper: [Learning to summarize from human feedback, N. Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2022.pdf)
+
+* Mistral AI vs. Meta: Comparing Top Open-source LLMs with Luis Roque, Jan 2024
+
+    https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e
 
 
