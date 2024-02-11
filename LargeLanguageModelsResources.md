@@ -1,6 +1,7 @@
 # Large Language Models Resources
 
 ## articles
+* [Solving olympiad geometry without human demonstrations, TH Trinh et al, DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Solving_olympiad_geometry_without_human_demonstrations_Trinh_DeepMind_2023.pdf)
 
 * [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, E. Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
 
@@ -45,8 +46,6 @@
 * [Toward Understanding Why Adam Converges faster Than SGD for Transformers, Pan et al., CMU, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Toward_Understanding_Why_Adam_Converges_Faster_Than_SGD_for_Transformers_CMU_2023.pdf)
 
 * [Can GPT-3 Perform Statutory Reasoning?, Blair-Stanek, A et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Can_GPT-3_Perform_Statutory_Reasoning_Blair-Stanek_2023.pdf)
-
-* [Solving olympiad geometry without human demonstrations, TH Trinh et al, DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Solving_olympiad_geometry_without_human_demonstrations_Trinh_DeepMind_2023.pdf)
 
 * [An Explanation of In-context Learning as Implicity Bayesian Inference, Xie et al., Stanford, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/An_Explanation_of_In-context_Learning_as_Implicit_Bayesian_Inference_Stanford_2022.pdf)
 
