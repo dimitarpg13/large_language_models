@@ -141,6 +141,8 @@
 
 * [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models, K. Yang et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/LeanDojo-Theorem_Proving_with_Retrieval-Augmented_Language_Models_Yang_Caltech_2023.pdf)
 
+* [NeurIPS on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
+
 * [DeepMath - Deep Sequence Models for Premise Selection, Alexander Alemi, Francois Chollet et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/DeepMath-Deep_Sequence_Models_for_Premise_Selection_alemi_2016.pdf)
 
 ## online videos
