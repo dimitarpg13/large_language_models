@@ -135,6 +135,16 @@
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
 
+### Theorem Proving
+
+* [Solving Olympiad Geometry without Human Demonstrations, TH Trinh et al, Google DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/Solving_olympiad_geometry_without_human_demonstrations_Trinh_Google_2023.pdf)
+
+* [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models, K. Yang et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/LeanDojo-Theorem_Proving_with_Retrieval-Augmented_Language_Models_Yang_Caltech_2023.pdf)
+
+* [NeurIPS Tutorial on Machine Learning for Theorem Proving, video](https://machine-learning-for-theorem-proving.github.io/)
+
+* [DeepMath - Deep Sequence Models for Premise Selection, Alexander Alemi, Francois Chollet et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/DeepMath-Deep_Sequence_Models_for_Premise_Selection_alemi_2016.pdf)
+
 ## online videos
 
 * [How ChatGPT is Trained with Ari Seff (February, 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
