@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, E. Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
+
 * [Self-Rewarding Language Models, W. Yuan et al, Meta, NYU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Rewarding_Language_Models_Yuan_2024.pdf)
 
 * [Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts, M. Besta et al, ETH Zurich, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Topologies_of_Reasoning-Demystifying_Chains_Trees_and_Graphs_of_Thoughts_Besta_ETH_Zurich_2024.pdf)
