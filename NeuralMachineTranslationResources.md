@@ -4,4 +4,6 @@
 
 [Neural Machine Translation of Rare Words with Subword Units, Rico Sennrich, Barry Haddow, Alexandra Birch, 2015](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Sennrich_2016.pdf)
 
+[Sequence to Sequence Learning with Neural Networks, Ilya Sutskever et al, Google, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Sequence_to_Sequence_Learning_with_Neural_Networks_Ilya_Sutskever_Google_2014.pdf)
+
 
