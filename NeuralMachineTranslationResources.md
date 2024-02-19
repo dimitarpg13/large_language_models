@@ -8,4 +8,6 @@
 
 [Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau, K. Cho, Yoshua Bengio, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate_Bahdanu_2013.pdf)
 
+[Neural Machine Translation, Medium, Quinn Lanners, 2019](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
+
 
