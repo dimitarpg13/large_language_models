@@ -10,4 +10,8 @@
 
 [Neural Machine Translation, Quinn Lanners, 2019, Medium](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
 
+[NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+
+   related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
+
 
