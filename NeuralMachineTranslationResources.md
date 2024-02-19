@@ -10,6 +10,8 @@
 
 [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation, K. Cho et al, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Learning_Phrase_Representations_using_RNN_Encoder%E2%80%93Decoder_for_Statistical_Machine_Translation_Cho_2014.pdf)
 
+[Recurrent Continuous Translation Models, N. Kalchbrenner, P. Blunsom, U of Oxford, 2013](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Recurrent_Continuous_Translation_Models_Kalchbrenner_2013.pdf)
+
 [Continuous Space Translation Models for Phrase-Based Statistical Machine Translation, Holger Schwenk, 2012](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Continuous_Space_Translation_Models_for_Phrase-Based_Statistical_Machine_Translation_Schwenk_2012.pdf)
 
 [Neural Machine Translation, Quinn Lanners, 2019, Medium](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
