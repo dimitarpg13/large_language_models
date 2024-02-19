@@ -14,6 +14,8 @@
 
 [Continuous Space Translation Models for Phrase-Based Statistical Machine Translation, Holger Schwenk, 2012](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Continuous_Space_Translation_Models_for_Phrase-Based_Statistical_Machine_Translation_Schwenk_2012.pdf)
 
+[Effective Approaches to Attention-based Neural Machine Translation, MH Luong, 2015](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Effective_Approaches_to_Attention-based_Neural_Machine_Translation_Luong_2015.pdf)
+
 [Neural Machine Translation, Quinn Lanners, 2019, Medium](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
 
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
