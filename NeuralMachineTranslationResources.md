@@ -18,4 +18,6 @@
 
    related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
 
+[The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
+
 
