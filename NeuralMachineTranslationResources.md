@@ -8,6 +8,8 @@
 
 [Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau, K. Cho, Yoshua Bengio, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate_Bahdanu_2013.pdf)
 
+[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation, K. Cho et al, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Learning_Phrase_Representations_using_RNN_Encoder%E2%80%93Decoder_for_Statistical_Machine_Translation_Cho_2014.pdf)
+
 [Neural Machine Translation, Quinn Lanners, 2019, Medium](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
 
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
