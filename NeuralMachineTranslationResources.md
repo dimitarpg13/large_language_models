@@ -6,4 +6,6 @@
 
 [Sequence to Sequence Learning with Neural Networks, Ilya Sutskever et al, Google, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Sequence_to_Sequence_Learning_with_Neural_Networks_Ilya_Sutskever_Google_2014.pdf)
 
+[Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau, K. Cho, Yoshua Bengio, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate_Bahdanu_2013.pdf)
+
 
