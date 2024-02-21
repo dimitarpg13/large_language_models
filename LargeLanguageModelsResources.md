@@ -150,8 +150,11 @@
 ### LLM Tokenization
 
 * [Let's build the GPT Tokenizer with Andrej Karpathy (February 2024)](https://youtu.be/zduSFxRajkE)
+  
 * [Minimal Byte Pair Encoding Algorithm (Andrej Karpathy repo)](https://github.com/karpathy/minbpe/tree/master)
+  
 * [Language Models are Unsupervised Multitask Learners, Alec Radford et al, 2018](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Models_are_Unsupervised_Multitask_Learners_Alec_Radford_OpenAI_2018.pdf)
+  
 * [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
 
 ## online videos
