@@ -9,6 +9,8 @@
 
 * [Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts, M. Besta et al, ETH Zurich, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Topologies_of_Reasoning-Demystifying_Chains_Trees_and_Graphs_of_Thoughts_Besta_ETH_Zurich_2024.pdf)
 
+* [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, S. Ma et al , 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Era_of_1-bit_LLMs-All_Large_Language_Models_are_in_1.58_Bits_Ma_2024.pdf)
+
 * [Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding, X. Ning et al, Microsoft, Tsinghua U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Skeleton-of-Thought-Large_Language_Models_Can_Do_Parallel_Decoding_Ning_2023.pdf)
 
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator, Li et al, DeepMind, Stanford U., UC Berkeley, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chain_of_Code-Reasoning_with_a_Language_Model-Augmented_Code_Emulator_DeepMind_2023.pdf)
