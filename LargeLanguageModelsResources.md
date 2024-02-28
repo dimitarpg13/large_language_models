@@ -169,13 +169,32 @@
 
 * [Let's build the GPT Tokenizer with Andrej Karpathy (February 2024)](https://youtu.be/zduSFxRajkE)
 
-## LLM visualization
+## Resource on LLM visualization
 
 The resource below attempts to visualize what is happening in LLM under the hood and is a helpful tool to comprehend the work of decoder-only Transformer-based LLMs. The author Brendan Bycroft has made an interesting attempt to visualize these structures and clarify how they operate. This webpage in the link below provides visualization for a family of GPT models, presented in 3D animations with walkthrough. The tool provides a step-by-step guide for single-token inference, coupled with interactive elements for a hands-on experience.
 
 https://bbycroft.net/llm
 
+# Articles on LLMs in Cornell University's Advancing AI for Humanity blog
 
+The blog: https://thegenerality.com/agi/
+
+some of the articles:
+
+* [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, S. Ma et al , 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Era_of_1-bit_LLMs-All_Large_Language_Models_are_in_1.58_Bits_Ma_2024.pdf)
+
+* [BitNet: Scaling 1-bit Transformers for Large Language Models](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BitNet-Scaling_1-bit_Transformers_for_Large_Language_Models_Wang_2023.pdf)
+
+* [Retentive Network: A Successor to Transformer for Large Language Models, Sun et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_Sun_2023.pdf)
+
+* [Large Language Model for Science: A Study on P vs. NP, Q. Dong et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retentive_Network-A_Successor_to_Transformer_for_Large_Language_Models_Microsoft_Tsinghua_Sun_2023.pdf)
+
+* [Augmenting Language Models with Long-Term Memory, W. Wang et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Augmenting_Language_Models_with_Long-Term_Memory_Wang_2023.pdf)
+
+* [Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers, Dai et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Why_Can_GPT_Learn_In-Context_Language_Models_Implicitly_Perform_Gradient_Descent_as_Meta-Optimizers_Dai_2023.pdf)
+
+* [A Length-Extrapolatable Transformer, Sun et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Length-Extrapolatable_Transformer_Sun_2022.pdf)
+  
 ## medium
 
 * [The Transformer Architecture of GPT Models with Beatriz Stollniz](https://towardsdatascience.com/the-transformer-architecture-of-gpt-models-b8695b48728b)
