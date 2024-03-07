@@ -1,5 +1,7 @@
 # Large Language Models
 
+This repository is a work in progress and its contents will be updated regularly.
+
 ## relevant literature review
 
 ### Review of existing LLMs
