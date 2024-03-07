@@ -175,7 +175,7 @@ The resource below attempts to visualize what is happening in LLM under the hood
 
 https://bbycroft.net/llm
 
-# Articles on LLMs in Cornell University's Advancing AI for Humanity blog
+## Articles on LLMs in Cornell University's Advancing AI for Humanity blog
 
 The blog: https://thegenerality.com/agi/
 
@@ -192,6 +192,8 @@ some of the articles:
 * [Augmenting Language Models with Long-Term Memory, W. Wang et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Augmenting_Language_Models_with_Long-Term_Memory_Wang_2023.pdf)
 
 * [Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers, Dai et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Why_Can_GPT_Learn_In-Context_Language_Models_Implicitly_Perform_Gradient_Descent_as_Meta-Optimizers_Dai_2023.pdf)
+
+* [LONGNET: Scaling Transformers to 1,000,000,000 Tokens, J. Ding et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LongNet-Scaling_Transformers_to_one_billion_Tokens_Ding_2023.pdf)
 
 * [A Length-Extrapolatable Transformer, Sun et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Length-Extrapolatable_Transformer_Sun_2022.pdf)
   
