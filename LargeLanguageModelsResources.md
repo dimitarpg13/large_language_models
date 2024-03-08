@@ -1,6 +1,9 @@
 # Large Language Models Resources
 
 ## articles
+* [Sora: A Review on Background, Technology, Limitations, and
+Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Sora-A_Review_on_Background_Technology_Limitations_and_Opportunities_of_Large_Vision_Models_Liu_2024.pdf)
+
 * [Solving olympiad geometry without human demonstrations, TH Trinh et al, DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Solving_olympiad_geometry_without_human_demonstrations_Trinh_DeepMind_2023.pdf)
 
 * [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training, E. Hubinger et al, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Sleeper_Agents-Training_Deceptive_LLMs_that_Persist_Through_Safety_Training_Hubinger_Anthropic_2024.pdf)
