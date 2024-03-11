@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [Self-Discover: Large Language Models Self-Compose Reasoning Structures, P. Zhou et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Discover-Large_Language_Models_Self-Compose_Reasoning_Structures_Zhou_2024.pdf)
+
 * [DeLLMa: A Framework for Decision Making Under Uncertainty with Large Language Models, Ollie Liu et al, USC, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/DeLLMa-A_Framework_for_Decision_Making_Under_Uncertainty_with_Large_Language_Models_Liu_2024.pdf)
 
 * [Sora: A Review on Background, Technology, Limitations, and
