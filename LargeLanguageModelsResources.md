@@ -142,6 +142,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering, Tal Ridnik et al, CodiumAI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Code_Generation_with_AlphaCodium-From_Prompt_Engineering_to_Flow_Engineering_Ridnik_2024.pdf)
 
+* [Pengi: An Audio Language Model for Audio Tasks, S. Deshmukh et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Pengi-An_Audio_Language_Model_for_Audio_Tasks_Deshmukh_2024.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
