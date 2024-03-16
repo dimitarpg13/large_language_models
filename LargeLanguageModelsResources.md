@@ -150,6 +150,12 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
 
+### Human-like Reasoning and Representation Learning
+
+* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_Stanford_2024.pdf)
+
+* [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
+
 ### Theorem Proving
 
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, Tsinghua U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_TsinghuaU_2024.pdf)
