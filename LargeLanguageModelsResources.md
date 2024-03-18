@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training, B. McKinzie et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MM1-Methods_Analysis_Insights_from_Multimodal_LLM_Pre-training_McKinzie_2024.pdf)
+
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_Stanford_2024.pdf)
 
 * [Self-Discover: Large Language Models Self-Compose Reasoning Structures, P. Zhou et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Discover-Large_Language_Models_Self-Compose_Reasoning_Structures_Zhou_2024.pdf)
