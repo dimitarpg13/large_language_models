@@ -2,7 +2,7 @@
 
 ## articles
 
-* []()
+* [Unfamiliar Finetuning Examples Control How Language Models Hallucinate, Katie Kang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unfamiliar_Finetuning_Examples_Control_How_Language_Models_Hallucinate_Kang_2024.pdf)
 
 * [Demystifying Embedding Spaces using Large Language Models, G. Tennenholtz et al, Google Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Demystifying_Embedding_Spaces_using_Large_Language_Models_Tennenholtz_2023.pdf)
 
