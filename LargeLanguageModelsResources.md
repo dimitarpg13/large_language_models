@@ -2,7 +2,7 @@
 
 ## articles
 
-* [Demystifying Embedding Spaces using Large Language Models, G. Tennenholtz et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Demystifying_Embedding_Spaces_using_Large_Language_Models_Tennenholtz_2023.pdf)
+* [Demystifying Embedding Spaces using Large Language Models, G. Tennenholtz et al, Google Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Demystifying_Embedding_Spaces_using_Large_Language_Models_Tennenholtz_2023.pdf)
 
 * [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training, B. McKinzie et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MM1-Methods_Analysis_Insights_from_Multimodal_LLM_Pre-training_McKinzie_2024.pdf)
 
