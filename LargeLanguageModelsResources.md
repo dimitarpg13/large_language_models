@@ -2,6 +2,8 @@
 
 ## articles
 
+* []()
+
 * [Demystifying Embedding Spaces using Large Language Models, G. Tennenholtz et al, Google Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Demystifying_Embedding_Spaces_using_Large_Language_Models_Tennenholtz_2023.pdf)
 
 * [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training, B. McKinzie et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MM1-Methods_Analysis_Insights_from_Multimodal_LLM_Pre-training_McKinzie_2024.pdf)
@@ -182,6 +184,19 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [Language Models are Unsupervised Multitask Learners, Alec Radford et al, 2018](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Models_are_Unsupervised_Multitask_Learners_Alec_Radford_OpenAI_2018.pdf)
   
 * [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
+
+### Retrieval-Augmented Fine Tuning (RAFT)
+
+[RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
+
+[RAFT: Adapting Language Model to Domain Specific RAG, T. Zhang et al, 2024 (blog)](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
+
+[RAFT: Adapting Language Model to Domain Specific RAG, T. Zhang et al, 2024 (paper)](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RAFT-Adapting_Language_Model_to_Domain_Specific_RAG_Zhang_2024.pdf)
+
+relevant repos:
+  * https://github.com/ShishirPatil/gorilla/tree/main/raft
+  * https://github.com/ShishirPatil/gorilla
+
 
 ## online videos
 
