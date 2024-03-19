@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey, X. Liu et al, U of Maryland College Park, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Large_Language_Models_and_Causal_Inference_in_Collaboration-A_Comprehensive_Survey_Liu_UofMarylandCP_2024.pdf)
+
 * [Unfamiliar Finetuning Examples Control How Language Models Hallucinate, Katie Kang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unfamiliar_Finetuning_Examples_Control_How_Language_Models_Hallucinate_Kang_2024.pdf)
 
 * [Demystifying Embedding Spaces using Large Language Models, G. Tennenholtz et al, Google Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Demystifying_Embedding_Spaces_using_Large_Language_Models_Tennenholtz_2023.pdf)
