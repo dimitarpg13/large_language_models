@@ -2,6 +2,8 @@
 
 ## articles
 
+* [A Neural Probabilistic Language Model, Y. Bengio et al, 2003](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Neural_Probabilistic_Language_Model_bengio03a.pdf)
+
 * [Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey, X. Liu et al, U of Maryland College Park, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Large_Language_Models_and_Causal_Inference_in_Collaboration-A_Comprehensive_Survey_Liu_UofMarylandCP_2024.pdf)
 
 * [Unfamiliar Finetuning Examples Control How Language Models Hallucinate, Katie Kang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unfamiliar_Finetuning_Examples_Control_How_Language_Models_Hallucinate_Kang_2024.pdf)
