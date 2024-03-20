@@ -204,7 +204,7 @@ relevant repos:
 
 ## online videos and blogs
 
-* [GPT in 60 lines of NumPy code with Jay Mody, Jan, 2034 (blog)](https://jaykmody.com/blog/gpt-from-scratch/)
+* [GPT in 60 lines of NumPy code with Jay Mody, blog, (January, 2023)](https://jaykmody.com/blog/gpt-from-scratch/)
   
 * [How ChatGPT is Trained with Ari Seff (February, 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
 
