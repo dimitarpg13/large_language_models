@@ -304,9 +304,7 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
     related paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu et al, CMU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2024.pdf)
 
-* RLAIF: Reinforcement Learning from AI Feedback with Cameron R. Wolfe, Jan, 2024
-
-    https://towardsdatascience.com/rlaif-reinforcement-learning-from-ai-feedback-d7dbdae8f093
+* [RLAIF: Reinforcement Learning from AI Feedback with Cameron R. Wolfe, Jan, 2024](https://towardsdatascience.com/rlaif-reinforcement-learning-from-ai-feedback-d7dbdae8f093)
 
     related paper: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback, Harrison Lee et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RLAIF-Scaling_Reinforcement_Learning_from_Human_Feedback_with_AI_Feedback_Lee_2023.pdf)
 
@@ -326,8 +324,8 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
     related paper: [Learning to summarize from human feedback, N. Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2022.pdf)
 
-* Mistral AI vs. Meta: Comparing Top Open-source LLMs with Luis Roque, Jan 2024
+* [Mistral AI vs. Meta: Comparing Top Open-source LLMs with Luis Roque, Jan 2024](https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e)
 
-    https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e
+* [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
 
 
