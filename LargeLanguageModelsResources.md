@@ -328,4 +328,4 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
 * [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
 
-
+* [How to Build a Local Open-Source LLM Chatbot With RAG, Dr. Leon Eversberg, April, 2024](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
