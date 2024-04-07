@@ -203,6 +203,8 @@ relevant repos:
   * https://github.com/ShishirPatil/gorilla/tree/main/raft
   * https://github.com/ShishirPatil/gorilla
 
+[How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+
 
 ## online videos and blogs
 
