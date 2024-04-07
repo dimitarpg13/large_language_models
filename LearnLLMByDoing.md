@@ -17,3 +17,5 @@
 [Let's build GPT: from scratch, in code, spelled out, Andrej Karpathy, Feb, 2023, youtube video](https://youtu.be/kCc8FmEb1nY)
 
 [GPT in 60 Lines of NumPy, Jay Mody, Jan 30, 2023, online blog](https://jaykmody.com/blog/gpt-from-scratch/)
+
+[No GPU? No problem. localllm lets you develop gen AI apps on local CPUs, Geoffrey Anderson, Christie Warwick](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
