@@ -20,7 +20,19 @@
 
 [No GPU? No problem. localllm lets you develop gen AI apps on local CPUs, Geoffrey Anderson, Christie Warwick, Google Cloud](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 
-[How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, April 2024](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+[How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, April 2024, TDS Medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+
+[A BERT for laptops, from scratch, github repo](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
+
+[The easiest way to run an LLM locally on your Mac, Jeremy Morgan, Jan 2024, online blog](https://www.jeremymorgan.com/blog/generative-ai/how-to-llm-local-mac-m1/)
+
+[Can You Run a Large Language Model (LLM) Locally on an M1 MacBook Air with only 16 GB of Memory ? Dennis Layton, Jan 2024, Medium](https://medium.com/@dlaytonj2/can-you-run-a-large-language-model-llm-locally-on-an-m1-macbook-air-with-only-16-gb-of-memory-cd9741af27bb)
+
+[Run Llama Without a GPU! Quantized LLM with LLMWare and Quantized Dragon, Shanglun Wang, Jan 7th, 2024](https://hackernoon.com/run-llama-without-a-gpu-quantized-llm-with-llmware-and-quantized-dragon)
+
+[How to Locally Run a ChatGPT-Like LLM on Your PC and Mac, Arjun Sha, Sept 2023, online blog](https://beebom.com/how-run-chatgpt-like-language-model-pc-offline/)
+
+[Running LLM’s Locally: A Step-by-Step Guide, mydeveloperplanet, Dec 2023, online blog](https://mydeveloperplanet.com/2023/12/13/running-llms-locally-a-step-by-step-guide/)
 
 ## a bit of Theory + jupyter notebooks on Transformers
 
