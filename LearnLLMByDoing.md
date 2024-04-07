@@ -72,4 +72,15 @@ related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awe
 
 # Frameworks and software packages
 
+## Starcoder
+
+https://techcrunch.com/2024/02/28/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus/
+https://developer.nvidia.com/blog/unlock-your-llm-coding-potential-with-starcoder2/
+https://huggingface.co/blog/starcoder2
+[StarCoder 2 and The Stack v2: The Next Generation, Anthon Lozhkov et al, NVIDIA, various universitites, 2024](https://drive.google.com/file/d/17iGn3c-sYNiLyRSY-A85QOzgzGnGiVI3/view)
+https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/starcoder2-15b
+https://huggingface.co/bigcode/starcoder2-15b
+
+## Ray
+
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray, Robert Nishihara, Feb 2019](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
