@@ -70,3 +70,6 @@ related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awe
 
 [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
+# Frameworks and software packages
+
+[Modern Parallel and Distributed Python: A Quick Tutorial on Ray, Robert Nishihara, Feb 2019](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
