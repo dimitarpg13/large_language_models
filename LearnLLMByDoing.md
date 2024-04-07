@@ -70,7 +70,7 @@ related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awe
 
 [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
-# Frameworks and software packages
+# Frameworks and software packages enabling LLMs or using LLMs
 
 ## Starcoder
 
@@ -95,3 +95,30 @@ https://developer.apple.com/metal/pytorch/
 ## Ray
 
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray, Robert Nishihara, Feb 2019](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
+
+## AIOS
+
+AIOS (LLM Agent Operating System) is a new agent orchestration framework that embeds large language models into operating systems, creating an OS with a "brain" that can "understand".
+
+AIOS is designed for optimal resource allocation, facilitating context switches, concurrent execution, tool services for agents, access control, and providing a rich toolkit for developers.
+
+AIOS is based on several key agents that orchestrate the others. It consists of:
+
+* an Agent Scheduler for prioritizing agent requests, 
+
+* a Context Manager for managing interaction context, 
+
+* a Memory Manager for short-term memory, 
+
+* a Storage Manager for long-term data retention, 
+
+* a Tool Manager for managing external API tools, 
+
+* and a Access Manager for enforcing privacy and access control policies.
+
+Those agents communicate with the AIOS SDK in an interactive mode, along with non-LLM tasks coming from the OS Kernel (with the Process scheduler, the memory manager, etc).
+This architecture allows AIOS to integrate complex AI functionalities into traditional operating systems, enabling the development of more intelligent, responsive, and efficient applications that can leverage the full power of LLMs alongside conventional OS resources and capabilities.
+
+https://github.com/agiresearch/AIOS
+
+
