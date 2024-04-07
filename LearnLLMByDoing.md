@@ -16,6 +16,12 @@
 
 [Let's build GPT: from scratch, in code, spelled out, Andrej Karpathy, Feb, 2023, youtube video](https://youtu.be/kCc8FmEb1nY)
 
+[NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+
+   related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
+
+[The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
+
 [GPT in 60 Lines of NumPy, Jay Mody, Jan 30, 2023, online blog](https://jaykmody.com/blog/gpt-from-scratch/)
 
 [No GPU? No problem. localllm lets you develop gen AI apps on local CPUs, Geoffrey Anderson, Christie Warwick, Google Cloud](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
@@ -33,6 +39,7 @@
 [How to Locally Run a ChatGPT-Like LLM on Your PC and Mac, Arjun Sha, Sept 2023, online blog](https://beebom.com/how-run-chatgpt-like-language-model-pc-offline/)
 
 [Running LLM’s Locally: A Step-by-Step Guide, mydeveloperplanet, Dec 2023, online blog](https://mydeveloperplanet.com/2023/12/13/running-llms-locally-a-step-by-step-guide/)
+
 
 ## a bit of Theory + jupyter notebooks on Transformers
 
