@@ -18,4 +18,10 @@
 
 [GPT in 60 Lines of NumPy, Jay Mody, Jan 30, 2023, online blog](https://jaykmody.com/blog/gpt-from-scratch/)
 
-[No GPU? No problem. localllm lets you develop gen AI apps on local CPUs, Geoffrey Anderson, Christie Warwick](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
+[No GPU? No problem. localllm lets you develop gen AI apps on local CPUs, Geoffrey Anderson, Christie Warwick, Google Cloud](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
+
+[How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, April 2024](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+
+[Learning Transformers Code First: Part 1 — The Setup, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
+
+[Learning Transformers Code First Part 2 — GPT Up Close and Personal, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
