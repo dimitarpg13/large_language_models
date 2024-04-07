@@ -25,3 +25,7 @@
 [Learning Transformers Code First: Part 1 — The Setup, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
 
 [Learning Transformers Code First Part 2 — GPT Up Close and Personal, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
+
+[Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/natural-language-processing-with-transformers-revised-edition-book.pdf)
+
+   github repo with source code: https://github.com/nlp-with-transformers/notebooks
