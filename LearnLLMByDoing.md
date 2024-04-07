@@ -28,9 +28,26 @@
 
    github repo with source code: https://github.com/nlp-with-transformers/notebooks
 
-[Transformers Explained Visually — Not Just How, but Why They Work So Well, Ketan Doshi, Jun 2, 2021](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
-
 [Learning Transformers Code First: Part 1 — The Setup, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
 
 [Learning Transformers Code First Part 2 — GPT Up Close and Personal, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
+
+
+[The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
+    
+    related paper: [Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau et al, 2015](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NeuralMachineTranslationByJointlyLearningToAlignAndTranslateBahdanau2015.pdf)
+
+    related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/NLP/007%20-%20Transformers%20From%20Scratch)
+
+[Transformers — Intuitively and Exhaustively Explained with Daniel Warfield](https://towardsdatascience.com/transformers-intuitively-and-exhaustively-explained-58a5c5df8dbb)
+
+[De-coded: Transformers explained in plain English with Chris Hughes](https://towardsdatascience.com/de-coded-transformers-explained-in-plain-english-877814ba6429)
+
+[Transformers Explained Visually — Not Just How, but Why They Work So Well, Ketan Doshi, Jun 2, 2021](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
+
+[Transformers Explained Visually (Part 1): Overview of Functionality with Ketan DOshi, Dec 13, 2020](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
+
+[Transformers Explained Visually (Part 2): How it works, step-by-step with Ketan Doshi, Jan 2, 2021](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
+
+* [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
