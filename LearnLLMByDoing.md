@@ -86,6 +86,12 @@ https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/starcoder2
 
 https://huggingface.co/bigcode/starcoder2-15b
 
+## PyTorch
+
+### PyTorch on Apple MacBook Pro
+
+https://developer.apple.com/metal/pytorch/
+
 ## Ray
 
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray, Robert Nishihara, Feb 2019](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
