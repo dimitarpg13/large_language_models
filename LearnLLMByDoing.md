@@ -22,10 +22,15 @@
 
 [How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, April 2024](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
 
-[Learning Transformers Code First: Part 1 — The Setup, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
-
-[Learning Transformers Code First Part 2 — GPT Up Close and Personal, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
+## a bit of Theory + jupyter notebooks on Transformers
 
 [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/natural-language-processing-with-transformers-revised-edition-book.pdf)
 
    github repo with source code: https://github.com/nlp-with-transformers/notebooks
+
+[Transformers Explained Visually — Not Just How, but Why They Work So Well, Ketan Doshi, Jun 2, 2021](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
+
+[Learning Transformers Code First: Part 1 — The Setup, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/nanogpt-learning-transformers-code-first-part-1-f2044cf5bca0)
+
+[Learning Transformers Code First Part 2 — GPT Up Close and Personal, Lily Hughes-Robinson, July, 2023](https://towardsdatascience.com/learning-transformers-code-first-part-2-gpt-up-close-and-personal-1635b52ae0d7)
+
