@@ -49,5 +49,5 @@ related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awe
 
 [Transformers Explained Visually (Part 2): How it works, step-by-step with Ketan Doshi, Jan 2, 2021](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
 
-* [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+[Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
