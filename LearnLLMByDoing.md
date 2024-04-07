@@ -35,9 +35,9 @@
 
 [The A-Z of Transformers: Everything You Need to Know with François Porcher](https://towardsdatascience.com/the-a-z-of-transformers-everything-you-need-to-know-c9f214c619ac)
     
-    related paper: [Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau et al, 2015](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NeuralMachineTranslationByJointlyLearningToAlignAndTranslateBahdanau2015.pdf)
+related paper: [Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau et al, 2015](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/NeuralMachineTranslationByJointlyLearningToAlignAndTranslateBahdanau2015.pdf)
 
-    related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/NLP/007%20-%20Transformers%20From%20Scratch)
+related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awesome-ai-tutorials/tree/main/NLP/007%20-%20Transformers%20From%20Scratch)
 
 [Transformers — Intuitively and Exhaustively Explained with Daniel Warfield](https://towardsdatascience.com/transformers-intuitively-and-exhaustively-explained-58a5c5df8dbb)
 
