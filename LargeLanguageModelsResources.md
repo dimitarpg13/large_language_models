@@ -2,6 +2,8 @@
 
 ## articles
 
+* [ReALM:Reference Resolution As Language Modeling, Joel Ruben Antony Moniz et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/ReALM-Reference_Resolution_As_Language_Modeling_Moniz_Apple_2024.pdf)
+
 * [A Neural Probabilistic Language Model, Y. Bengio et al, 2003](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Neural_Probabilistic_Language_Model_bengio03a.pdf)
 
 * [Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey, X. Liu et al, U of Maryland College Park, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Large_Language_Models_and_Causal_Inference_in_Collaboration-A_Comprehensive_Survey_Liu_UofMarylandCP_2024.pdf)
