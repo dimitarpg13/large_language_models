@@ -61,6 +61,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Branch-Solve-Merge Improves Large Language Model Evaluation and Generation, S. Saha et al, UNC Chapel Hill, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Branch-Solve-Merge_Improves_Large_Language_Model_Evaluation_and_Generation_Saha_UNCChapelHill_2023.pdf)
 
+* [Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Introduction_to_Transformers-a_NLP_Perspective_Xiao_2023.pdf)
+
 * [Transformers Learn In-Context by Gradient Descent, Oswald et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_Learn_In-Context_by_Gradient_Descent_Oswald_2023.pdf)
 
 * [Transformers as Algorithms: Generalization and Stability in In-context Learning, Li et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
@@ -201,6 +203,8 @@ relevant repos:
   * https://github.com/ShishirPatil/gorilla/tree/main/raft
   * https://github.com/ShishirPatil/gorilla
 
+[How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+
 
 ## online videos and blogs
 
@@ -302,9 +306,7 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
     related paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu et al, CMU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2024.pdf)
 
-* RLAIF: Reinforcement Learning from AI Feedback with Cameron R. Wolfe, Jan, 2024
-
-    https://towardsdatascience.com/rlaif-reinforcement-learning-from-ai-feedback-d7dbdae8f093
+* [RLAIF: Reinforcement Learning from AI Feedback with Cameron R. Wolfe, Jan, 2024](https://towardsdatascience.com/rlaif-reinforcement-learning-from-ai-feedback-d7dbdae8f093)
 
     related paper: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback, Harrison Lee et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RLAIF-Scaling_Reinforcement_Learning_from_Human_Feedback_with_AI_Feedback_Lee_2023.pdf)
 
@@ -324,8 +326,8 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 
     related paper: [Learning to summarize from human feedback, N. Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2022.pdf)
 
-* Mistral AI vs. Meta: Comparing Top Open-source LLMs with Luis Roque, Jan 2024
+* [Mistral AI vs. Meta: Comparing Top Open-source LLMs with Luis Roque, Jan 2024](https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e)
 
-    https://towardsdatascience.com/mistral-ai-vs-meta-comparing-top-open-source-llms-565c1bc1516e
+* [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
 
-
+* [How to Build a Local Open-Source LLM Chatbot With RAG, Dr. Leon Eversberg, April, 2024](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
