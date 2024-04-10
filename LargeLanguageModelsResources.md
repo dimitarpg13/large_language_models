@@ -1,6 +1,7 @@
 # Large Language Models Resources
 
 ## articles
+* [Formal Aspects of Language Modeling, Ryan Cotterell, Anej Svete, Clara Meister, Tianyu Liu and Li Du, Lecture Notes, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Formal_Aspects_of_Language_Modeling_Ryan_Cotterell_2023.pdf)
 
 * [ReALM:Reference Resolution As Language Modeling, Joel Ruben Antony Moniz et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/ReALM-Reference_Resolution_As_Language_Modeling_Moniz_Apple_2024.pdf)
 
