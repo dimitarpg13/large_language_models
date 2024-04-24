@@ -16,6 +16,8 @@
 
 [Let's build GPT: from scratch, in code, spelled out, Andrej Karpathy, Feb, 2023, youtube video](https://youtu.be/kCc8FmEb1nY)
 
+[LLM training in simple, pure C/CUDA, Andrej Karpathy source code of LLM written entirely in C/Cuda](https://github.com/karpathy/llm.c)
+
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
    related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
