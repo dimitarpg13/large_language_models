@@ -200,6 +200,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
   
 * [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
 
+### Retrieval-Augmented Generation (RAG)
+
+[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
+
 ### Retrieval-Augmented Fine Tuning (RAFT)
 
 [RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
