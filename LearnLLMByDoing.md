@@ -88,6 +88,16 @@ https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/starcoder2
 
 https://huggingface.co/bigcode/starcoder2-15b
 
+## OpenELM
+
+https://huggingface.co/apple/OpenELM
+
+https://machinelearning.apple.com/research/openelm
+
+https://github.com/apple/corenet
+
+paper: [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024]()
+
 ## PyTorch
 
 ### PyTorch on Apple MacBook Pro
