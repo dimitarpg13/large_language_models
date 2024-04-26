@@ -96,7 +96,7 @@ https://machinelearning.apple.com/research/openelm
 
 https://github.com/apple/corenet
 
-paper: [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024]()
+paper: [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
 
 ## PyTorch
 
