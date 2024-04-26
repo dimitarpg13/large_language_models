@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [FACtual enTailment fOr hallucInation Detection, Vipula Rawte et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/FACTOID-FACtual_enTailment_fOr_hallucInation_Detection_Rawte_2024.pdf)
+
 * [Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks, Kim et al, Korea U., Imperial College, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Small_Language_Models_Learn_Enhanced_Reasoning_Skills_from_Medical_Textbooks_Kim_2024.pdf)
 
 * [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
