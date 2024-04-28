@@ -214,6 +214,10 @@ relevant repo: https://github.com/google-research/text-to-text-transfer-transfor
 
 [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
 
+[TimeGPT: The First Foundation Model for Time Series Forecasting, Marco Peixeiro, October, 2023, Towards Data Science](https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a)
+
+[TimeGPT-1, Azul Garza, Max Mergenthaler-Canseco, Nixtla, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/TimeGPT-1_Garza_Nixtla_2023.pdf)
+
 ### Retrieval-Augmented Generation (RAG)
 
 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
