@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
+
 * [FACtual enTailment fOr hallucInation Detection, Vipula Rawte et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/FACTOID-FACtual_enTailment_fOr_hallucInation_Detection_Rawte_2024.pdf)
 
 * [Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks, Kim et al, Korea U., Imperial College, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Small_Language_Models_Learn_Enhanced_Reasoning_Skills_from_Medical_Textbooks_Kim_2024.pdf)
@@ -199,6 +201,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [Language Models are Unsupervised Multitask Learners, Alec Radford et al, 2018](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Models_are_Unsupervised_Multitask_Learners_Alec_Radford_OpenAI_2018.pdf)
   
 * [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
+
+### Time-series forecasting and classification tasks
+
+[MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
 
 ### Retrieval-Augmented Generation (RAG)
 
