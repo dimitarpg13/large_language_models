@@ -206,6 +206,14 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
 
+[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
+
+relevant repo: https://github.com/google-research/text-to-text-transfer-transformer
+
+[TimesFM: Google's Foundation Model For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/timesfm-googles-foundation-model)
+
+[MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
+
 ### Retrieval-Augmented Generation (RAG)
 
 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
