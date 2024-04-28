@@ -220,7 +220,7 @@ relevant repo: https://github.com/google-research/text-to-text-transfer-transfor
 
 [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, Vijay Ekambaram et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
 
-TTM model and source code: https://huggingface.co/ibm/TTM
+TTM model and source code: https://huggingface.co/ibm/TTM, https://github.com/IBM/tsfm/tree/main/tsfm_public/models/tinytimemixer
 
 ### Retrieval-Augmented Generation (RAG)
 
