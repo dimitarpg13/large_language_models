@@ -42,6 +42,7 @@
 
 [Running LLM’s Locally: A Step-by-Step Guide, mydeveloperplanet, Dec 2023, online blog](https://mydeveloperplanet.com/2023/12/13/running-llms-locally-a-step-by-step-guide/)
 
+[Controllable Agents for RAG, Llama Index, 2024](https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/agent_runner_rag_controllable/)
 
 ## a bit of Theory + jupyter notebooks on Transformers
 
