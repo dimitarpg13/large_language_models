@@ -204,6 +204,14 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
   
 * [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
 
+### Context Window representations and implementations
+
+* [Towards infinite LLM context windows, Towards Data Science, Krzysztof K. Zdeb, 2024](https://towardsdatascience.com/towards-infinite-llm-context-windows-e099225abaaf)
+
+* [RoFormer: Enhanced Transformer with Rotary Position Embedding, Jianlin Su et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RoFormer-Enhanced_Transformer_with_Rotary_Position_Embedding_Su_2023.pdf)
+
+* 
+
 ### Time-series forecasting and classification tasks
 
 [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
