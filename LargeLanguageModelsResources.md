@@ -214,6 +214,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training, D. Zhu et al, Peking U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/PoSE-Efficient_Context_Window_Extension_of_LLMs_via_Positional_Skip-wise_Training_Zhu_Peking_U_2024.pdf)
 
+* [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens, Y. Ding et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LongRoPE-Extending_LLM_Context_Window_Beyond_2_Million_Tokens_Ding_Microsoft_2024.pdf)
+
 ### Time-series forecasting and classification tasks
 
 [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
