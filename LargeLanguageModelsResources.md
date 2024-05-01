@@ -208,7 +208,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Towards infinite LLM context windows, Towards Data Science, Krzysztof K. Zdeb, 2024](https://towardsdatascience.com/towards-infinite-llm-context-windows-e099225abaaf)
 
-* [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RoFormer-Enhanced_Transformer_with_Rotary_Position_Embedding_Su_2023.pdf)
+* [RoFormer: Enhanced Transformer with Rotary Position Embedding, Jianlin Su et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RoFormer-Enhanced_Transformer_with_Rotary_Position_Embedding_Su_2023.pdf)
 
 * 
 
