@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text, Y. Guo et al, EP Paris, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Curious_Decline_of_Linguistic_Diversity-Training_Language_Models_on_Synthetic_Text_Guo_EPL_2024.pdf)
+
 * [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
 
 * [FACtual enTailment fOr hallucInation Detection, Vipula Rawte et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/FACTOID-FACtual_enTailment_fOr_hallucInation_Detection_Rawte_2024.pdf)
