@@ -218,6 +218,10 @@ relevant repo: https://github.com/google-research/text-to-text-transfer-transfor
 
 [TimeGPT-1, Azul Garza, Max Mergenthaler-Canseco, Nixtla, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/TimeGPT-1_Garza_Nixtla_2023.pdf)
 
+[Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, Vijay Ekambaram et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
+
+TTM model and source code: https://huggingface.co/ibm/TTM, https://github.com/IBM/tsfm/tree/main/tsfm_public/models/tinytimemixer
+
 ### Retrieval-Augmented Generation (RAG)
 
 [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
