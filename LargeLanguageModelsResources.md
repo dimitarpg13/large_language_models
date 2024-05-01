@@ -210,7 +210,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [RoFormer: Enhanced Transformer with Rotary Position Embedding, Jianlin Su et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RoFormer-Enhanced_Transformer_with_Rotary_Position_Embedding_Su_2023.pdf)
 
-* 
+* [YaRN: Efficient Context Window Extension of Large Language Models, B. Peng et al, U of Geneva, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/YaRN-Efficient_Context_Window_Extension_of_Large_Language_Models_Peng_UoGeneva_2023.pdf)
 
 ### Time-series forecasting and classification tasks
 
