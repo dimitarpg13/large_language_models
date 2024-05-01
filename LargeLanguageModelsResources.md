@@ -212,6 +212,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [YaRN: Efficient Context Window Extension of Large Language Models, B. Peng et al, U of Geneva, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/YaRN-Efficient_Context_Window_Extension_of_Large_Language_Models_Peng_UoGeneva_2023.pdf)
 
+* [PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training, D. Zhu et al, Peking U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/PoSE-Efficient_Context_Window_Extension_of_LLMs_via_Positional_Skip-wise_Training_Zhu_Peking_U_2024.pdf)
+
 ### Time-series forecasting and classification tasks
 
 [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
