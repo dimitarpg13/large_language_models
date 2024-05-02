@@ -218,6 +218,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens, Y. Ding et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LongRoPE-Extending_LLM_Context_Window_Beyond_2_Million_Tokens_Ding_Microsoft_2024.pdf)
 
+* [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
+
 ### Time-series forecasting and classification tasks
 
 * [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
