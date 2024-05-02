@@ -218,43 +218,43 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Time-series forecasting and classification tasks
 
-[MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
+* [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
 
-[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
+* [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Colin Raffel et al, Google, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Exploring_the_Limits_of_Transfer_Learning_with_a_Unified_Text-to-Text_Transformer_Raffel_2023.pdf)
 
-relevant repo: https://github.com/google-research/text-to-text-transfer-transformer
+    relevant repo: https://github.com/google-research/text-to-text-transfer-transformer
 
-[TimesFM: Google's Foundation Model For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/timesfm-googles-foundation-model)
+* [TimesFM: Google's Foundation Model For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/timesfm-googles-foundation-model)
 
-[MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
+* [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
 
-[TimeGPT: The First Foundation Model for Time Series Forecasting, Marco Peixeiro, October, 2023, Towards Data Science](https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a)
+* [TimeGPT: The First Foundation Model for Time Series Forecasting, Marco Peixeiro, October, 2023, Towards Data Science](https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a)
 
-[TimeGPT-1, Azul Garza, Max Mergenthaler-Canseco, Nixtla, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/TimeGPT-1_Garza_Nixtla_2023.pdf)
+* [TimeGPT-1, Azul Garza, Max Mergenthaler-Canseco, Nixtla, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/TimeGPT-1_Garza_Nixtla_2023.pdf)
 
-[Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, Vijay Ekambaram et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
+* [Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, Vijay Ekambaram et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Tiny_Time_Mixers-Fast_Pre-trained_Models_or_Enhanced_Zero_Few-Shot_Forecasting_of_Multivariate_Time_Series_Ekambaram_2024.pdf)
 
-TTM model and source code: https://huggingface.co/ibm/TTM, https://github.com/IBM/tsfm/tree/main/tsfm_public/models/tinytimemixer
+    TTM model and source code: https://huggingface.co/ibm/TTM, https://github.com/IBM/tsfm/tree/main/tsfm_public/models/tinytimemixer
 
 ### Retrieval-Augmented Generation (RAG)
 
-[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
+* [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
 
-[Retrieval-Augmented Generation for Large Language Models: A Survey, Y. gao et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Large_Language_Models-A_Survey_Gao_2024.pdf)
+* [Retrieval-Augmented Generation for Large Language Models: A Survey, Y. gao et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Large_Language_Models-A_Survey_Gao_2024.pdf)
 
 ### Retrieval-Augmented Fine Tuning (RAFT)
 
-[RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
+* [RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
 
-[RAFT: Adapting Language Model to Domain Specific RAG, T. Zhang et al, 2024 (blog)](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
+* [RAFT: Adapting Language Model to Domain Specific RAG, T. Zhang et al, 2024 (blog)](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
 
-[RAFT: Adapting Language Model to Domain Specific RAG, T. Zhang et al, 2024 (paper)](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RAFT-Adapting_Language_Model_to_Domain_Specific_RAG_Zhang_2024.pdf)
+* [RAFT: Adapting Language Model to Domain Specific RAG, T. Zhang et al, 2024 (paper)](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RAFT-Adapting_Language_Model_to_Domain_Specific_RAG_Zhang_2024.pdf)
 
 relevant repos:
   * https://github.com/ShishirPatil/gorilla/tree/main/raft
   * https://github.com/ShishirPatil/gorilla
 
-[How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+* [How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
 
 
 ## online videos and blogs
