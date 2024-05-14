@@ -44,6 +44,8 @@
 
 [Controllable Agents for RAG, Llama Index, 2024](https://docs.llamaindex.ai/en/stable/examples/agent/agent_runner/agent_runner_rag_controllable/)
 
+[Building a Million-Parameter LLM from Scratch Using Python - A Step-by-Step Guide to Replicating LLaMA Architecture, F. Khan, 2023](https://levelup.gitconnected.com/building-a-million-parameter-llm-from-scratch-using-python-f612398f06c2)
+
 ## a bit of Theory + jupyter notebooks on Transformers
 
 [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/natural-language-processing-with-transformers-revised-edition-book.pdf)
