@@ -46,6 +46,10 @@
 
 [Building a Million-Parameter LLM from Scratch Using Python - A Step-by-Step Guide to Replicating LLaMA Architecture, F. Khan, 2023](https://levelup.gitconnected.com/building-a-million-parameter-llm-from-scratch-using-python-f612398f06c2)
 
+[Building a RAG application from scratch using Python, LangChain, and the OpenAI API, Santiago Valdarrama, 2024](https://www.youtube.com/watch?v=BrsocJb-fAo)
+
+github repo: https://github.com/svpino/youtube-rag
+
 ## a bit of Theory + jupyter notebooks on Transformers
 
 [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/natural-language-processing-with-transformers-revised-edition-book.pdf)
