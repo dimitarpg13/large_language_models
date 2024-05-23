@@ -234,6 +234,14 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
 
+    relevant paper: [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting, K. Rasul et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf)
+
+    relevant paper: [A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf)
+
+    relevant paper: [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
+
+    relevant paper: [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
+
 * [TimeGPT: The First Foundation Model for Time Series Forecasting, Marco Peixeiro, October, 2023, Towards Data Science](https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a)
 
 * [TimeGPT-1, Azul Garza, Max Mergenthaler-Canseco, Nixtla, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/TimeGPT-1_Garza_Nixtla_2023.pdf)
