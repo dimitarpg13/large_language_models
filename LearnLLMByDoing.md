@@ -115,6 +115,16 @@ https://developer.apple.com/metal/pytorch/
 
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray, Robert Nishihara, Feb 2019](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
 
+## OpenDevin
+
+github repo: https://github.com/OpenDevin/OpenDevin
+
+Agents and Capabilities: https://opendevin.github.io/OpenDevin/modules/usage/agents
+
+System Architecture: https://opendevin.github.io/OpenDevin/modules/usage/architecture
+
+related paper: [Executable Code Actions Elicit Better LLM Agents, X. Wang et al, UIUC, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Executable_Code_Actions_Elicit_Better_LLM_Agents_Wang_2024.pdf)
+
 ## AIOS
 
 AIOS (LLM Agent Operating System) is a new agent orchestration framework that embeds large language models into operating systems, creating an OS with a "brain" that can "understand".
