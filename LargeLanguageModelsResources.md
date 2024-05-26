@@ -1,6 +1,10 @@
 # Large Language Models Resources
 
 ## articles
+* [States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers, Ian Gemp et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf)
+
+* [The Consensus Game: Language Model Generation via Equilibrium Search, Athul Paul Jacob et al, MIT, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/game_theory/The_Consensus_Game-Language_Model_Generation_via_Equilibrium_Search_Jacob_MIT_2024.pdf)
+
 * [Evaluating Reward Models for Language Modeling, N. Lambert et al, U. Washington, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Evaluating_Large_Language_Models_Trained_on_Code_OpenAI_2021.pdf)
 
 * [Jamba: AHybrid Transformer-Mamba Language Model, Opher Lieber et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Jamba-A_Hybrid_Transformer-Mamba_Language_Model_Lieber_2024.pdf)
