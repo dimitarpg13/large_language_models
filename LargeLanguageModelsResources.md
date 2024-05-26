@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [Evaluating Reward Models for Language Modeling, N. Lambert et al, U. Washington, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Evaluating_Large_Language_Models_Trained_on_Code_OpenAI_2021.pdf)
+
 * [Jamba: AHybrid Transformer-Mamba Language Model, Opher Lieber et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Jamba-A_Hybrid_Transformer-Mamba_Language_Model_Lieber_2024.pdf)
 
 * [Better & Faster Large Language Models via Multi-token Prediction, Fabian Gloeckle et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Better_Faster_Large_Language_Models_via_Multi-token_Prediction_Gloeckle_2024.pdf)
