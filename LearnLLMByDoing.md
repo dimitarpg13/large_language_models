@@ -18,6 +18,8 @@
 
 [LLM training in simple, pure C/CUDA, Andrej Karpathy source code of LLM written entirely in C/Cuda](https://github.com/karpathy/llm.c)
 
+[Let's build the GPT Tokenizer, Andrej Karpathy, Feb, 2024](https://www.youtube.com/watch?v=zduSFxRajkE)
+
 [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20, Andrej Karpathy, May, 2024, github discussion](https://github.com/karpathy/llm.c/discussions/481)
 
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
