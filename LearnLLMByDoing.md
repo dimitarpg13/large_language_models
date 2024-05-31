@@ -20,13 +20,21 @@
 
 [Let's build the GPT Tokenizer, Andrej Karpathy, Feb, 2024](https://www.youtube.com/watch?v=zduSFxRajkE)
 
+[The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
+
 [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20, Andrej Karpathy, May, 2024, github discussion](https://github.com/karpathy/llm.c/discussions/481)
 
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
    related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
 
-[The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
+[Tokenization — A Complete Guide on Byte-Pair Encoding, WordPiece and more including Python code, Bradney Smith, 2024](https://medium.com/@bradneysmith/tokenization-llms-from-scratch-1-cedc9f72de4e)
+
+[Word Embeddings with word2vec from Scratch in Python, Bradney Smith, 2024](https://medium.com/p/eb9326c6ab7c)
+
+[Self-Attention Explained with Code, Bradney Smith, 2024](https://medium.com/p/d7a9f0f4d94e)
+
+[A Complete Guide to BERT with Code,  Bradney Smith, 2024](https://towardsdatascience.com/a-complete-guide-to-bert-with-code-9f87602e4a11)
 
 [GPT in 60 Lines of NumPy, Jay Mody, Jan 30, 2023, online blog](https://jaykmody.com/blog/gpt-from-scratch/)
 
