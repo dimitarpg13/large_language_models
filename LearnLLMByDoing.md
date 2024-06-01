@@ -38,6 +38,8 @@
 
 [GPT in 60 Lines of NumPy, Jay Mody, Jan 30, 2023, online blog](https://jaykmody.com/blog/gpt-from-scratch/)
 
+[Fine-Tune Smaller NLP Models for Specific Use Cases, Ida Silfverskiöld, 2023](https://levelup.gitconnected.com/fine-tune-smaller-nlp-models-with-hugging-face-for-specific-use-cases-1745813471dc)
+
 [No GPU? No problem. localllm lets you develop gen AI apps on local CPUs, Geoffrey Anderson, Christie Warwick, Google Cloud](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 
 [How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, April 2024, TDS Medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
