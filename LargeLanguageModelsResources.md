@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [To Believe or Not to Believe Your LLM, Yasin Abbasi Yadkori et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/To_Believe_or_Not_to_Believe_Your_LLM_Yadkori_DeepMind_2024.pdf)
+
 * [States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers, Ian Gemp et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf)
 
 * [The Consensus Game: Language Model Generation via Equilibrium Search, Athul Paul Jacob et al, MIT, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/game_theory/The_Consensus_Game-Language_Model_Generation_via_Equilibrium_Search_Jacob_MIT_2024.pdf)
