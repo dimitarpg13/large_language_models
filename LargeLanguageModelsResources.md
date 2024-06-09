@@ -285,6 +285,10 @@ relevant repos:
 
 * [How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
 
+### The Attention Mechanicsm in Large Language Models
+
+* [Contextual Position Encoding: Learning to Count What's Important, O. Golovneva et al, Meta, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf)
+
 
 ## online videos and blogs
 
