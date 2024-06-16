@@ -26,6 +26,10 @@
 
 [Let's reproduce GPT-2 (124M), Andrej Karpathy, June, 2024](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
+Sebastian Rashka's Build LLM from scratch:
+
+github repository: https://github.com/rasbt/LLMs-from-scratch
+
 [GPT from Scratch with MLX: Define and train GPT-2 on your MacBook, Pranav Jadhav, June 2024, Medium](https://towardsdatascience.com/gpt-from-scratch-with-mlx-acf2defda30e)
 
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
