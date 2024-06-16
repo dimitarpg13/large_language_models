@@ -24,6 +24,8 @@
 
 [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20, Andrej Karpathy, May, 2024, github discussion](https://github.com/karpathy/llm.c/discussions/481)
 
+[Let's reproduce GPT-2 (124M), Andrej Karpathy, June, 2024](https://www.youtube.com/watch?v=l8pRSuU81PU)
+
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
    related Github repo: https://github.com/pytorch/tutorials/blob/main/intermediate_source/seq2seq_translation_tutorial.py
