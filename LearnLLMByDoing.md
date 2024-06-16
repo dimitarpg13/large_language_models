@@ -18,7 +18,7 @@
 
 [LLM training in simple, pure C/CUDA, Andrej Karpathy source code of LLM written entirely in C/Cuda](https://github.com/karpathy/llm.c)
 
-[Let's build the GPT Tokenizer, Andrej Karpathy, Feb, 2024](https://www.youtube.com/watch?v=zduSFxRajkE)
+[Let's build the GPT Tokenizer, Andrej Karpathy, Feb, 2024, youtube video](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 [The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
 
