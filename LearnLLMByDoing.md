@@ -18,11 +18,19 @@
 
 [LLM training in simple, pure C/CUDA, Andrej Karpathy source code of LLM written entirely in C/Cuda](https://github.com/karpathy/llm.c)
 
-[Let's build the GPT Tokenizer, Andrej Karpathy, Feb, 2024](https://www.youtube.com/watch?v=zduSFxRajkE)
+[Let's build the GPT Tokenizer, Andrej Karpathy, Feb, 2024, youtube video](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 [The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
 
 [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20, Andrej Karpathy, May, 2024, github discussion](https://github.com/karpathy/llm.c/discussions/481)
+
+[Let's reproduce GPT-2 (124M), Andrej Karpathy, June, 2024](https://www.youtube.com/watch?v=l8pRSuU81PU)
+
+Sebastian Rashka's Build LLM from scratch:
+
+github repository: https://github.com/rasbt/LLMs-from-scratch
+
+[GPT from Scratch with MLX: Define and train GPT-2 on your MacBook, Pranav Jadhav, June 2024, Medium](https://towardsdatascience.com/gpt-from-scratch-with-mlx-acf2defda30e)
 
 [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention, Sean Robertson, PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
