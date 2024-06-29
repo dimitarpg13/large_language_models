@@ -257,6 +257,11 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
     relevant paper: [Unified Training of Universal Time Series Forecasting Transformers, Woo, G et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf)
 
+* [How to Effectively Forecast Time Series with Amazon's New Time Series Forecasting Model, Eivind Kjosbakken, April 9, 2024, Towards Data Science](https://towardsdatascience.com/how-to-effectively-forecast-time-series-with-amazons-new-time-series-forecasting-model-9e04d4ccf67e)
+
+    relevant paper: [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
+
+
 * [TimeGPT: The First Foundation Model for Time Series Forecasting, Marco Peixeiro, October, 2023, Towards Data Science](https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a)
 
 * [TimeGPT-1, Azul Garza, Max Mergenthaler-Canseco, Nixtla, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/TimeGPT-1_Garza_Nixtla_2023.pdf)
