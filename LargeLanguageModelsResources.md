@@ -294,6 +294,11 @@ relevant repos:
 
 * [Contextual Position Encoding: Learning to Count What's Important, O. Golovneva et al, Meta, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf)
 
+### Compiler Optimization using LLM
+
+* [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization, C. Cummins et al, MetaAI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/compiler_optimization/Meta_Large_Language_Model_Compiler-Foundation_Models_of_Compiler_Optimization_Cummins_MetaAI_2024.pdf)
+
+  huggingface repo: [LLM compiler](https://huggingface.co/collections/facebook/llm-compiler-667c5b05557fe99a9edd25cb)
 
 ## online videos and blogs
 
