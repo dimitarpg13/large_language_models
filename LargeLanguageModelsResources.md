@@ -237,7 +237,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 ### Time-series forecasting and classification tasks
 * [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://towardsdatascience.com/itransformer-the-latest-breakthrough-in-time-series-forecasting-d538ddc6c5d1)
 
-    relevant paper: [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting, Yong Liu et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
+    relevant paper: [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting, Yong Liu et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
 
 * [MOMENT: A Foundation Model for Time Series Forecasting, Classification, Anomaly Detection, Nikos Kafritsas, Apr 27, 2024, Medium](https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76)
 
