@@ -249,7 +249,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [MOIRAI: Salesforce's Foundation Transformer For Time-Series Forecasting, Nikos Kafritas, 2023, AI Horizon Forecast](https://aihorizonforecast.substack.com/p/moirai-salesforces-foundation-transformer)
 
-    relevant paper: [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting, K. Rasul et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf)
+    relevant paper: [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting, K. Rasul et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf)
 
     relevant paper: [A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf)
 
