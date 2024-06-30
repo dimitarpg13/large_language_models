@@ -270,6 +270,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
     TTM model and source code: https://huggingface.co/ibm/TTM, https://github.com/IBM/tsfm/tree/main/tsfm_public/models/tinytimemixer
 
+* [Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U. of Virginia, U. of Washington, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
+
 ### Retrieval-Augmented Generation (RAG)
 
 * [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
