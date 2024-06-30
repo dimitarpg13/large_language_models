@@ -294,6 +294,12 @@ relevant repos:
 
 * [Contextual Position Encoding: Learning to Count What's Important, O. Golovneva et al, Meta, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf)
 
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, T. Dao et al, Stanford U., 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/FlashAttention-Fast_and_Memory-Efficient_Exact_Attention_with_IO-Awareness_Stanford_2022.pdf)
+
+* [HyperAttention: Long COntext Attention in Near Linear Time, Insu Han et al, Yale, Google Research, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/HyperAttention-Long-context_Attention_in_Near-Linear_Time_Han_2023.pdf)
+
+* [Augmenting Language Models with Long Term Memory, W. Wang et al, UC Santa Barbara, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Augmenting_Language_Models_with_Long-Term_Memory_Wang_2023.pdf)
+
 ### Compiler Optimization using LLM
 
 * [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization, C. Cummins et al, MetaAI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/compiler_optimization/Meta_Large_Language_Model_Compiler-Foundation_Models_of_Compiler_Optimization_Cummins_MetaAI_2024.pdf)
