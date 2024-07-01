@@ -251,7 +251,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
     relevant paper: [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting, K. Rasul et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf)
 
-    relevant paper: [A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf)
+    relevant paper: [A decoder-only foundation model for time-series forecasting, A. Das et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf)
 
     relevant paper: [Chronos: Learning the Language of Time Series, AF Ansari et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf)
 
