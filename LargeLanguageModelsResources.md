@@ -198,6 +198,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
 
+* [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold, A. Setlur et al, CMU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf)
+
 ### Theorem Proving
 
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, Tsinghua U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_TsinghuaU_2024.pdf)
