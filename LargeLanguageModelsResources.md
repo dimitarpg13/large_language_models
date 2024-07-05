@@ -282,8 +282,9 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [From Local to Global: A Graph RAG Approach to Query-Focused Summarization, Darren Edge et al, Microsoft Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rag/From_Local_to_Global-A_Graph_RAG_Approach_to_Query-Focused_Summarization_Edge_Microsoft_2024.pdf)
 
-relevant repo: https://github.com/microsoft/graphrag
-relevant online article: https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/
+    relevant repo: https://github.com/microsoft/graphrag
+
+    relevant online article: https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/
 
 ### Retrieval-Augmented Fine Tuning (RAFT)
 
