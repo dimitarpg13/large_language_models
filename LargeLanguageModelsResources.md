@@ -286,6 +286,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
     relevant online article: https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/
 
+* [Searching for Best Practices in Retrieval-Augmented Generation, X. Wang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rag/Searching_for_Best_Practices_in_Retrieval_Augmented_Generation_Wang_2024.pdf)
+
 ### Retrieval-Augmented Fine Tuning (RAFT)
 
 * [RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
