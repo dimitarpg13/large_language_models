@@ -65,4 +65,7 @@ articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_wi
 articles/time_series_forecasting/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/time_series_forecasting/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf filter=lfs diff=lfs merge=lfs -text
+articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/rag/Retrieval-Augmented_Generation_for_Large_Language_Models-A_Survey_Gao_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/time_series_forecasting/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf filter=lfs diff=lfs merge=lfs -text
 
