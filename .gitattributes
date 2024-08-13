@@ -55,3 +55,14 @@ articles/compiler_optimization/Meta_Large_Language_Model_Compiler-Foundation_Mod
 articles/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/rag/From_Local_to_Global-A_Graph_RAG_Approach_to_Query-Focused_Summarization_Edge_Microsoft_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/A_Comprehensive_Overview_of_Large_Language_Models_Naveed_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Chronos-Learning_the_Language_of_Time_Series_Fatir_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Executable_Code_Actions_Elicit_Better_LLM_Agents_Wang_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Jamba-A_Hybrid_Transformer-Mamba_Language_Model_Lieber_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Small_Language_Models_Learn_Enhanced_Reasoning_Skills_from_Medical_Textbooks_Kim_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Unified_Training_of_Universal_Time_Series_Forecasting_Transformers_Woo_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/time_series_forecasting/A_decoder-only_foundation_model_for_time-series_forecasting_Das_2023.pdf filter=lfs diff=lfs merge=lfs -text
+articles/time_series_forecasting/Lag-Llama-Towards_Foundation_Models_for_Probabilistic_Time_Series_Forecasting_Rasul_2023.pdf filter=lfs diff=lfs merge=lfs -text
+articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf filter=lfs diff=lfs merge=lfs -text
+
