@@ -1,6 +1,8 @@
 # Large Language Models Resources
 
 ## articles
+* [LLM Pruning and Distillation in Practice: The Minitron Approach, ST Sreenivas et al, NVidia, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_Pruning_and_Distillation_in_Practice-The_Minitron_Approach_Sriinivas_2024.pdf)
+
 * [To Believe or Not to Believe Your LLM, Yasin Abbasi Yadkori et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/To_Believe_or_Not_to_Believe_Your_LLM_Yadkori_DeepMind_2024.pdf)
 
 * [States as Strings as Strategies: Steering Language Models with Game-Theoretic Solvers, Ian Gemp et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/game_theory/States_as_Strings_as_Strategies-Steering_Language_Models_with_Game-Theoretic_Solvers_Gemp_DeepMind_2024.pdf)
