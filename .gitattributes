@@ -68,4 +68,4 @@ articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effectiv
 articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/rag/Retrieval-Augmented_Generation_for_Large_Language_Models-A_Survey_Gao_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/time_series_forecasting/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf filter=lfs diff=lfs merge=lfs -text
-
+articles/LLM_Pruning_and_Distillation_in_Practice-The_Minitron_Approach_Sriinivas_2024.pdf filter=lfs diff=lfs merge=lfs -text
