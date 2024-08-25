@@ -326,7 +326,7 @@ relevant repos:
 
 * [LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide, Jeffrey Ip, online article, 2024](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
 
-* confident-ai repo for LLM evaluation: https://github.com/confident-ai/deepeval
+* `confident-ai` repo for LLM evaluation: https://github.com/confident-ai/deepeval
 
 * [Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions, T. Hu et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Unveiling_LLM_Evaluation_Focused_on_Metrics-Challenges_and_Solutions_Hu_2024.pdf)
 
