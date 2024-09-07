@@ -196,11 +196,16 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
-* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_Stanford_2024.pdf)
+* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
 
-* [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
+* [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning, E. Zelikman et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/STaR-Self-Taught_Reasoner_Bootstrapping_Reasoning_With_Reasoning_Zelikman_2022.pdf)
 
 * [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold, A. Setlur et al, CMU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf)
+
+* [Improve Mathematical Reasoning in Language Models by Automated Process Supervision, L. Luo et al, DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Improve_Mathematical_Reasoning_in_Language_Models_by_Automated_Process_Supervision_Luo_2024.pdf)
+
+* [Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
+
 
 ### Theorem Proving
 
