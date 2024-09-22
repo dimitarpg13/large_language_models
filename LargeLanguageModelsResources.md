@@ -342,7 +342,7 @@ relevant repos:
 
 ## LLM anti-hype reading list
 
-* [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+* [[The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 
 ## online videos and blogs
 
