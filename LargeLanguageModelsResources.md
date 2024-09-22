@@ -206,6 +206,9 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
 
+### Reinforcement Learning Techniques in LLM
+
+* [Training Language Models to Self-Correct via Reinforcement Learning, Aviral Kumar et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Training_Language_Models_to_Self-Correct_via_Reinforcement_Learning_Kumar_2024.pdf)
 
 ### Theorem Proving
 
