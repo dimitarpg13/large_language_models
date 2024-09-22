@@ -340,6 +340,10 @@ relevant repos:
 
 * [Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions, T. Hu et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Unveiling_LLM_Evaluation_Focused_on_Metrics-Challenges_and_Solutions_Hu_2024.pdf)
 
+## LLM anti-hype reading list
+
+* [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+
 ## online videos and blogs
 
 * [GPT in 60 lines of NumPy code with Jay Mody, blog, (January, 2023)](https://jaykmody.com/blog/gpt-from-scratch/)
