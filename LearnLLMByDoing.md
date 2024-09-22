@@ -74,9 +74,9 @@ github repo: https://github.com/svpino/youtube-rag
 
 [Local RAG From Scratch, Medium, Joe Sasson, 2024](https://towardsdatascience.com/local-rag-from-scratch-3afc6d3dea08)
 
-## LLM Anti-Hyper Reading List
+## LLM Anti-Hype Reading List
 
-[Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+[The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 
 ## a bit of Theory + jupyter notebooks on Transformers
 
