@@ -350,6 +350,8 @@ relevant repos:
   
   [code samples](https://github.com/veekaybee/what_are_embeddings/tree/main/notebooks)
 
+* [Language Modeling is Compression, G. Deletang et al, ICRL 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Modeling_Is_Compression_Deletang_ICLR2024.pdf) 
+
 ## online videos and blogs
 
 * [GPT in 60 lines of NumPy code with Jay Mody, blog, (January, 2023)](https://jaykmody.com/blog/gpt-from-scratch/)
