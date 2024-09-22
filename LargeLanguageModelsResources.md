@@ -350,7 +350,9 @@ relevant repos:
   
   [code samples](https://github.com/veekaybee/what_are_embeddings/tree/main/notebooks)
 
-* [Language Modeling is Compression, G. Deletang et al, ICRL 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Modeling_Is_Compression_Deletang_ICLR2024.pdf) 
+* [Language Modeling is Compression, G. Deletang et al, ICRL 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Modeling_Is_Compression_Deletang_ICLR2024.pdf)
+
+* [Long Term Memory in LLM: notes on Vector Search and DB](https://github.com/edoliberty/vector-search-class-notes)
 
 ## online videos and blogs
 
