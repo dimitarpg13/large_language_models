@@ -206,6 +206,9 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
 
+### Reinforcement Learning Techniques in LLM
+
+* [Training Language Models to Self-Correct via Reinforcement Learning, Aviral Kumar et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Training_Language_Models_to_Self-Correct_via_Reinforcement_Learning_Kumar_2024.pdf)
 
 ### Theorem Proving
 
@@ -336,6 +339,16 @@ relevant repos:
 * `confident-ai` repo for LLM evaluation: https://github.com/confident-ai/deepeval
 
 * [Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions, T. Hu et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Unveiling_LLM_Evaluation_Focused_on_Metrics-Challenges_and_Solutions_Hu_2024.pdf)
+
+## LLM anti-hype reading list
+
+* [The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+
+* What are empdeddings?
+
+  [pdf document](https://github.com/veekaybee/what_are_embeddings/blob/main/embeddings.pdf)
+  
+  [code samples](https://github.com/veekaybee/what_are_embeddings/tree/main/notebooks)
 
 ## online videos and blogs
 

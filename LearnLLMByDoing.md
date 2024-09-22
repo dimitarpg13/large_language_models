@@ -74,6 +74,10 @@ github repo: https://github.com/svpino/youtube-rag
 
 [Local RAG From Scratch, Medium, Joe Sasson, 2024](https://towardsdatascience.com/local-rag-from-scratch-3afc6d3dea08)
 
+## LLM Anti-Hype Reading List
+
+[The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+
 ## a bit of Theory + jupyter notebooks on Transformers
 
 [Natural Language Processing with Transformers, Lewis Tunstall, Leandro von Werra, Thomas Wolf, 2022](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/natural-language-processing-with-transformers-revised-edition-book.pdf)
