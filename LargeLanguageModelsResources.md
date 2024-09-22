@@ -344,6 +344,12 @@ relevant repos:
 
 * [The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 
+* What are empdeddings?
+
+  [pdf document](https://github.com/veekaybee/what_are_embeddings/blob/main/embeddings.pdf)
+  
+  [code samples](https://github.com/veekaybee/what_are_embeddings/tree/main/notebooks)
+
 ## online videos and blogs
 
 * [GPT in 60 lines of NumPy code with Jay Mody, blog, (January, 2023)](https://jaykmody.com/blog/gpt-from-scratch/)
