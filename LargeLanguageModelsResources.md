@@ -1,6 +1,9 @@
 # Large Language Models Resources
 
 ## articles
+
+* [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
+
 * [LLM Pruning and Distillation in Practice: The Minitron Approach, ST Sreenivas et al, NVidia, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_Pruning_and_Distillation_in_Practice-The_Minitron_Approach_Sriinivas_2024.pdf)
 
 * [To Believe or Not to Believe Your LLM, Yasin Abbasi Yadkori et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/To_Believe_or_Not_to_Believe_Your_LLM_Yadkori_DeepMind_2024.pdf)
@@ -195,6 +198,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
 
 ### Human-like Reasoning and Representation Learning
+
+* [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
 
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
 
