@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Addition is All You Need for Energy-efficient Language Models, H. Luo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/optimizations_in_llm/Addition_is_All_You_Need_for_Energy-efficient_Language_Models_Luo_2024.pdf)
+
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
 
 * [LLM Pruning and Distillation in Practice: The Minitron Approach, ST Sreenivas et al, NVidia, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_Pruning_and_Distillation_in_Practice-The_Minitron_Approach_Sriinivas_2024.pdf)
