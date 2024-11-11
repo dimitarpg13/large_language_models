@@ -219,6 +219,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Asymptotics of Language Model Alignment, Joy Qiping Yang et al, U. of Sydney, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Asymptotics_of_Language_Model_Alignment_Yang_2024.pdf)
 
+* [Controlled Decoding from Language Models, Sidharth Mudgal et al, 2024](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/articles/ReinforcementLearning/reinforcement_learning_from_human_feedback/Controlled_Decoding_from_Language_Models_Mudgal_2024.pdf)
+
 * [RL with KL penalties is better viewed as Bayesian inference, Tomasz Korbak et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/RL_with_KL_penalties_is_better_viewed_as_Bayesian_inference_Korbak_2022.pdf)
 
 ### Theorem Proving
