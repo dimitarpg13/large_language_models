@@ -215,6 +215,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [Robust Preference Optimization through Reward Model Distillation, Adam Fisch et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Robust_Preference_Optimization_through_Reward_Model_Distillation_Fisch_2024.pdf)
+
 * [Training Language Models to Self-Correct via Reinforcement Learning, Aviral Kumar et al, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Training_Language_Models_to_Self-Correct_via_Reinforcement_Learning_Kumar_2024.pdf)
 
 * [Asymptotics of Language Model Alignment, Joy Qiping Yang et al, U. of Sydney, Google DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Asymptotics_of_Language_Model_Alignment_Yang_2024.pdf)
