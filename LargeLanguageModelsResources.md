@@ -199,7 +199,12 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
 
+### LLM-inspired techniques in statistical learning
+
+* [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
+
 ### Human-like Reasoning and Representation Learning
+* [softmax is not enough (for sharp out-of-distribution), Peter Velickovic et al, DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/softmax_is_not_enough_for_sharp_out-of-distribution_Velickovic_2024.pdf)
 
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
 
@@ -226,6 +231,12 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [RL with KL penalties is better viewed as Bayesian inference, Tomasz Korbak et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/RL_with_KL_penalties_is_better_viewed_as_Bayesian_inference_Korbak_2022.pdf)
 
 * [Vanishing Gradients in Reinforcement finetuning of Language Models, Noam Razin et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Vanishing_Gradients_in_Reinforcement_Finetuning_of_Language_Models_Razin_2024.pdf)
+
+### Neural Scaling
+
+* [LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, T. Liu et al, Cornell U, ICL, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MC_learning/LLMs_learn_governing_principles_of_dynamical_systems_revealing_an_in-context_neural_scaling_law_Liu_2024.pdf)
+
+* [Large Language Models as Markov Chains, O. Zekri et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MC_learning/Large_Language_Models_as_Markov_Chains_Zekri_2024.pdf)
 
 ### Theorem Proving
 
@@ -356,6 +367,8 @@ relevant repos:
 * `confident-ai` repo for LLM evaluation: https://github.com/confident-ai/deepeval
 
 * [Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions, T. Hu et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Unveiling_LLM_Evaluation_Focused_on_Metrics-Challenges_and_Solutions_Hu_2024.pdf)
+
+* [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations, Evan Milller, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Adding_Error_Bars_to_Evals-A_Statistical_Approach_to_Language_Model_Evaluations_Miller_2024.pdf)
 
 ## LLM anti-hype reading list
 
