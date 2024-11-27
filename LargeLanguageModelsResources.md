@@ -502,3 +502,15 @@ with human feedback, Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/
 * [Text Embeddings, Classification, and Semantic Search, Shaw Talebi, March 2024](https://towardsdatascience.com/text-embeddings-classification-and-semantic-search-8291746220be)
 
 * [How to Build a Local Open-Source LLM Chatbot With RAG, Dr. Leon Eversberg, April, 2024](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+
+* [What is a 1-bit LLM? — Bitnet.cpp may eliminate GPUs, Don Lim, 2024](https://medium.com/@don-lim/what-is-1-bit-llm-bitnet-cpp-may-eliminate-gpus-54b6e0d7207b)
+
+    repo: https://github.com/microsoft/BitNet
+
+    related paper: [BitNet: Scaling 1-bit Transformers for Large Language Models, H. Wang et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/quantization/BitNet-Scaling_1-bit_Transformers_for_Large_Language_Models_Wang_2023.pdf)
+
+    related paper: [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, S. Ma et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/quantization/The_Era_of_1-bit_LLMs-All_Large_Language_Models_are_in_1.58_Bits_Ma_2024.pdf)
+
+    related online article: [Honey, I shrunk the LLM! A beginner's guide to quantization – and testing it, Tobias Mann, 2024](https://www.theregister.com/2024/07/14/quantization_llm_feature/)
+
+    related online article: [1-bit LLMs Could Solve AI’s Energy Demands “Imprecise” language models are smaller, speedier—and nearly as accurate, Matthew Hutson, IEEE Spectrum, 2024](https://spectrum.ieee.org/1-bit-llm)
