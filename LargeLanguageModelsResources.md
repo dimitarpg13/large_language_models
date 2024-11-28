@@ -206,6 +206,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 ### Human-like Reasoning and Representation Learning
 * [softmax is not enough (for sharp out-of-distribution), Peter Velickovic et al, DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/softmax_is_not_enough_for_sharp_out-of-distribution_Velickovic_2024.pdf)
 
+* [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models, ZR Tam et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Let_Me_Speak_Freely-A_Study_on_the_Impact_of_Format_Restrictions_on_Performance_of_Large_Language_Models_Tam_2024.pdf)
+
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
 
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_2024.pdf)
