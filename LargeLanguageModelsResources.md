@@ -337,6 +337,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Graph Retrieval-Augmented Generation: A Survey, B. Peng et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rag/Graph_Retrieval-Augmented_Generation-A_Survey_Peng_2024.pdf)
 
+* [AirRAG: Activating Intrinsic Reasoning for Retrieval Augmented Generation via Tree-based Search, W. Feng et al, Alibaba, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rag/AirRAG-Activating_Intrinsic_Reasoning_for_Retrieval_Augmented_Generation_via_Tree-based_Search_Wang_2025.pdf)
+
 ### Retrieval-Augmented Fine Tuning (RAFT)
 
 * [RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
