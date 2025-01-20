@@ -195,6 +195,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Are Long-LLMs A Necessity For Long-Context Tasks?, H. Qian et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Are_Long-LLMs_A_Necessity_For_Long-Context_Tasks_Qian_2024.pdf)
 
+* [Foundations of Large Language Models, T. Xiao et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Foundations_of_Large_Language_Models_Xiao_2025.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
