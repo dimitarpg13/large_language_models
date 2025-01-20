@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Deep Seek Technical Report, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/DeepSeek-V3_Technical_Report.pdf)
+
 * [Addition is All You Need for Energy-efficient Language Models, H. Luo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/optimizations_in_llm/Addition_is_All_You_Need_for_Energy-efficient_Language_Models_Luo_2024.pdf)
 
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
@@ -242,6 +244,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [RL with KL penalties is better viewed as Bayesian inference, Tomasz Korbak et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/RL_with_KL_penalties_is_better_viewed_as_Bayesian_inference_Korbak_2022.pdf)
 
 * [Vanishing Gradients in Reinforcement finetuning of Language Models, Noam Razin et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Vanishing_Gradients_in_Reinforcement_Finetuning_of_Language_Models_Razin_2024.pdf)
+
+* [Scaling Reinforcement Learning with LLMs, Technical Report, Kimi, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Scaling_RL_with_LLM_Kimi_k1.5.pdf)
+
+* [Deep Seek Prover v1.5 Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search, H. Xin et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/DeepSeek-Prover-V1.5-Harnessing_Proof_Assistant_Feedback_for_Reinforcement_Learning_and_Monte-Carlo_Tree_Search.pdf)
 
 ### Neural Scaling
 
