@@ -84,3 +84,4 @@ articles/Foundations_of_Large_Language_Models_Xiao_2025.pdf filter=lfs diff=lfs 
 articles/reinforcement_learning/DeepSeek-Prover-V1.5-Harnessing_Proof_Assistant_Feedback_for_Reinforcement_Learning_and_Monte-Carlo_Tree_Search.pdf filter=lfs diff=lfs merge=lfs -text
 articles/DeepSeek-V3_Technical_Report.pdf filter=lfs diff=lfs merge=lfs -text
 articles/reinforcement_learning/DeepSeek_R1-Incentivizing_Reasoning_Capability_in_LLMs_via_RL.pdf filter=lfs diff=lfs merge=lfs -text
+articles/reinforcement_learning/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf filter=lfs diff=lfs merge=lfs -text
