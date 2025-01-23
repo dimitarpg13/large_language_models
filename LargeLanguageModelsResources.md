@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Deep Seek Prover v1.5 Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search, H. Xin et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/DeepSeek-Prover-V1.5-Harnessing_Proof_Assistant_Feedback_for_Reinforcement_Learning_and_Monte-Carlo_Tree_Search.pdf)
 
+* [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf)
+
 ### Neural Scaling
 
 * [LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, T. Liu et al, Cornell U, ICL, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MC_learning/LLMs_learn_governing_principles_of_dynamical_systems_revealing_an_in-context_neural_scaling_law_Liu_2024.pdf)
