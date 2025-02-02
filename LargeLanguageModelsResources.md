@@ -237,6 +237,9 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training, T. Chu, Y. Zhai, J. Yang, S. Tong,
+S. Xie, Dale Schuurmans, QV. Le, Sergey Levine](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/SFT_Memorizes_RL_Generalizes-A_Comparative_Study_of_Foundation_Model_Post-training_SergeyLevine_2025.pdf)
+
 * [A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
 language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf)
 
