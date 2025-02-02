@@ -88,3 +88,4 @@ articles/reinforcement_learning/DeepSeekMath-Pushing_the_Limits_of_Mathematical_
 articles/reinforcement_learning/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/self_replication/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Yang_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/human_like_reasoning/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/reinforcement_learning/SFT_Memorizes_RL_Generalizes-A_Comparative_Study_of_Foundation_Model_Post-training_SergeyLevine_2025.pdf filter=lfs diff=lfs merge=lfs -text
