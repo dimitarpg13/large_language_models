@@ -211,6 +211,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Reasoning Language Models: A Blueprint, M. Besta et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf)
+
 * [Reverse Thinking Makes LLMs Stronger Reasoners, J. Chen et al, UNC Chapel Hill. Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reverse_Thinking_Makes_LLMs_Stronger_Reasoners_Chen_2024.pdf)
 
 * [softmax is not enough (for sharp out-of-distribution), Peter Velickovic et al, DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/softmax_is_not_enough_for_sharp_out-of-distribution_Velickovic_2024.pdf)
