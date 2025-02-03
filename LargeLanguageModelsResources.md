@@ -201,6 +201,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Frontier AI systems have surpassed the self-replicating red line, X. Pan et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/self_replication/Frontier_AI_systems_have_surpassed_the_self-replicating_red_line_Yang_2024.pdf)
 
+* [A Primer on the Inner Workings of Transformer-Based Language Models, A Ferrando et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf)
+
 * [... More articles on Transformers](https://github.com/dimitarpg13/transformers_intro/tree/main/articles_and_books)
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
