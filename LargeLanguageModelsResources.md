@@ -317,6 +317,10 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
 
+### LLM Optimizer Design
+
+* [Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension, W. Gong et al, Microsoft, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_optimizer_design/Towards_Efficient_Optimizer_Design_for_LLM_via_Structured_Fisher_Approximation_with_a_Low-Rank_Extension_Gong_Msft_2025.pdf)
+
 ### Time-series forecasting and classification tasks
 * [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://towardsdatascience.com/itransformer-the-latest-breakthrough-in-time-series-forecasting-d538ddc6c5d1)
 
