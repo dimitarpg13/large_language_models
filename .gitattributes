@@ -90,3 +90,5 @@ articles/self_replication/Frontier_AI_systems_have_surpassed_the_self-replicatin
 articles/human_like_reasoning/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/reinforcement_learning/SFT_Memorizes_RL_Generalizes-A_Comparative_Study_of_Foundation_Model_Post-training_SergeyLevine_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Primer_on_The_Inner_Workings_of_Transformer-Based_Language_Models_Ferrando_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/agentic_LLMs_and_multi-agent_systems/Practical_Considerations_for_Agentic_LLM_Systems_Sypherd_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/agentic_LLMs_and_multi-agent_systems/Building_Agentic_Systems_in_an_Era_of_Large_Language_Models_Packer_2024.pdf filter=lfs diff=lfs merge=lfs -text
