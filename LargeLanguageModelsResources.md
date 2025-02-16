@@ -233,6 +233,16 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
 
+### Agentic LLMs and Multi-Agent LLM Systems
+
+* [Mechanism Design for Large Language Models, Paul Duetting et al, February 13, 2025](https://research.google/blog/mechanism-design-for-large-language-models/)
+
+* [Multi-Agent Systems: How Teams of LLMs Excell at Complex Tasks, May 2024](https://www.jonkrohn.com/posts/2024/5/31/multi-agent-systems-how-teams-of-llms-excel-at-complex-tasks)
+
+* [Practical Considerations for Agentic LLM Systems, C. Sypherd et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Practical_Considerations_for_Agentic_LLM_Systems_Sypherd_2024.pdf)
+
+* [Building Agentic Systems in an Era of Large Language Models, Charles Packer, UC Berkeley, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Building_Agentic_Systems_in_an_Era_of_Large_Language_Models_Packer_2024.pdf)
+
 ### Large Concept Models
 
 * [Large Concept Models: Language Modeling in a Sentence Representation Space, the LCM Team, Meta FAIR, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_concept_models/Large_Concept_Models-Language_Modeling_in_a_Sentence_Representation_Space_LCM_team_Meta_2024.pdf)
