@@ -249,6 +249,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Large Concept Models: Language Modeling in a Sentence Representation Space, the LCM Team, Meta FAIR, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_concept_models/Large_Concept_Models-Language_Modeling_in_a_Sentence_Representation_Space_LCM_team_Meta_2024.pdf)
 
+### Large Language Diffusion Models
+
+* [Large Language Diffusion Models, S. Nie et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_lang_diffusion_models/Large_Language_Diffusion_Models_Nie_2025.pdf)
+
 ### Reinforcement Learning Techniques in LLM
 
 * [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training, T. Chu, Y. Zhai, J. Yang, S. Tong,
