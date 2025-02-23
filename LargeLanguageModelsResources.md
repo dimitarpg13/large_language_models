@@ -215,6 +215,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Evaluating the Systematic Reasoning Abilities of Large Language Models through Graph Coloring, Alex Heyman et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Evaluating_the_Systematic_Reasoning_Abilities_of_Large_Language_Models_through_Graph_Coloring_Hymann_2025.pdf)
 
+* [Competitve Programming with Large Reasoning Models, OpenAI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Competitive_Programming_with_Large_Reasoning_Models_El-Kishky_2025.pdf)
+
 * [Reasoning Language Models: A Blueprint, M. Besta et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_Language_Models-A_Blueprint_Besta_2025.pdf)
 
 * [Reverse Thinking Makes LLMs Stronger Reasoners, J. Chen et al, UNC Chapel Hill. Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reverse_Thinking_Makes_LLMs_Stronger_Reasoners_Chen_2024.pdf)
