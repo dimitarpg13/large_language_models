@@ -211,6 +211,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs, Jan Betley et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/Emergent_Misalignment_Narrow_finetuning_can_produce_broadly_misaligned_LLMs_Betley_2025.pdf)
 
+* [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities, Venkatesh Balavadhani Parthasarathy et al, CEDAR Connect Group, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/The_Ultimate_Guide_to_Fine_Tuning_LLMs_from_Basics_to_Breakthroughs_Balavadhani_2024.pdf)
+
 * [Unfamiliar Finetuning Examples Control How Language Models Hallucinate, Katie Kang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unfamiliar_Finetuning_Examples_Control_How_Language_Models_Hallucinate_Kang_2024.pdf)
 
 * [Vanishing Gradients in Reinforcement finetuning of Language Models, Noam Razin et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Vanishing_Gradients_in_Reinforcement_Finetuning_of_Language_Models_Razin_2024.pdf)
