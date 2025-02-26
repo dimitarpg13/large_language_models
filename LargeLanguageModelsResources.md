@@ -207,6 +207,16 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
 
+### Fine Tuning LLMs
+
+* [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs, Jan Betley et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/Emergent_Misalignment_Narrow_finetuning_can_produce_broadly_misaligned_LLMs_Betley_2025.pdf)
+
+* [Unfamiliar Finetuning Examples Control How Language Models Hallucinate, Katie Kang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unfamiliar_Finetuning_Examples_Control_How_Language_Models_Hallucinate_Kang_2024.pdf)
+
+* [Vanishing Gradients in Reinforcement finetuning of Language Models, Noam Razin et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Vanishing_Gradients_in_Reinforcement_Finetuning_of_Language_Models_Razin_2024.pdf)
+
+* [Fine-Tuning Large Language Models (LLMs) with Shawhin Talebi](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
+
 ### LLM-inspired techniques in statistical learning
 
 * [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
