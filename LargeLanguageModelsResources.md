@@ -423,6 +423,8 @@ relevant repos:
 
 * [Augmenting Language Models with Long Term Memory, W. Wang et al, UC Santa Barbara, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Augmenting_Language_Models_with_Long-Term_Memory_Wang_2023.pdf)
 
+* [Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation, Srinadh Bhojanapalli et al, Google Research, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Eigen_Analysis_of_Self-Attention_and_its_Reconstruction_from_Partial_Computation_Bhojanapali_2021.pdf)
+
 ### Compiler Optimization using LLM
 
 * [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization, C. Cummins et al, MetaAI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/compiler_optimization/Meta_Large_Language_Model_Compiler-Foundation_Models_of_Compiler_Optimization_Cummins_MetaAI_2024.pdf)
