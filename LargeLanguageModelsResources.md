@@ -307,6 +307,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 ### Theorem Proving
 
+* [LeanAgent: Lifelong Learning for Formal Theorem Proving, Adarsh Kumarappan et al, Caltech, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/LeanAgent-Lifelong_Learning_for_Formal_Theorem_Proving_Kumarkappan_2025.pdf)
+
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, Tsinghua U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_TsinghuaU_2024.pdf)
 
 * [Solving Olympiad Geometry without Human Demonstrations, TH Trinh et al, Google DeepMind, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/Solving_olympiad_geometry_without_human_demonstrations_Trinh_Google_2023.pdf)
