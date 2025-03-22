@@ -253,6 +253,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Agentic LLMs and Multi-Agent LLM Systems
 
+* [LeanAgent: Lifelong Learning for Formal Theorem Proving, Adarsh Kumarappan et al, Caltech, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/LeanAgent-Lifelong_Learning_for_Formal_Theorem_Proving_Kumarkappan_2025.pdf)
+
 * [Towards an AI co-scientist, Juraj Gottweis et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Towards_an_AI_coscientist_Gottweiss_DeepMind_2025.pdf)
 
 * [Mechanism Design for Large Language Models, Paul Duetting et al, February 13, 2025](https://research.google/blog/mechanism-design-for-large-language-models/)
