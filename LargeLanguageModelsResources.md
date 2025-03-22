@@ -265,6 +265,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Building Agentic Systems in an Era of Large Language Models, Charles Packer, UC Berkeley, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Building_Agentic_Systems_in_an_Era_of_Large_Language_Models_Packer_2024.pdf)
 
+* [Understanding The Planning of LLM Agents: A Survey, X. Huang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Understanding_the_planning_of_LLM_agents-A_survey_Huang_2024.pdf)
+
 ### Large Concept Models
 
 * [Large Concept Models: Language Modeling in a Sentence Representation Space, the LCM Team, Meta FAIR, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_concept_models/Large_Concept_Models-Language_Modeling_in_a_Sentence_Representation_Space_LCM_team_Meta_2024.pdf)
