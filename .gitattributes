@@ -103,3 +103,4 @@ articles/agentic_LLMs_and_multi-agent_systems/Towards_an_AI_coscientist_Gottweis
 articles/large_lang_diffusion_models/Large_Language_Diffusion_Models_Nie_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/theorem_proving/LeanAgent-Lifelong_Learning_for_Formal_Theorem_Proving_Kumarkappan_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/agentic_LLMs_and_multi-agent_systems/LeanAgent-Lifelong_Learning_for_Formal_Theorem_Proving_Kumarkappan_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/temporal_GNN/Unifying_Text_Semantics_and_Graph_Structures_for_Temporal_Text-attributed_Graphs_with_Large_Language_Models_Zhang_2025.pdf filter=lfs diff=lfs merge=lfs -text
