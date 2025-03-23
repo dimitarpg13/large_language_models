@@ -275,6 +275,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Large Language Diffusion Models, S. Nie et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_lang_diffusion_models/Large_Language_Diffusion_Models_Nie_2025.pdf)
 
+### Temporal Graph Neural Networks (TGNN)
+
+* [Unifying Text Semantics and Graph Structures for Temporal Text-Attributed Graphs with Large Language Models, S. Zhang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/temporal_GNN/Unifying_Text_Semantics_and_Graph_Structures_for_Temporal_Text-attributed_Graphs_with_Large_Language_Models_Zhang_2025.pdf)
+
 ### Reinforcement Learning Techniques in LLM
 
 * [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training, T. Chu, Y. Zhai, J. Yang, S. Tong,
