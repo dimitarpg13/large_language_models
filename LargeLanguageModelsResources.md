@@ -253,6 +253,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Agentic LLMs and Multi-Agent LLM Systems
 
+* [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks, Y. Zhou et al, Meta FAIR, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/SWEET-RL-Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks_Zhou_2025.pdf)
+
 * [LeanAgent: Lifelong Learning for Formal Theorem Proving, Adarsh Kumarappan et al, Caltech, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/LeanAgent-Lifelong_Learning_for_Formal_Theorem_Proving_Kumarkappan_2025.pdf)
 
 * [Towards an AI co-scientist, Juraj Gottweis et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Towards_an_AI_coscientist_Gottweiss_DeepMind_2025.pdf)
