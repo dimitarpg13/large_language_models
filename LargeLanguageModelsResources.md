@@ -223,6 +223,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Fine-Tuning Large Language Models (LLMs) with Shawhin Talebi, Medium, 2023](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
 
+### Chain-of-Thought in LLMs
+
+* [Understanding Chain-of-Thought in LLMs through Information Theory, Jean-François Ton et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Understanding_Chain-of-Thought_in_LLMs_through_Information_Theory_Ton_2024.pdf)
+
 ### LLM-inspired techniques in statistical learning
 
 * [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
