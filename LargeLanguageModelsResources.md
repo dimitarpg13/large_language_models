@@ -4,6 +4,8 @@
 
 * [Layer by Layer: Uncovering Hidden Representations in Language Models, Oscar Skein et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf)
 
+* [Tracing the thoughts of a large language model, online blog, Anthropic, 2025](https://www.anthropic.com/research/tracing-thoughts-language-model)
+
 * [Deep Seek Technical Report, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/DeepSeek-V3_Technical_Report.pdf)
 
 * [Addition is All You Need for Energy-efficient Language Models, H. Luo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/optimizations_in_llm/Addition_is_All_You_Need_for_Energy-efficient_Language_Models_Luo_2024.pdf)
