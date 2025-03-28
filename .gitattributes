@@ -107,3 +107,4 @@ articles/temporal_GNN/Unifying_Text_Semantics_and_Graph_Structures_for_Temporal_
 articles/agentic_LLMs_and_multi-agent_systems/SWEET-RL-Training_Multi-Turn_LLM_Agents_on_Collaborative_Reasoning_Tasks_Zhou_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Skean_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/agentic_LLMs_and_multi-agent_systems/AgentRxiv-Towards_Collaborative_Autonomous_Research_Schmidtgall_ETHZurich_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/CoT/Understanding_Chain-of-Thought_in_LLMs_through_Information_Theory_Ton_2024.pdf filter=lfs diff=lfs merge=lfs -text
