@@ -227,6 +227,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Understanding Chain-of-Thought in LLMs through Information Theory, Jean-François Ton et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Understanding_Chain-of-Thought_in_LLMs_through_Information_Theory_Ton_2024.pdf)
 
+* [Self-Consistency Improves Chain-of-Thought Reasoning in Large Language Models, X. Wang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Consistency_Improves_Chain_of_Thought_Reasoning_in_Language_Models_Wang_2022.pdf)
+
 ### LLM-inspired techniques in statistical learning
 
 * [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
