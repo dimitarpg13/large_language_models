@@ -109,3 +109,4 @@ articles/Layer_by_Layer-Uncovering_Hidden_Representations_in_Language_Models_Ske
 articles/agentic_LLMs_and_multi-agent_systems/AgentRxiv-Towards_Collaborative_Autonomous_Research_Schmidtgall_ETHZurich_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/CoT/Understanding_Chain-of-Thought_in_LLMs_through_Information_Theory_Ton_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/fine_tuning/Overtrained_Language_Models_Are_Harder_to_Fine-Tune_Springer_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf filter=lfs diff=lfs merge=lfs -text
