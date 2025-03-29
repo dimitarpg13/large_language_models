@@ -471,6 +471,13 @@ relevant repos:
 
 * [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations, Evan Milller, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Adding_Error_Bars_to_Evals-A_Statistical_Approach_to_Language_Model_Evaluations_Miller_2024.pdf)
 
+### DSPy
+* [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines, Omar Khattab et al, Stanford U., 2023]()
+
+website: https://dspy.ai/
+
+repo: https://github.com/stanfordnlp/dspy
+
 ## LLM anti-hype reading list
 
 * [The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
