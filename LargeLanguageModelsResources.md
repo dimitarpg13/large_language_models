@@ -323,6 +323,16 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf)
 
+* [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
+
+### Monte Carlo Tree Search in Large Language Models
+
+* [Monte Carlo Tree Search: A Review of Recent Modifications and Applications, Maciej Świechowsk et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf)
+
+* [Monte-Carlo tree search as regularized policy optimization](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Monte-Carlo_Tree_Search_as_Regularized_Policy_Optimization_Grill_2020.pdf)
+
+* [Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search, Rémi Coulom, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Efficient_Selectivity_and_Backup_Operators_in_Monte-Carlo_Tree_Search_Remi_Coulom_2025.pdf)
+
 ### Neural Scaling
 
 * [LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, T. Liu et al, Cornell U, ICL, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MC_learning/LLMs_learn_governing_principles_of_dynamical_systems_revealing_an_in-context_neural_scaling_law_Liu_2024.pdf)
