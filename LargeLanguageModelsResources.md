@@ -474,9 +474,9 @@ relevant repos:
 ### DSPy
 * [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines, Omar Khattab et al, Stanford U., 2023]()
 
-website: https://dspy.ai/
+   website: https://dspy.ai/
 
-repo: https://github.com/stanfordnlp/dspy
+   repo: https://github.com/stanfordnlp/dspy
 
 ## LLM anti-hype reading list
 
