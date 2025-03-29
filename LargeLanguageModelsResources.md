@@ -329,7 +329,7 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [Monte Carlo Tree Search: A Review of Recent Modifications and Applications, Maciej Świechowsk et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf)
 
-* [Monte-Carlo tree search as regularized policy optimization](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Monte-Carlo_Tree_Search_as_Regularized_Policy_Optimization_Grill_2020.pdf)
+* [Monte-Carlo tree search as regularized policy optimization, Jean-Bastien Grill et al, 2020](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Monte-Carlo_Tree_Search_as_Regularized_Policy_Optimization_Grill_2020.pdf)
 
 * [Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search, Rémi Coulom, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Efficient_Selectivity_and_Backup_Operators_in_Monte-Carlo_Tree_Search_Remi_Coulom_2025.pdf)
 
