@@ -28,6 +28,10 @@
 
 Sebastian Rashka's Build LLM from scratch:
 
+huggingface model: https://huggingface.co/rasbt/llama-3.2-from-scratch
+
+huggingface code repo: https://huggingface.co/rasbt/llama-3.2-from-scratch/tree/main 
+
 github repository: https://github.com/rasbt/LLMs-from-scratch
 
 [GPT from Scratch with MLX: Define and train GPT-2 on your MacBook, Pranav Jadhav, June 2024, Medium](https://towardsdatascience.com/gpt-from-scratch-with-mlx-acf2defda30e)
