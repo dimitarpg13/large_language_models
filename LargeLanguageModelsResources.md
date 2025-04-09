@@ -227,6 +227,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Chain-of-Thought in LLMs
 
+* [Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures, Tushar Pandey et al, Agnostiq, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/graph_models/Adaptive_Graph_of_Thoughts-Test-Time_Adaptive_Reasoning_Unifying_Chain_Tree_and_Graph_Structures_Pandey_2025.pdf)
+
 * [Understanding Chain-of-Thought in LLMs through Information Theory, Jean-François Ton et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Understanding_Chain-of-Thought_in_LLMs_through_Information_Theory_Ton_2024.pdf)
 
 * [Self-Consistency Improves Chain-of-Thought Reasoning in Large Language Models, X. Wang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Consistency_Improves_Chain_of_Thought_Reasoning_in_Language_Models_Wang_2022.pdf)
@@ -236,6 +238,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
 
 ### Human-like Reasoning and Representation Learning
+
+* [Reasoning Models Don’t Always Say What They Think, Yanda Chen et al, Anthropic, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_Models_Dont_Always_Say_What_They_Think_Chen_2025.pdf)
 
 * [Reasoning to Learn from Latent Thoughts, Yangjun Ruan et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_to_Learn_from_Latent_Thoughts_Ruan_2025.pdf)
 
