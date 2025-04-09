@@ -461,7 +461,11 @@ relevant repos:
 
 * [The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
 
+* [Capturing Relative Positional Information Before RoPE In LLMs, Damien Benveniste, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Capturing_Relative_Positional_Information_Before_RoPE_In_LLMs_Benveniste_2025.pdf)
+
 * [Contextual Position Encoding: Learning to Count What's Important, O. Golovneva et al, Meta, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Contextual_Position_Encoding-Learning_to_Count_Whats_Important_Golovneva_Meta_2024.pdf)
+
+* [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
 
 * [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, T. Dao et al, Stanford U., 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/FlashAttention-Fast_and_Memory-Efficient_Exact_Attention_with_IO-Awareness_Stanford_2022.pdf)
 
@@ -469,7 +473,22 @@ relevant repos:
 
 * [Augmenting Language Models with Long Term Memory, W. Wang et al, UC Santa Barbara, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Augmenting_Language_Models_with_Long-Term_Memory_Wang_2023.pdf)
 
+* [Attention in Natural Language Processing, Galassi et al., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/AttentionInNaturalLanguageProcessing.pdf)
+
+* [Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Attention-is-all-you-need-NIPS-2017.pdf)
+
+* [HyperAttention: Long-context Attention in Near-Linear Time, Insu Han et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/HyperAttention-Long-context_Attention_in_Near-Linear_Time_Han_2023.pdf)
+
+* [The Annotated Transformer, 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
+
+* [The Illustrated Transformer, Jay Alamar's blog, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
+
+* [Attention in Natural Language Processing, Galassi et al., 2020](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/AttentionInNaturalLanguageProcessing.pdf)
+
 * [Eigen Analysis of Self-Attention and its Reconstruction from Partial Computation, Srinadh Bhojanapalli et al, Google Research, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Eigen_Analysis_of_Self-Attention_and_its_Reconstruction_from_Partial_Computation_Bhojanapali_2021.pdf)
+
+* [A Decomposable Attention Model for Natural Language Inference, Parikh et al., Google Research, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/DecomposableAttentionModelforNaturalLanguageInferenceParikhUszkoreit2016.pdf)
+
 
 ### Compiler Optimization using LLM
 
