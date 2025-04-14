@@ -239,6 +239,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Concise Reasoning via Reinforcement Learning, M. Fatemi et al, Wand AI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Concise_Reasoning_via_Reinforcement_Learning_Fatemi_2025.pdf)
+
 * [Reasoning Models Don’t Always Say What They Think, Yanda Chen et al, Anthropic, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_Models_Dont_Always_Say_What_They_Think_Chen_2025.pdf)
 
 * [Reasoning to Learn from Latent Thoughts, Yangjun Ruan et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_to_Learn_from_Latent_Thoughts_Ruan_2025.pdf)
