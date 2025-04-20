@@ -111,6 +111,10 @@ related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awe
 
 [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
+BitNet: 1 bit LLM which runs directly on CPU
+github: https://github.com/microsoft/BitNet
+paper: [BitNet b1.58 2B4T Technical Report](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BitNet_b1.58_2B4T_Technical_Report_Ma_2025.pdf)
+
 # Frameworks and software packages enabling LLMs or using LLMs
 
 ## Starcoder
