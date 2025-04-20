@@ -78,6 +78,14 @@ github repo: https://github.com/svpino/youtube-rag
 
 [Local RAG From Scratch, Medium, Joe Sasson, 2024](https://towardsdatascience.com/local-rag-from-scratch-3afc6d3dea08)
 
+BitNet: 1 bit LLM which runs directly on CPU
+
+    github: https://github.com/microsoft/BitNet
+
+    paper: [BitNet b1.58 2B4T Technical Report](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BitNet_b1.58_2B4T_Technical_Report_Ma_2025.pdf)
+
+
+
 ## LLM Anti-Hype Reading List
 
 [The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
@@ -110,10 +118,6 @@ related repo: [Transformers from Scratch](https://github.com/FrancoisPorcher/awe
 [Transformers Explained Visually (Part 2): How it works, step-by-step with Ketan Doshi, Jan 2, 2021](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
 
 [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive, Jan 16, 2020](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
-
-BitNet: 1 bit LLM which runs directly on CPU
-github: https://github.com/microsoft/BitNet
-paper: [BitNet b1.58 2B4T Technical Report](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BitNet_b1.58_2B4T_Technical_Report_Ma_2025.pdf)
 
 # Frameworks and software packages enabling LLMs or using LLMs
 
