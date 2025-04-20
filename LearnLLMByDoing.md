@@ -80,9 +80,9 @@ github repo: https://github.com/svpino/youtube-rag
 
 BitNet: 1 bit LLM which runs directly on CPU
 
-    github: https://github.com/microsoft/BitNet
+github: https://github.com/microsoft/BitNet
 
-    paper: [BitNet b1.58 2B4T Technical Report](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BitNet_b1.58_2B4T_Technical_Report_Ma_2025.pdf)
+paper: [BitNet b1.58 2B4T Technical Report](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BitNet_b1.58_2B4T_Technical_Report_Ma_2025.pdf)
 
 
 
