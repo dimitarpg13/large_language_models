@@ -8,6 +8,8 @@
 
 * [Deep Seek Technical Report, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/DeepSeek-V3_Technical_Report.pdf)
 
+* [The DeepSeek Series: A Technical Overview, Shayan Mohanti at martinfowler.com, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
+
 * [Addition is All You Need for Energy-efficient Language Models, H. Luo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/optimizations_in_llm/Addition_is_All_You_Need_for_Energy-efficient_Language_Models_Luo_2024.pdf)
 
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
@@ -337,7 +339,7 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf)
 
-* [The DeepSeek Series: A Technical Overview, Martin Fowler series, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
+* [The DeepSeek Series: A Technical Overview, Shayan Mohanti at martinfowler.com, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
 
 * [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
 
