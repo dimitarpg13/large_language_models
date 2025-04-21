@@ -337,6 +337,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Z. Shao et al, DeepSeek AI, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/DeepSeekMath-Pushing_the_Limits_of_Mathematical_Reasoning_in_Open_Language_Models_Shao_2024.pdf)
 
+* [The DeepSeek Series: A Technical Overview, Martin Fowler series, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
+
 * [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
 
 ### Monte Carlo Tree Search in Large Language Models
