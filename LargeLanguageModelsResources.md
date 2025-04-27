@@ -167,6 +167,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches, Cho et al., U de Montreal, 2014](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/OnthePropertiesOfNeuralMachineTranslationEncoderDecoderApproaches.pdf)
 
+* [Recurrent neural network based language model, T. Mikolov et al, 2010](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Recurrent_neural_network_based_language_model_mikolov_interspeech_2010.pdf)
+
 * [Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network, A. Sherstinsky, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FundamentalsOfRNNandLSTMNetwork.pdf)
 
 * [A Decomposable Attention Model for Natural Language Inference, Parikh et al., Google Research, 2016](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/DecomposableAttentionModelforNaturalLanguageInferenceParikhUszkoreit2016.pdf)
