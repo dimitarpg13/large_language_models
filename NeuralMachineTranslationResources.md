@@ -26,4 +26,6 @@
 
 [The Minimal Byte-Pair Encoding Algorithm MinBPE for Language Tokenization, Andrej Karpathy's Github repo](https://github.com/karpathy/minbpe/tree/master)
 
+[A Neural Probabilistic Model, J. Bengio et al, 2003](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Neural_Probabilistic_Language_Model_bengio_2003.pdf)
+
 
