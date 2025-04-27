@@ -16,7 +16,7 @@
 
 [Effective Approaches to Attention-based Neural Machine Translation, MH Luong et al, 2015](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Effective_Approaches_to_Attention-based_Neural_Machine_Translation_Luong_2015.pdf)
 
-[Neural Machine Translation, Quinn Lanners, 2019, Medium](https://towardsdatascience.com/neural-machine-translation-15ecf6b0b)
+[Neural Machine Translation, Quinn Lanners, 2019, Medium](https://medium.com/data-science/neural-machine-translation-15ecf6b0b)
 
 [A Gentle Introduction to Neural Machine Translation, J. Brownlee, Machine Learning Mastery, 2019](https://machinelearningmastery.com/introduction-neural-machine-translation/)
 
