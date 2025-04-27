@@ -317,6 +317,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities, Thomas Schmied et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/LLMs_are_Greedy_Agents-Effects_of_RL_Fine-tuning_on_Decision-Making_Abilities_Schiemd_2025.pdf)
+
 * [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training, T. Chu, Y. Zhai, J. Yang, S. Tong,
 S. Xie, Dale Schuurmans, QV. Le, Sergey Levine](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/SFT_Memorizes_RL_Generalizes-A_Comparative_Study_of_Foundation_Model_Post-training_SergeyLevine_2025.pdf)
 
