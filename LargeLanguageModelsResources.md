@@ -10,6 +10,10 @@
 
 * [The DeepSeek Series: A Technical Overview, Shayan Mohanti at martinfowler.com, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
 
+* [Byte Latent Transformer: Patches Scale Better Than Tokens, Artidoro Pagnoni et al, FAIR at Meta, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/byte_latent_transformer/Byte_Latent_Transformer-Patches_Scale_Better_Than_Tokens_Pagnoni_2024.pdf)
+
+  github repo: https://github.com/facebookresearch/blt
+
 * [Addition is All You Need for Energy-efficient Language Models, H. Luo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/optimizations_in_llm/Addition_is_All_You_Need_for_Energy-efficient_Language_Models_Luo_2024.pdf)
 
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models, Iman Mirzadeh et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/GSM-Symbolic-Understanding_the_Limitations_of_Mathematical_Reasoning_in_Large_Language_Models_Mizradeh_2024.pdf)
