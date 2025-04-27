@@ -28,4 +28,6 @@
 
 [A Neural Probabilistic Model, J. Bengio et al, 2003](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Neural_Probabilistic_Language_Model_bengio_2003.pdf)
 
+[A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning, R. Collobert et al, NEC, 2008](https://github.com/dimitarpg13/large_language_models/blob/main/articles/A_Unified_Architecture_for_Natural_Language_Processing-Deep_Neural_Networks_with_Multitask_Learning_Collobert_2008_nlp_icml.pdf)
+
 
