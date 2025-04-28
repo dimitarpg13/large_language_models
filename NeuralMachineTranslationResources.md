@@ -6,15 +6,27 @@
 
 [Sequence to Sequence Learning with Neural Networks, Ilya Sutskever et al, Google, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Sequence_to_Sequence_Learning_with_Neural_Networks_Ilya_Sutskever_Google_2014.pdf)
 
+[Generating Sequences with Recurrent Neural Networks, Alex Graves, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Generating_Sequences_With_Recurrent_Neural_Networks_Graves_2014.pdf)
+
+[Sequence Transduction with Recurrent Neural Networks, Alex Graves et al, 2012](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Sequence_Transduction_with_Recurrent_Neural_Networks_Graves_2012.pdf)
+
 [Neural Machine Translation by Jointly Learning to Align and Translate, D. Bahdanau, K. Cho, Yoshua Bengio, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Neural_Machine_Translation_by_Jointly_Learning_to_Align_and_Translate_Bahdanu_2013.pdf)
 
 [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation, K. Cho et al, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Learning_Phrase_Representations_using_RNN_Encoder%E2%80%93Decoder_for_Statistical_Machine_Translation_Cho_2014.pdf)
+
+[Fast and Robust Neural Network Joint Models for Statistical Machine Translation, J. Devlin et al, Raytheon, 2014](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Fast_and_Robust_Neural_Network_Joint_Models_for_Statistical_Machine_Translation_Devlin_2014.pdf)
 
 [Recurrent Continuous Translation Models, N. Kalchbrenner, P. Blunsom, U of Oxford, 2013](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Recurrent_Continuous_Translation_Models_Kalchbrenner_2013.pdf)
 
 [Continuous Space Translation Models for Phrase-Based Statistical Machine Translation, Holger Schwenk, 2012](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Continuous_Space_Translation_Models_for_Phrase-Based_Statistical_Machine_Translation_Schwenk_2012.pdf)
 
 [Continuous Space Language Models for Statistical Machine Translation, Holger Schwenk et al, 2006](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Continuous_Space_Language_Models_for_Statistical_Machine_Translation_Schwenk_2006.pdf)
+
+[Long Short Term Memory, Sepp Hochreiter, 1997](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/LongShortTermMemory.pdf)
+
+[Tutorial on Long Short Term Memory, Ralf C. Staudemeyer et al, 2019](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/TutorialOnLongShortTermMemory2019.pdf)
+
+[Continuous Space Translation Models with Neural Networks, Le Hai Son et al, 2012](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Continuous_Space_Translation_Models_with_Neural_Networks_Le-Hai-Son_2012.pdf)
 
 [Effective Approaches to Attention-based Neural Machine Translation, MH Luong et al, 2015](https://github.com/dimitarpg13/large_language_models/blob/main/articles/neural_machine_translation/Effective_Approaches_to_Attention-based_Neural_Machine_Translation_Luong_2015.pdf)
 
