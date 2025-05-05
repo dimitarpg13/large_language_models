@@ -323,6 +323,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [Process Reward Models that think, M. Khalifa et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Proces_Reward_Models_That_Think_Khalifa_2025.pdf)
+
 * [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities, Thomas Schmied et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/LLMs_are_Greedy_Agents-Effects_of_RL_Fine-tuning_on_Decision-Making_Abilities_Schiemd_2025.pdf)
 
 * [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training, T. Chu, Y. Zhai, J. Yang, S. Tong,
@@ -354,6 +356,10 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 * [The DeepSeek Series: A Technical Overview, Shayan Mohanti at martinfowler.com, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
 
 * [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
+
+### Hallucinations in Large Language Models
+
+* [(Im)possibility of Automated Hallucination Detection in Large Language Models, A. Karbasi et al, Yale U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/hallucination/Impossibility_of_Automated_Hallucination_Detection_in_Large_Language_Models_Karbasi_yale_2025.pdf)
 
 ### Monte Carlo Tree Search in Large Language Models
 
