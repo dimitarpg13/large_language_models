@@ -249,6 +249,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Think, Prune, Train, Improve: Scaling Reasoning without Scaling Models, Caia Costello et al, Ceramic AI, Stanford U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Think_Prune_Train_Improve-Scaling_Reasoning_without_Scalling_Models_Costello_2025.pdf)
+
 * [Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models, Yukang Yang et al, Princeton U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Emergent_Symbolic_Mechanisms_Support_Abstract_Reasoning_in_Large_Language_Models_Yang_2025.pdf)
 
 * [Concise Reasoning via Reinforcement Learning, M. Fatemi et al, Wand AI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Concise_Reasoning_via_Reinforcement_Learning_Fatemi_2025.pdf)
