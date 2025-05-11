@@ -361,6 +361,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [(Im)possibility of Automated Hallucination Detection in Large Language Models, A. Karbasi et al, Yale U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/hallucination/Impossibility_of_Automated_Hallucination_Detection_in_Large_Language_Models_Karbasi_yale_2025.pdf)
 
+* [Do Language Models Hallucinate Because We Punish Resistance? Izzat Imran, May 10, 2025, Linkedin](https://www.linkedin.com/pulse/do-language-models-hallucinate-because-we-punish-resistance-imran-jcekc/)
+
 ### Monte Carlo Tree Search in Large Language Models
 
 * [Monte Carlo Tree Search: A Review of Recent Modifications and Applications, Maciej Świechowsk et al, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf)
