@@ -249,6 +249,12 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
+
+* [TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
+
+* [Playing repeated games with large language models, Elif Akata et al, Nature, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Playing_repeated_games_with_large_language_models_Akata_2025.pdf)
+
 * [Think, Prune, Train, Improve: Scaling Reasoning without Scaling Models, Caia Costello et al, Ceramic AI, Stanford U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Think_Prune_Train_Improve-Scaling_Reasoning_without_Scalling_Models_Costello_2025.pdf)
 
 * [Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models, Yukang Yang et al, Princeton U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Emergent_Symbolic_Mechanisms_Support_Abstract_Reasoning_in_Large_Language_Models_Yang_2025.pdf)
@@ -322,6 +328,12 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [Unifying Text Semantics and Graph Structures for Temporal Text-Attributed Graphs with Large Language Models, S. Zhang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/temporal_GNN/Unifying_Text_Semantics_and_Graph_Structures_for_Temporal_Text-attributed_Graphs_with_Large_Language_Models_Zhang_2025.pdf)
 
 ### Reinforcement Learning Techniques in LLM
+
+* [Absolute Zero: Reinforced Self-play Reasoning with Zero Data, A. Zhao et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Absolute_Zero-Reinforced_Self-play_Reasoning_with_Zero_Data_Zhao_2025.pdf)
+
+* [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
+
+* [TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
 
 * [Process Reward Models that think, M. Khalifa et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Proces_Reward_Models_That_Think_Khalifa_2025.pdf)
 
