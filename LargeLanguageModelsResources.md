@@ -293,6 +293,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Agentic LLMs and Multi-Agent LLM Systems
 
+* [AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges, Ranjan Sapkota et al, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/AI_Agents_vs_Agentic_AI-A_Conceptual_Taxonomy_Applications_and_Challenges_Sapkota_2025)
+
 * [Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems, B. Liu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Advances_and_Challenges_in_Foundation_Agents_Liu_2025.pdf)
 
 * [AgentRxiv: Towards Collaborative Autonomous Research, Samuel Schmidgall et al, ETH Zurich, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/AgentRxiv-Towards_Collaborative_Autonomous_Research_Schmidtgall_ETHZurich_2025.pdf)
