@@ -503,6 +503,12 @@ relevant repos:
 
 * [How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
 
+### Regression Analysis with LLMs
+
+* [Decoding-based Regression, Xingyou Song and Dara Bahri, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/Decoding-based_Regression_Song_2025.pdf)
+
+* [OmniPred: Language Models as Universal Regressors, Xingyou Song et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/OmniPred-Language_Models_as_Universal_Regressors_Song_2025.pdf)
+
 ### The Attention Mechanicsm and Its Alternatives in Large Language Models
 
 * [The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
