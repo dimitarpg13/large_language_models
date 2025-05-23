@@ -293,6 +293,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Agentic LLMs and Multi-Agent LLM Systems
 
+* [AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges, Ranjan Sapkota et al, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/AI_Agents_vs_Agentic_AI-A_Conceptual_Taxonomy_Applications_and_Challenges_Sapkota_2025)
+
 * [Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems, B. Liu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Advances_and_Challenges_in_Foundation_Agents_Liu_2025.pdf)
 
 * [AgentRxiv: Towards Collaborative Autonomous Research, Samuel Schmidgall et al, ETH Zurich, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/AgentRxiv-Towards_Collaborative_Autonomous_Research_Schmidtgall_ETHZurich_2025.pdf)
@@ -500,6 +502,12 @@ relevant repos:
   * https://github.com/ShishirPatil/gorilla
 
 * [How to Build a Local Open-Source LLM Chatbot With RAG: Talking to PDF documents with Google’s Gemma-2b-it, LangChain, and Streamlit, Dr. Leon Eversberg, medium](https://towardsdatascience.com/how-to-build-a-local-open-source-llm-chatbot-with-rag-f01f73e2a131)
+
+### Regression Analysis with LLMs
+
+* [Decoding-based Regression, Xingyou Song and Dara Bahri, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/Decoding-based_Regression_Song_2025.pdf)
+
+* [OmniPred: Language Models as Universal Regressors, Xingyou Song et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/OmniPred-Language_Models_as_Universal_Regressors_Song_2025.pdf)
 
 ### The Attention Mechanicsm and Its Alternatives in Large Language Models
 
