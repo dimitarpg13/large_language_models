@@ -293,6 +293,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
 
+* [Harnessing the Universal Geometry of Embeddings, Rishi Jha et al, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf)
+
 ### Agentic LLMs and Multi-Agent LLM Systems
 
 * [AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges, Ranjan Sapkota et al, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/AI_Agents_vs_Agentic_AI-A_Conceptual_Taxonomy_Applications_and_Challenges_Sapkota_2025)
