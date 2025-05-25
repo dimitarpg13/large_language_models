@@ -295,6 +295,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Harnessing the Universal Geometry of Embeddings, Rishi Jha et al, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf)
 
+* [Training as we know it might end, VintageData blog post, 2025](https://vintagedata.org/blog/posts/training-as-we-know-it-will-end)
+
 ### Agentic LLMs and Multi-Agent LLM Systems
 
 * [AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges, Ranjan Sapkota et al, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/AI_Agents_vs_Agentic_AI-A_Conceptual_Taxonomy_Applications_and_Challenges_Sapkota_2025)
