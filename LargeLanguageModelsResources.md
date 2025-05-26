@@ -289,6 +289,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold, A. Setlur et al, CMU, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/RL_on_Incorrect_Synthetic_Data_Scales_the_Efficiency_of_LLM_Math_Reasoning_by_Eight-Fold_Setlur_CMU_2024.pdf)
 
+* [Training Large Language Models to Reason in a Continuous Latent Space, S. Hao et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Training_Large_Language_Models_to_Reason_in_a_Continuous_Latent_Space_Hao_2024.pdf)
+
 * [Improve Mathematical Reasoning in Language Models by Automated Process Supervision, L. Luo et al, DeepMind, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Improve_Mathematical_Reasoning_in_Language_Models_by_Automated_Process_Supervision_Luo_2024.pdf)
 
 * [Solving math word problems with processand outcome-based feedback, J. Uesato et al, DeepMind, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Solving_math_word_problems_with_process_and_outcome-based_feedback_Uesato_DeepMind_2022.pdf)
