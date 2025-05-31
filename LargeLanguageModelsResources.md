@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
+
 * [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
 
 * [TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
@@ -378,6 +380,9 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 * [The DeepSeek Series: A Technical Overview, Shayan Mohanti at martinfowler.com, online article, 2025](https://martinfowler.com/articles/deepseek-papers.html)
 
 * [Large Language Model Training and Reinforcement Learning, Miquel Noguer i Alonso, AIFI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Large_Language_Model_Training_and_Reinforcement_Learning_Alonso_2025.pdf)
+
+* [Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
+
 
 ### Hallucinations in Large Language Models
 
