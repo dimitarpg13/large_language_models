@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models, C. Cui et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/The_Entropy_Mechanism_of_Reinforcement_Learning_for_Reasoning_Language_Models_Cui_2025.pdf)
+
 * [Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
 
 * [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
