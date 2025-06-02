@@ -327,6 +327,20 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Large Language Model Agent: A Survey on Methodology, Applications and Challenges, Junyu Luo et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Large_Language_Model_Agent-A_Survey_on_Methodology_Applications_and_Challenges_Luo_2025.pdf)
 
+### Agentic Research and Applications of Agentic Research
+
+* [Application of Perplexity Labs Agentic Research using a Research Paper to develop human-tracking application using WiFi router, Reuven Cohen, 6/1/2025, Linkedin](https://www.linkedin.com/posts/reuvencohen_in-less-than-a-hour-using-the-new-perplexity-activity-7335073281504366594-cBIq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFZfUoBgPoGUucdnvtwuzPv79P8VHj6uvk)
+
+  paper:
+  [DensePose From WiFi, Jiaqi Geng et al, CMU, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/hardware_apps/DensePose_From_WiFi_Geng_2022.pdf)
+
+  UI:
+  [InvisiPose UI](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/128ed0182e73b2cbba51088d48a453a2/2e1df9f6-5c5a-4d3b-bbd8-51582d134357/index.html)
+
+  Perplexity Labs:
+  [link](https://www.perplexity.ai/search/create-full-implementation-of-g.TC1JIZQvWAifx85LpUcg?0=d&1=d#1)
+
+
 ### Large Concept Models
 
 * [Large Concept Models: Language Modeling in a Sentence Representation Space, the LCM Team, Meta FAIR, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_concept_models/Large_Concept_Models-Language_Modeling_in_a_Sentence_Representation_Space_LCM_team_Meta_2024.pdf)
