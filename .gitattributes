@@ -134,3 +134,4 @@ articles/human_like_reasoning/Harnessing_the_Universal_Geometry_of_Embeddings_Jh
 articles/human_like_reasoning/LLM_Post-Training-A_Deep_Dive_into_Reasoning_Large_Language_Models_Kumar_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/human_like_reasoning/Training_Large_Language_Models_to_Reason_in_a_Continuous_Latent_Space_Hao_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/reinforcement_learning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/human_like_reasoning/The_Entropy_Mechanism_of_Reinforcement_Learning_for_Reasoning_Language_Models_Cui_2025.pdf filter=lfs diff=lfs merge=lfs -text
