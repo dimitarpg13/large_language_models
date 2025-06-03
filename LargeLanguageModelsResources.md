@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning, Chen Shani et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/From_Tokens_to_Thoughts-How_LLMs_and_Humans_Trade_Compression_for_Meaning_Shani_2025.pdf)
+
 * [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models, C. Cui et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/The_Entropy_Mechanism_of_Reinforcement_Learning_for_Reasoning_Language_Models_Cui_2025.pdf)
 
 * [Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
@@ -347,6 +349,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Large Concept Models: Language Modeling in a Sentence Representation Space, the LCM Team, Meta FAIR, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_concept_models/Large_Concept_Models-Language_Modeling_in_a_Sentence_Representation_Space_LCM_team_Meta_2024.pdf)
 
+### Large Linguistic Models
+
+* [Large linguistic models: Investigating LLMs’ metalinguistic abilities, Gasper Begus et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/linguistic_models/Large_Linguistic_Models-Investigating_LLMs_metalinguistic_capabilities_Begus_2023.pdf)
+
 ### Large Language Diffusion Models
 
 * [Large Language Diffusion Models, S. Nie et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/large_lang_diffusion_models/Large_Language_Diffusion_Models_Nie_2025.pdf)
@@ -368,10 +374,12 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities, Thomas Schmied et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/LLMs_are_Greedy_Agents-Effects_of_RL_Fine-tuning_on_Decision-Making_Abilities_Schiemd_2025.pdf)
 
 * [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training, T. Chu, Y. Zhai, J. Yang, S. Tong,
-S. Xie, Dale Schuurmans, QV. Le, Sergey Levine](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/SFT_Memorizes_RL_Generalizes-A_Comparative_Study_of_Foundation_Model_Post-training_SergeyLevine_2025.pdf)
+S. Xie, Dale Schuurmans, QV. Le, Sergey Levine, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/SFT_Memorizes_RL_Generalizes-A_Comparative_Study_of_Foundation_Model_Post-training_SergeyLevine_2025.pdf)
 
 * [A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
 language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf)
+
+* [One-shot Entropy Minimization, Zitian Gao et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/One-shot_Entropy_Minimization_Gao_2025.pdf)
 
 * [Robust Preference Optimization through Reward Model Distillation, Adam Fisch et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Robust_Preference_Optimization_through_Reward_Model_Distillation_Fisch_2024.pdf)
 
@@ -405,6 +413,10 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 * [(Im)possibility of Automated Hallucination Detection in Large Language Models, A. Karbasi et al, Yale U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/hallucination/Impossibility_of_Automated_Hallucination_Detection_in_Large_Language_Models_Karbasi_yale_2025.pdf)
 
 * [Do Language Models Hallucinate Because We Punish Resistance? Izzat Imran, May 10, 2025, Linkedin](https://www.linkedin.com/pulse/do-language-models-hallucinate-because-we-punish-resistance-imran-jcekc/)
+
+### Memorization abilities of Large Language Models
+
+* [How Much Do Language Models Memorize? J.X. Morris et al, FAIR at Meta, 2025](https://github.com/dimitarpg13/large_language_models/tree/main/articles/memorization)
 
 ### Monte Carlo Tree Search in Large Language Models
 
