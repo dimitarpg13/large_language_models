@@ -475,6 +475,9 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 * [Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension, W. Gong et al, Microsoft, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_optimizer_design/Towards_Efficient_Optimizer_Design_for_LLM_via_Structured_Fisher_Approximation_with_a_Low-Rank_Extension_Gong_Msft_2025.pdf)
 
 ### Time-series forecasting and classification tasks
+
+* [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning, Andreas Auer et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/TiRex-Zero-Shot_Forecasting_Across_Long_and_Short_Horizons_with_Enhanced_In-Context_Learning_Auer_2025.pdf)
+
 * [iTransformer: The Latest Breakthrough in Time Series Forecasting, Marco Peixeiro, Towards Data Science, April 2024](https://towardsdatascience.com/itransformer-the-latest-breakthrough-in-time-series-forecasting-d538ddc6c5d1)
 
     relevant paper: [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting, Yong Liu et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/iTransformer-Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting_Liu_2023.pdf)
