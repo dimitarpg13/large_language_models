@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, Parshin Shojaee et al, Apple, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Shojaee_2025.pdf)
+
 * [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning, Chen Shani et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/From_Tokens_to_Thoughts-How_LLMs_and_Humans_Trade_Compression_for_Meaning_Shani_2025.pdf)
 
   [Comment  by W. Marcellino on the paper made on Linkedin](https://www.linkedin.com/posts/william-marcellino-ph-d-41982a19_250517117-activity-7335280730190622720-e5wI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFZfUoBgPoGUucdnvtwuzPv79P8VHj6uvk)
