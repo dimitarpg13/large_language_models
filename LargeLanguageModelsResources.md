@@ -612,6 +612,10 @@ relevant repos:
 
 * [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations, Evan Milller, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Adding_Error_Bars_to_Evals-A_Statistical_Approach_to_Language_Model_Evaluations_Miller_2024.pdf)
 
+#### Testing for AGI and ASI
+
+* [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Causal Recursive Compression and Algorithmic Probability, Alberto Hernández-Espinosa et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/AGI_and_ASI/SuperARC-An_Agnostic_Test_for_Narrow_General_and_Super_Intelligence_Based_On_the_Principles_of_Causal_Recursive_Compression_and_Algorithmic_Probability_Espinoza_2025.pdf)
+
 ### DSPy
 * [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines, Omar Khattab et al, Stanford U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/DSPy/DSPy-Compiling_Declarative_Language_Model_Calls_into_Self-Improving_Pipelines_Khattab_2023.pdf)
 
