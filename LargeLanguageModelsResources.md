@@ -369,6 +369,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [Reinforcement Pre-Training, Qingxiu Dong et al, Microsoft, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Reinforcement_Pre-Training_Tang_2025.pdf)
+
 * [Absolute Zero: Reinforced Self-play Reasoning with Zero Data, A. Zhao et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Absolute_Zero-Reinforced_Self-play_Reasoning_with_Zero_Data_Zhao_2025.pdf)
 
 * [Reinforcement Learning for Reasoning in Large Language Models with One Training Example, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Reinforcement_Learning_for_Reasoning_in_Large_Language_Models_with_One_Training_Example_Wang_2025.pdf)
