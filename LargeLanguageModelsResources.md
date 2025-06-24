@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Reasoning about Uncertainty: Do Reasoning Models Know When They Don’t Know?, Z. Mei et al, Princeton U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_about_Uncertainty-Do_Reasoning_Models_Know_When_They_Dont_Know_Mei_Princeton_2025.pdf)
+
 * [A Statistical Physics of Language Model Reasoning, Jack David Carson et al, MIT, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/A_Statistical_Physics_of_Language_Model_Reasoning_Carson_2025.pdf)
 
 * [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, Parshin Shojaee et al, Apple, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Shojaee_2025.pdf)
