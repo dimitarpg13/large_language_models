@@ -1,5 +1,7 @@
 # Learn Large Language Models by Doing
 
+[Implementing DeepSeek-R1 GRPO in Apple MLX framework, Lewis Won, June 2025](https://dev.to/lewis_won/implementing-deekseek-r1-grpo-in-apple-mlx-framework-3n97)
+
 [Can you really run LLMs locally on your laptop?, James Reagan, Dec 26, 2023, online blog](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop)
 
 [The spelled-out intro to neural networks and backpropagation: building micrograd, Andrej Karpathy, Feb, 2023, youtube video](https://youtu.be/VMj-3S1tku0)

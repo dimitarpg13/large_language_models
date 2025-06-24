@@ -255,6 +255,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, Parshin Shojaee et al, Apple, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Shojaee_2025.pdf)
 
+* [The Illusion of the Illusion of Thinking: A Comment on Shojaee et al. (2025), C. Opus, A. Lawsen, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Comment_on_The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Opus_2025.pdf)
+
 * [From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning, Chen Shani et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/From_Tokens_to_Thoughts-How_LLMs_and_Humans_Trade_Compression_for_Meaning_Shani_2025.pdf)
 
   [Comment  by W. Marcellino on the paper made on Linkedin](https://www.linkedin.com/posts/william-marcellino-ph-d-41982a19_250517117-activity-7335280730190622720-e5wI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFZfUoBgPoGUucdnvtwuzPv79P8VHj6uvk)
@@ -611,6 +613,10 @@ relevant repos:
 * [Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions, T. Hu et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Unveiling_LLM_Evaluation_Focused_on_Metrics-Challenges_and_Solutions_Hu_2024.pdf)
 
 * [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations, Evan Milller, Anthropic, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/evaluation/Adding_Error_Bars_to_Evals-A_Statistical_Approach_to_Language_Model_Evaluations_Miller_2024.pdf)
+
+#### Testing for AGI and ASI
+
+* [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Causal Recursive Compression and Algorithmic Probability, Alberto Hernández-Espinosa et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/AGI_and_ASI/SuperARC-An_Agnostic_Test_for_Narrow_General_and_Super_Intelligence_Based_On_the_Principles_of_Causal_Recursive_Compression_and_Algorithmic_Probability_Espinoza_2025.pdf)
 
 ### DSPy
 * [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines, Omar Khattab et al, Stanford U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/DSPy/DSPy-Compiling_Declarative_Language_Model_Calls_into_Self-Improving_Pipelines_Khattab_2023.pdf)
