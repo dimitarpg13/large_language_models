@@ -149,3 +149,4 @@ articles/human_like_reasoning/Reasoning_about_Uncertainty-Do_Reasoning_Models_Kn
 articles/performance_prediction/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/collective_artificial_intelligence_and_evolutionary_dynamics/mcavoy-et-al-unilateral-incentive-alignment-in-two-agent-stochastic-games.pdf filter=lfs diff=lfs merge=lfs -text
 articles/collective_artificial_intelligence_and_evolutionary_dynamics/terrucha-et-al-humans-program-artificial-delegates-to-accurately-solve-collective-risk-dilemmas-but-lack-precision.pdf filter=lfs diff=lfs merge=lfs -text
+articles/collective_artificial_intelligence_and_evolutionary_dynamics/barfuss-et-al-collective-cooperative-intelligence.pdf filter=lfs diff=lfs merge=lfs -text
