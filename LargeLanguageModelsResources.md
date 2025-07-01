@@ -251,6 +251,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks, Yifei Xu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Direct_Reasoning_Optimization-LLMs_can_Reward_and_refine_their_own_Reasoning_for_Open-Ended_Tasks_Xu_2025.pdf)
+
 * [Reasoning about Uncertainty: Do Reasoning Models Know When They Don’t Know?, Z. Mei et al, Princeton U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_about_Uncertainty-Do_Reasoning_Models_Know_When_They_Dont_Know_Mei_Princeton_2025.pdf)
 
 * [A Statistical Physics of Language Model Reasoning, Jack David Carson et al, MIT, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/A_Statistical_Physics_of_Language_Model_Reasoning_Carson_2025.pdf)
@@ -316,6 +318,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [Training as we know it might end, VintageData blog post, 2025](https://vintagedata.org/blog/posts/training-as-we-know-it-will-end)
 
 ### Agentic LLMs and Multi-Agent LLM Systems
+
+* [Survey on Evaluation of LLM-based Agents, Asaf Yehudai et al, The Hebrew University of Jerusalem, IBM, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Survey_on_Evaluation_of_LLM-based_Agents_Yehudai_2025.pdf)
 
 * [Small Language Models are the Future of Agentic AI, Peter Belcak et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/agentic_LLMs_and_multi-agent_systems/Small_Language_Models_are_the_Future_of_Agentic_AI_Belcak_2025.pdf)
 
@@ -528,6 +532,10 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
     TTM model and source code: https://huggingface.co/ibm/TTM, https://github.com/IBM/tsfm/tree/main/tsfm_public/models/tinytimemixer
 
 * [Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U. of Virginia, U. of Washington, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
+
+### Performance Prediction
+
+* [Performance Prediction for Large Systems via Text-to-Text Regression, Yash Akhauri et al, Google, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/performance_prediction/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf)
 
 ### Retrieval-Augmented Generation (RAG)
 
