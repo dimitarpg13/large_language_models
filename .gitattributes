@@ -156,3 +156,4 @@ articles/collective_artificial_intelligence_and_evolutionary_dynamics/garcía-tr
 articles/collective_artificial_intelligence_and_evolutionary_dynamics/kleiman-weiner-et-al-evolving-general-cooperation-with-a-bayesian-theory-of-mind.pdf filter=lfs diff=lfs merge=lfs -text
 articles/collective_artificial_intelligence_and_evolutionary_dynamics/köster-et-al-tabula-rasa-agents-display-emergent-in-group-behavior.pdf filter=lfs diff=lfs merge=lfs -text
 articles/human_like_reasoning/Critical_Phase_Transition_in_a_Large_Language_Model_Nakaishi.pdf filter=lfs diff=lfs merge=lfs -text
+articles/attention/Fast_and_Simplex-2-Simplicial_Attention_in_Triton_Roy_Meta_2025.pdf filter=lfs diff=lfs merge=lfs -text
