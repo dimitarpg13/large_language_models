@@ -579,6 +579,8 @@ relevant repos:
 
 ### The Attention Mechanicsm and Its Alternatives in Large Language Models
 
+* [Fast and Simplex: 2-Simplicial Attention in Triton, Aurko Roy et al, Meta, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Fast_and_Simplex-2-Simplicial_Attention_in_Triton_Roy_Meta_2025.pdf)
+
 * [The FFTStrikes Back: An Efficient Alternative to Self-Attention, Jacob Fein-Ashley, U of SoCal, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/The_FFT_Strikes_Back-An_Efficient_Alternative_to_Self-Attention_Fein-Ashley_2025.pdf)
 
 * [Capturing Relative Positional Information Before RoPE In LLMs, Damien Benveniste, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Capturing_Relative_Positional_Information_Before_RoPE_In_LLMs_Benveniste_2025.pdf)
