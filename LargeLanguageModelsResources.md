@@ -257,6 +257,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [A Statistical Physics of Language Model Reasoning, Jack David Carson et al, MIT, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/A_Statistical_Physics_of_Language_Model_Reasoning_Carson_2025.pdf)
 
+* [Critical Phase Transition in a Large Language Model, Kai Nakaishi et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Critical_Phase_Transition_in_a_Large_Language_Model_Nakaishi.pdf)
+
 * [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity, Parshin Shojaee et al, Apple, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Shojaee_2025.pdf)
 
 * [The Illusion of the Illusion of Thinking: A Comment on Shojaee et al. (2025), C. Opus, A. Lawsen, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Comment_on_The_Illusion_of_Thinking-Understanding_the_Strengths_and_Limitations_of_Reasoning_Models_via_the_Lens_of_Problem_Complexity_Opus_2025.pdf)
