@@ -34,10 +34,6 @@
 
 * [Better & Faster Large Language Models via Multi-token Prediction, Fabian Gloeckle et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Better_Faster_Large_Language_Models_via_Multi-token_Prediction_Gloeckle_2024.pdf)
 
-* [The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text, Y. Guo et al, EP Paris, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Curious_Decline_of_Linguistic_Diversity-Training_Language_Models_on_Synthetic_Text_Guo_EPL_2024.pdf)
-
-* [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
-
 * [FACtual enTailment fOr hallucInation Detection, Vipula Rawte et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/FACTOID-FACtual_enTailment_fOr_hallucInation_Detection_Rawte_2024.pdf)
 
 * [Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks, Kim et al, Korea U., Imperial College, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Small_Language_Models_Learn_Enhanced_Reasoning_Skills_from_Medical_Textbooks_Kim_2024.pdf)
@@ -226,6 +222,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 ### Training LLMs
 
 * [Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful, M. Marek, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/training/Small_Batch_Size_Training_for_Language_Models-When_Vanilla_SGD_Works_and_Why_Gradien_Accumulation_Is_Wasteful_Marek_2025.pdf)
+
+* [The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text, Y. Guo et al, EP Paris, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Curious_Decline_of_Linguistic_Diversity-Training_Language_Models_on_Synthetic_Text_Guo_EPL_2024.pdf)
+
+* [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
 
 ### Fine Tuning LLMs
 
