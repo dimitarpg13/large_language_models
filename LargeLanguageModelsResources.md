@@ -52,8 +52,6 @@
 
 * [Demystifying Embedding Spaces using Large Language Models, G. Tennenholtz et al, Google Research, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Demystifying_Embedding_Spaces_using_Large_Language_Models_Tennenholtz_2023.pdf)
 
-* [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training, B. McKinzie et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MM1-Methods_Analysis_Insights_from_Multimodal_LLM_Pre-training_McKinzie_2024.pdf)
-
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking, Eric Zelikman et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Quiet-STaR-Language_Models_Can_Teach_Themselves_to_Think_Before_Speaking_Zelikman_Stanford_2024.pdf)
 
 * [Self-Discover: Large Language Models Self-Compose Reasoning Structures, P. Zhou et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Discover-Large_Language_Models_Self-Compose_Reasoning_Structures_Zhou_2024.pdf)
@@ -153,10 +151,6 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Vision Language Transformers: A Survey, Clayton Fields, Casey Kennington, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Vision_Language_Transformers-A_Survey_Fields_2023.pdf)
 
-* [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization, Jin et al, Peking U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Language-Vision_Pretraining_in_LLM_with_Dynamic_Discrete_Visual_Tokenization_Jin_2023.pdf)
-
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al., Google AI, 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
-
 * [FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling, Ott et al., 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/FairseqAFastExtensibleToolkitForSequenceModeling.pdf)
 
 * [Autoencoders, Dor Bank et al, 2021](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Autoencoders.pdf)
@@ -195,8 +189,6 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin, Google AI, 2019](https://github.com/dimitarpg13/large_language_models/blob/main/articles/BERT-Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding_Devlin_Google_2019.pdf)
 
-* [Improving Language Understanding by Generative Pre-Training, A. Redford, Open AI, 2018](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Improving_Language_Understanding_by_Generative_Pre-Training_Redford_OpenAI_2018.pdf)
-
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models, H. Touvron, Meta, 2023](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Llama2-Open_Foundation_and_Fine-Tuned_Chat_Models_Touvron_Meta_2023.pdf)
 
 * [Scaling Language Models - Methods, Analysis and Insights from Training Gopher,JW Rae, DeepMind, 2021](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Scaling_Language_Models-Methods_Analysis_Insights_from_Training_Gopher_Rae_DeepMind_2021.pdf)
@@ -226,6 +218,15 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text, Y. Guo et al, EP Paris, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Curious_Decline_of_Linguistic_Diversity-Training_Language_Models_on_Synthetic_Text_Guo_EPL_2024.pdf)
 
 * [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
+
+* [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training, B. McKinzie et al, Apple, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/MM1-Methods_Analysis_Insights_from_Multimodal_LLM_Pre-training_McKinzie_2024.pdf)
+
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Devlin et al., Google AI, 2019](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/BERTPretrainingofDeepBidirectionalTransformersforLanguageUnderstanding.pdf)
+
+* [Improving Language Understanding by Generative Pre-Training, A. Redford, Open AI, 2018](https://github.com/dimitarpg13/large_language_models/tree/main/articles/Improving_Language_Understanding_by_Generative_Pre-Training_Redford_OpenAI_2018.pdf)
+
+* [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization, Jin et al, Peking U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unified_Language-Vision_Pretraining_in_LLM_with_Dynamic_Discrete_Visual_Tokenization_Jin_2023.pdf)
+
 
 ### Fine Tuning LLMs
 
