@@ -223,6 +223,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [...More LLM articles on this repo](https://github.com/dimitarpg13/large_language_models/tree/main/articles)
 
+### Training LLMs
+
+* [Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful, M. Marek, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/training/Small_Batch_Size_Training_for_Language_Models-When_Vanilla_SGD_Works_and_Why_Gradien_Accumulation_Is_Wasteful_Marek_2025.pdf)
+
 ### Fine Tuning LLMs
 
 * [Overtrained Language Models Are Harder to Fine-Tune, Jacob Mitchell Springer et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/Overtrained_Language_Models_Are_Harder_to_Fine-Tune_Springer_2025.pdf)
