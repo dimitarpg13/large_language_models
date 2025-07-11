@@ -215,6 +215,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful, M. Marek, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/training/Small_Batch_Size_Training_for_Language_Models-When_Vanilla_SGD_Works_and_Why_Gradien_Accumulation_Is_Wasteful_Marek_2025.pdf)
 
+* [Unsupervised Elicitation of Language Models, J. Wen et al, Anthropic, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/training/Unsupervised_Elicitation_of_Language_Models_Wen_2025.pdf)
+
 * [The Curious Decline of Linguistic Diversity: Training Language Models on Synthetic Text, Y. Guo et al, EP Paris, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/The_Curious_Decline_of_Linguistic_Diversity-Training_Language_Models_on_Synthetic_Text_Guo_EPL_2024.pdf)
 
 * [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework, Sachin Mehta et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/OpenELM-An_Efficient_Language_Model_Family_with_Open-source_Training_and_Inference_Framework_Mehta_2024.pdf)
