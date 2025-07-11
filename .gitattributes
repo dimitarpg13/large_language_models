@@ -160,3 +160,4 @@ articles/attention/Fast_and_Simplex-2-Simplicial_Attention_in_Triton_Roy_Meta_20
 articles/CLIP/Contrasting_with_Symile-Simple_Model-Agnostic_Representation_Learning_for_Unlimited_Modalities_Saporta_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/CLIP/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf filter=lfs diff=lfs merge=lfs -text
 articles/training/Unsupervised_Elicitation_of_Language_Models_Wen_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/reinforcement_learning/Perception-Aware_Policy_Optimization_for_Multimodal_Reasoning_Wang_2025.pdf filter=lfs diff=lfs merge=lfs -text
