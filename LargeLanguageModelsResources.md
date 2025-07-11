@@ -258,6 +258,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Perception-Aware Policy Optimization for Multimodal Reasoning, Z. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Perception-Aware_Policy_Optimization_for_Multimodal_Reasoning_Wang_2025.pdf)
+
 * [Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks, Yifei Xu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Direct_Reasoning_Optimization-LLMs_can_Reward_and_refine_their_own_Reasoning_for_Open-Ended_Tasks_Xu_2025.pdf)
 
 * [Reasoning about Uncertainty: Do Reasoning Models Know When They Don’t Know?, Z. Mei et al, Princeton U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_about_Uncertainty-Do_Reasoning_Models_Know_When_They_Dont_Know_Mei_Princeton_2025.pdf)
