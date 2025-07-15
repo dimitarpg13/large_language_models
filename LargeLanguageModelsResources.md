@@ -377,6 +377,11 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
   Perplexity Labs:
   [link](https://www.perplexity.ai/search/create-full-implementation-of-g.TC1JIZQvWAifx85LpUcg?0=d&1=d#1)
 
+### Mathematical Models of Large Language Models
+
+#### Large Language Model as Markov Chain
+
+* [Large Language Models as Markov Chains, O. Zekri et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_is_Markov_chain/Large_Language_Models_as_Markov_Chains_Zekri_2025.pdf)
 
 ### Large Concept Models
 
