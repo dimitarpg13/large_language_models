@@ -244,6 +244,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Fine-Tuning Large Language Models (LLMs) with Shawhin Talebi, Medium, 2023](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91)
 
+### Post-training LLMs
+
+* [LLM Post-Training: A Deep Dive into Reasoning Large Language Models, Komal Kumar et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/post-training/LLM_Post-Training-A_Deep_Dive_into_Reasoning_Large_Language_Models_Kumar_2025.pdf)
+
 ### Chain-of-Thought in LLMs
 
 * [Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures, Tushar Pandey et al, Agnostiq, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/graph_models/Adaptive_Graph_of_Thoughts-Test-Time_Adaptive_Reasoning_Unifying_Chain_Tree_and_Graph_Structures_Pandey_2025.pdf)
