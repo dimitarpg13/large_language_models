@@ -248,6 +248,21 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [LLM Post-Training: A Deep Dive into Reasoning Large Language Models, Komal Kumar et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/post-training/LLM_Post-Training-A_Deep_Dive_into_Reasoning_Large_Language_Models_Kumar_2025.pdf)
 
+### In-Context Learning
+
+* [Is In-Context Learning in Large Language Models Bayesian? A Martingale Perspective, Fabian Falck et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/in-context_learning/Is_In-Context_Learning_in_Large_Language_Models_Bayesian_A_Martingale_Perspective_Falck_2024.pdf)
+
+* [Transformers Learn In-Context by Gradient Descent, Oswald et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_Learn_In-Context_by_Gradient_Descent_Oswald_2023.pdf)
+
+* [Transformers as Algorithms: Generalization and Stability in In-context Learning, Li et al., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_as_Algorithms-Generalization_and_Stability_in_In-context_Learning_Li_2023.pdf)
+
+* [An Explanation of In-context Learning as Implicity Bayesian Inference, Xie et al., Stanford, 2022](https://github.com/dimitarpg13/large_language_models/blob/main/articles/An_Explanation_of_In-context_Learning_as_Implicit_Bayesian_Inference_Stanford_2022.pdf)
+
+* [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions, S. Bhattamishra, Oxford U., 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Understanding_In-Context_Learning_in_Transformers_and_LLMs_by_Learning_to_Learn_Discrete_Functions_Bhattamishra_2023.pdf)
+
+* [What Can Transformers Learn in Context? A Case Study of Simple Function Classes, Carg S., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/What_Can_Transformers_Learn%20In-Context-A_Case_Study_of_Simple_Function_Classes_Stanford_2023.pdf)
+
+
 ### Chain-of-Thought in LLMs
 
 * [Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures, Tushar Pandey et al, Agnostiq, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/graph_models/Adaptive_Graph_of_Thoughts-Test-Time_Adaptive_Reasoning_Unifying_Chain_Tree_and_Graph_Structures_Pandey_2025.pdf)
@@ -261,6 +276,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 * [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
 
 ### Human-like Reasoning and Representation Learning
+
+* [KV Cache Steering for Inducing Reasoning in Small Language Models, Max Belitsky et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/KV_cache/KV_Cache_Steering_for_Inducing_Reasoning_in_Small_Language_Models_Belitsky_2025.pdf)
+
+  github repo: https://github.com/MaxBelitsky/cache-steering
 
 * [Perception-Aware Policy Optimization for Multimodal Reasoning, Z. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Perception-Aware_Policy_Optimization_for_Multimodal_Reasoning_Wang_2025.pdf)
 
@@ -378,6 +397,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
   [link](https://www.perplexity.ai/search/create-full-implementation-of-g.TC1JIZQvWAifx85LpUcg?0=d&1=d#1)
 
 ### Mathematical Models of Large Language Models
+
+* [Enough Coin Flips Can Make LLMs Act Bayesian, Ritwik Gupta et al, UC Berkeley, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/probabilistic_modeling/Enough_Coin_Flips_Can_Make_LLMs_Act_Bayesian_Klein_2025.pdf)
 
 #### Large Language Model as Markov Chain
 
