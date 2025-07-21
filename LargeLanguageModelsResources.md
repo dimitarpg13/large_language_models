@@ -277,6 +277,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Energy-Based Transformers are Scalable Learners and Thinkers, Alexi Gladstone et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/energy-based_methods/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf)
+
 * [KV Cache Steering for Inducing Reasoning in Small Language Models, Max Belitsky et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/KV_cache/KV_Cache_Steering_for_Inducing_Reasoning_in_Small_Language_Models_Belitsky_2025.pdf)
 
   github repo: https://github.com/MaxBelitsky/cache-steering
