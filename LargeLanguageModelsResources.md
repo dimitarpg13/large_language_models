@@ -402,6 +402,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Enough Coin Flips Can Make LLMs Act Bayesian, Ritwik Gupta et al, UC Berkeley, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/probabilistic_modeling/Enough_Coin_Flips_Can_Make_LLMs_Act_Bayesian_Klein_2025.pdf)
 
+* [LLMs are Bayesian, In Expectation, Not in Realization, Leon Chlon et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/probabilistic_modeling/LLMs_are_Bayesian_in_Expectation_not_in_Realization_Leon_Chlon_2025.pdf)
+
 #### Large Language Model as Markov Chain
 
 * [Large Language Models as Markov Chains, O. Zekri et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_is_Markov_chain/Large_Language_Models_as_Markov_Chains_Zekri_2025.pdf)
