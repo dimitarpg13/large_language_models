@@ -479,6 +479,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [Do Language Models Hallucinate Because We Punish Resistance? Izzat Imran, May 10, 2025, Linkedin](https://www.linkedin.com/pulse/do-language-models-hallucinate-because-we-punish-resistance-imran-jcekc/)
 
+* [LLMs are Bayesian, In Expectation, Not in Realization, Leon Chlon et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/probabilistic_modeling/LLMs_are_Bayesian_in_Expectation_not_in_Realization_Leon_Chlon_2025.pdf)
+
 ### Memorization abilities of Large Language Models
 
 * [How Much Do Language Models Memorize? J.X. Morris et al, FAIR at Meta, 2025](https://github.com/dimitarpg13/large_language_models/tree/main/articles/memorization)
