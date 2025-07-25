@@ -167,3 +167,4 @@ articles/probabilistic_modeling/Enough_Coin_Flips_Can_Make_LLMs_Act_Bayesian_Kle
 articles/in-context_learning/Is_In-Context_Learning_in_Large_Language_Models_Bayesian_A_Martingale_Perspective_Falck_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/energy-based_methods/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/probabilistic_modeling/LLMs_are_Bayesian_in_Expectation_not_in_Realization_Leon_Chlon_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf filter=lfs diff=lfs merge=lfs -text
