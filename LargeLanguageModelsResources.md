@@ -653,6 +653,8 @@ relevant repos:
 
 * [Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/Attention-is-all-you-need-NIPS-2017.pdf)
 
+* [Learning to Control Fast-Weight Memories: An Alternative to Dynamic Recurrent Networks, J. Schmidhuber et al, 1992](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Learning_to_Control_Fast-Weight_Memories_1992-schmidhuber.pdf)
+
 * [HyperAttention: Long-context Attention in Near-Linear Time, Insu Han et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/HyperAttention-Long-context_Attention_in_Near-Linear_Time_Han_2023.pdf)
 
 * [The Annotated Transformer, 2018](https://github.com/dimitarpg13/transformers_intro/blob/main/articles_and_books/TheAnnotatedTransformer.pdf)
