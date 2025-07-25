@@ -270,6 +270,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment, J. Guo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf)
 
+* [LLMs Can Now Self-Evolve At Test Time Using Reinforcement Learning, Dr. Ashish Bamania, Jul 16, 2025, Medium](https://ai.gopubby.com/llms-can-now-self-evolve-at-test-time-using-reinforcement-learning-e769ee6d3f86)
+
+* [TTRL: Test-Time Reinforcement Learning, Y. Zuo et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/TTRL-Test-Time_Reinforcement_Learning_Zuo_2025.pdf)
+
 ### Chain-of-Thought in LLMs
 
 * [Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures, Tushar Pandey et al, Agnostiq, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/graph_models/Adaptive_Graph_of_Thoughts-Test-Time_Adaptive_Reasoning_Unifying_Chain_Tree_and_Graph_Structures_Pandey_2025.pdf)
