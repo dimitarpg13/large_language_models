@@ -250,6 +250,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### In-Context Learning
 
+* [Learning without training: The implicit dynamics of in-context learning, Benoit Dherin et al, Google Research, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/in-context_learning/Learning_without_training-The_implicit_dynamics_of_in-context_learning_Dherin_2025.pdf)
+
 * [Is In-Context Learning in Large Language Models Bayesian? A Martingale Perspective, Fabian Falck et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/in-context_learning/Is_In-Context_Learning_in_Large_Language_Models_Bayesian_A_Martingale_Perspective_Falck_2024.pdf)
 
 * [Transformers Learn In-Context by Gradient Descent, Oswald et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Transformers_Learn_In-Context_by_Gradient_Descent_Oswald_2023.pdf)
@@ -262,6 +264,11 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [What Can Transformers Learn in Context? A Case Study of Simple Function Classes, Carg S., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/What_Can_Transformers_Learn%20In-Context-A_Case_Study_of_Simple_Function_Classes_Stanford_2023.pdf)
 
+### Test Time Adaptation
+
+* [Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
+
+* [Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment, J. Guo et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/Everything_to_the_Synthetic-Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_Guo_2024.pdf)
 
 ### Chain-of-Thought in LLMs
 
