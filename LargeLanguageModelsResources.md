@@ -300,6 +300,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Mixture of Experts, Lecture from 10-423/10-623 Generative AI, Matt Gromley, Henry Chai](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/Mixture_of_Experts_Gormley_2024.pdf)
 
+* [Adaptive Mixture of Local Experts, R.A. Jacobs et al, 1991](articles/mixture_of_experts/Adaptive_Mixture_of_Local_Experts_Jacobs_1991.pdf)
+
 ### Test Time Adaptation
 
 * [Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
