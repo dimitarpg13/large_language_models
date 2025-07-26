@@ -264,6 +264,42 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [What Can Transformers Learn in Context? A Case Study of Simple Function Classes, Carg S., et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/What_Can_Transformers_Learn%20In-Context-A_Case_Study_of_Simple_Function_Classes_Stanford_2023.pdf)
 
+### LLM Tokenization
+
+* [Let's build the GPT Tokenizer with Andrej Karpathy (February 2024)](https://youtu.be/zduSFxRajkE)
+  
+* [Minimal Byte Pair Encoding Algorithm (Andrej Karpathy repo)](https://github.com/karpathy/minbpe/tree/master)
+  
+* [Language Models are Unsupervised Multitask Learners, Alec Radford et al, 2018](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Models_are_Unsupervised_Multitask_Learners_Alec_Radford_OpenAI_2018.pdf)
+  
+* [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
+
+### Context Window representations and implementations
+
+* [Towards infinite LLM context windows, Towards Data Science, Krzysztof K. Zdeb, 2024](https://towardsdatascience.com/towards-infinite-llm-context-windows-e099225abaaf)
+
+* [RoFormer: Enhanced Transformer with Rotary Position Embedding, Jianlin Su et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RoFormer-Enhanced_Transformer_with_Rotary_Position_Embedding_Su_2023.pdf)
+
+* [YaRN: Efficient Context Window Extension of Large Language Models, B. Peng et al, U of Geneva, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/YaRN-Efficient_Context_Window_Extension_of_Large_Language_Models_Peng_UoGeneva_2023.pdf)
+
+* [PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training, D. Zhu et al, Peking U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/PoSE-Efficient_Context_Window_Extension_of_LLMs_via_Positional_Skip-wise_Training_Zhu_Peking_U_2024.pdf)
+
+* [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens, Y. Ding et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LongRoPE-Extending_LLM_Context_Window_Beyond_2_Million_Tokens_Ding_Microsoft_2024.pdf)
+
+* [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
+
+### Mixture--of-Experts Architecture 
+
+* [The First Sparse Mixture of Experts, D. Benveniste, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/The_first_sparse_mixture_of_experts_Bienveniste_2025.pdf)
+
+* [The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs, A. Vats et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/The_Evolution_of_Mixture_of_Experts-A_Survey_from_Basics_to_Breakthroughs_Vats_2024.pdf)
+
+* [A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications, S. Mu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/Comprehensive_Survey_of_Mixture-of-Experts-Algorithms_Theory_and_Applications_Mu_2025.pdf)
+
+* [A Survey on Mixture of Experts in Large Language Models, W. Cai et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/Survey_on_Mixture_of_Experts_in_Large_Language_Models_Cai_2025.pdf)
+
+* [Mixture of Experts, Lecture from 10-423/10-623 Generative AI, Matt Gromley, Henry Chai](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/Mixture_of_Experts_Gormley_2024.pdf)
+
 ### Test Time Adaptation
 
 * [Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
@@ -524,29 +560,6 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [DeepMath - Deep Sequence Models for Premise Selection, Alexander Alemi, Francois Chollet et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/theorem_proving/DeepMath-Deep_Sequence_Models_for_Premise_Selection_alemi_2016.pdf)
 
-### LLM Tokenization
-
-* [Let's build the GPT Tokenizer with Andrej Karpathy (February 2024)](https://youtu.be/zduSFxRajkE)
-  
-* [Minimal Byte Pair Encoding Algorithm (Andrej Karpathy repo)](https://github.com/karpathy/minbpe/tree/master)
-  
-* [Language Models are Unsupervised Multitask Learners, Alec Radford et al, 2018](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Language_Models_are_Unsupervised_Multitask_Learners_Alec_Radford_OpenAI_2018.pdf)
-  
-* [Neural Machine Translation of Rare Words with Subword Units, Rico Senrich et al, 2016](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Neural_Machine_Translation_of_Rare_Words_with_Subword_Units_Rico_Senrich_2016.pdf)
-
-### Context Window representations and implementations
-
-* [Towards infinite LLM context windows, Towards Data Science, Krzysztof K. Zdeb, 2024](https://towardsdatascience.com/towards-infinite-llm-context-windows-e099225abaaf)
-
-* [RoFormer: Enhanced Transformer with Rotary Position Embedding, Jianlin Su et al, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/RoFormer-Enhanced_Transformer_with_Rotary_Position_Embedding_Su_2023.pdf)
-
-* [YaRN: Efficient Context Window Extension of Large Language Models, B. Peng et al, U of Geneva, 2023](https://github.com/dimitarpg13/large_language_models/blob/main/articles/YaRN-Efficient_Context_Window_Extension_of_Large_Language_Models_Peng_UoGeneva_2023.pdf)
-
-* [PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training, D. Zhu et al, Peking U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/PoSE-Efficient_Context_Window_Extension_of_LLMs_via_Positional_Skip-wise_Training_Zhu_Peking_U_2024.pdf)
-
-* [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens, Y. Ding et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LongRoPE-Extending_LLM_Context_Window_Beyond_2_Million_Tokens_Ding_Microsoft_2024.pdf)
-
-* [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
 
 ### LLM Optimizer Design
 
