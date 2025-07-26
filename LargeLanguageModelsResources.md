@@ -288,7 +288,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention, T. Munkhdalai et al, Google, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Leave_No_Context_Behind-Efficient_Infinite_Context_Transformers_with_Infini-attention_Munkhadali_Google_2024.pdf)
 
-### Mixture--of-Experts Architecture 
+### The Mixture-of-Experts Architecture 
 
 * [The First Sparse Mixture of Experts, D. Benveniste, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/The_first_sparse_mixture_of_experts_Bienveniste_2025.pdf)
 
