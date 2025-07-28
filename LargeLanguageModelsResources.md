@@ -326,11 +326,15 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * https://openai.com/index/introducing-deep-research/
 
+* https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research
+
 * https://quansight.com/post/anatomy-of-a-local-pdf-deep-research-pipeline
 
 * [The Differences between Deep Research, Deep Research, and Deep Research, Han Lee blog, Feb 26, 2025](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
 
 * https://github.com/langchain-ai/open_deep_research
+
+* https://huggingface.co/blog/open-deep-research
 
 * https://github.com/LearningCircuit/local-deep-research
 
