@@ -322,6 +322,28 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Self-Consistency Improves Chain-of-Thought Reasoning in Large Language Models, X. Wang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Consistency_Improves_Chain_of_Thought_Reasoning_in_Language_Models_Wang_2022.pdf)
 
+### Deep Research with LLMs
+
+* https://openai.com/index/introducing-deep-research/
+
+* https://quansight.com/post/anatomy-of-a-local-pdf-deep-research-pipeline
+
+* (The Differences between Deep Research, Deep Research, and Deep Research, Han Lee blog, Feb 26, 2025)[https://leehanchung.github.io/blogs/2025/02/26/deep-research/]
+
+* https://github.com/langchain-ai/open_deep_research
+
+* https://github.com/LearningCircuit/local-deep-research
+
+* https://github.com/GAIR-NLP/DeepResearcher
+
+* https://github.com/u14app/deep-research
+
+* https://github.com/nickscamara/open-deep-research
+
+* [Deep Researcher with Test-Time Diffusion, Rujun Han et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/test_time_adaptation/Deep_Researcher_with_Test-Time_Diffusion_Han_2025.pdf)
+
+* [TreeReader: A Hierarchical Academic Paper Reader Powered by Language Models, Z. Zhang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/deep_research/TreeReader-A_Hierarchical_Academic_Paper_Reader_Powered_by_Language_Models_Zhang_2025.pdf)
+
 ### LLM-inspired techniques in statistical learning
 
 * [Understanding LLM Embeddings for Regression, E. Tang et al, Stanford U., 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/embeddings/Understanding_LLM_Embeddings_for_Regression_Tang_2024.pdf)
