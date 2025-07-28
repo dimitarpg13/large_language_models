@@ -328,7 +328,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * https://quansight.com/post/anatomy-of-a-local-pdf-deep-research-pipeline
 
-* (The Differences between Deep Research, Deep Research, and Deep Research, Han Lee blog, Feb 26, 2025)[https://leehanchung.github.io/blogs/2025/02/26/deep-research/]
+* [The Differences between Deep Research, Deep Research, and Deep Research, Han Lee blog, Feb 26, 2025](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
 
 * https://github.com/langchain-ai/open_deep_research
 
