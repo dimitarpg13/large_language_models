@@ -177,3 +177,4 @@ articles/human_like_reasoning/Beyond_Binary_Rewards-Training_LMs_to_Reason_About
 articles/deep_research/TreeReader-A_Hierarchical_Academic_Paper_Reader_Powered_by_Language_Models_Zhang_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/human_like_reasoning/Can_Large_Language_Models_Reason_and_Plan_Kambhampati_2024.pdf filter=lfs diff=lfs merge=lfs -text
 articles/CoT/Chain_of_Thoughtlessness_An_Analysis_of_CoT_in_Planning_Stechly_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/planning_and_reasoning/Mastering_Board_Games_by_External_and_Internal_Planning_with_Language_Models_Schultz_2025.pdf filter=lfs diff=lfs merge=lfs -text
