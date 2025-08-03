@@ -300,7 +300,7 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Mixture of Experts, Lecture from 10-423/10-623 Generative AI, Matt Gromley, Henry Chai](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/Mixture_of_Experts_Gormley_2024.pdf)
 
-* [Adaptive Mixture of Local Experts, R.A. Jacobs et al, 1991](articles/mixture_of_experts/Adaptive_Mixture_of_Local_Experts_Jacobs_1991.pdf)
+* [Adaptive Mixture of Local Experts, R.A. Jacobs et al, 1991](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/Adaptive_Mixture_of_Local_Experts_Jacobs_1991.pdf)
 
 * [HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts, H. Zhao et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/mixture_of_experts/HyperMoE-Towards_Better_Mixture_of_Experts_via_Transferring_Among_Experts_Zhao_2024.pdf)
 
