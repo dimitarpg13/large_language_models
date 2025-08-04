@@ -180,3 +180,4 @@ articles/CoT/Chain_of_Thoughtlessness_An_Analysis_of_CoT_in_Planning_Stechly_202
 articles/planning_and_reasoning/Mastering_Board_Games_by_External_and_Internal_Planning_with_Language_Models_Schultz_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Reflexion/Reflexion-Language_Agents_with_Verbal_Reinforcement_Learning_Shinn_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Reflexion/LLMs_can_learn_self-restraint_through_iterative_self-reflection_Piche_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Reflexion/Self-Reflection_in_LLM_Agents-Effects_on_Problem-Solving_Performance_Renze_2024.pdf filter=lfs diff=lfs merge=lfs -text
