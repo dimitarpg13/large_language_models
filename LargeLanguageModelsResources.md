@@ -768,6 +768,54 @@ relevant repos:
 
 ## online videos and blogs
 
+* [Reasoning LLMs from Scratch by Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
+
+  [Lecture 1 - Reasoning LLMs from Scratch - Series Introduction](https://youtu.be/k2QEElQ9eeM?si=mw1XSGJ3fhdclx2P)
+
+  [Lecture 2 - Chain of Thought Reasoning | Reasoning LLMs from Scratch Series](https://youtu.be/fZNNqcN_UQM?si=V6JdzQgV9h-g3r_P)
+
+  [Lecture 3 - Verifiers - Beam Search | Reasoning LLMs from Scratch](https://youtu.be/RPMK-7ivE2o?si=pnIAvbAW9rnUo4vT)
+
+  [Lecture 4 - Reinforcement Learning - Basics | Reasoning LLMs from Scratch](https://youtu.be/3inJ9dMeqCM?si=RkXXrG04m-hxi0vT)
+
+  [Lecture 4b - Multi-Arm Bandits | Reasoning LLMs from Scratch](https://youtu.be/R4sdSAENpjw?si=ZBLu7df1ReQgsxtU)
+
+  [Lecture 5 - Markov Decision Processes | Reasoning LLMs from Scratch](https://youtu.be/cUK4xclSjag?si=SdAYhbAD8dIcM8Qs)
+
+  [Lecture 6 - Value Functions | Reinforcement Learning | Reasoning LLMs from Scratch](https://youtu.be/9dJOxicKpGY?si=PeNJ-ywQn2-gv07m)
+
+  [Lecture 7 - Dynamic Programming | Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/OGGO0bX3xJs?si=0Aj3fkeSVbQkA02B)
+
+  [Lecture 8 - Monte Carlo Methods | Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/uH7a0I-Q4Qc?si=P_uHw36Aa7uUeCDi)
+
+  [Lecture 9 - Temporal Difference Prediction|Reinforcement Learning Phase| Reasoning LLMs from Scratch](https://youtu.be/JqGy6DxYLmY?si=vNTg4OwO3dDeepvP)
+
+  [Lecture 10 -Temporal Difference Control | Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/PfCME1G7hKI?si=tYoa3AOEM2KtIygj)
+
+  [Lecture 11 - Function Approximation Methods|Reinforcement Learning Phase|Reasoning LLMs from Scratch](https://youtu.be/a1HiRKBW38E?si=qWy3qJ-fRvqIDQ5g)
+
+  [Lecture 12 - Policy Control using Value Function Approximation | Reasoning LLMs from Scratch](https://youtu.be/WEY0FduXs28?si=kbTfQvWQfjsAFWK6)
+
+  [Lecture 13 - Policy Gradient Methods | Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/OjLi8bTI7wk?si=8xzxzgTNh8azvT5m)
+
+  [Lecture 14 - REINFORCE | Reinforcement Learning Phase|Reasoning LLMs from Scratch](https://youtu.be/0myDortFqqU?si=xbb6_XDmLbHXyaYw)
+
+  [Lecture 15 Generalized Advantage Estimation|Reinforcement Learning Phase|Reasoning LLMs from Scratch](https://youtu.be/NlzExbeFNPs?si=v6nyEJIukliT-xsL)
+
+  [Lecture 16 Trust Region Policy Optimization|Reinforcement Learning Phase|Reasoning LLMs from Scratch](https://youtu.be/VeixOndENJk?si=Y1rPr7gcLBdC2Czx)
+
+  [Lecture 17 - TRPO Solution Methodology | Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/BOvR8YA_SCA?si=lLE_myv2DxudnsbU)
+
+  [GRPO Explained under 40 Minutes](https://youtu.be/wEa9CmWPWoU?si=nXYSaRQge4I4kwn3)
+
+  [Lecture 18 - Proximal Policy Optimization|Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/HEgGCRSVKqM?si=uMMozGKtQgdFVxM8)
+
+  [Lecture 19 - Applying RL in LLMs | Reinforcement Learning Phase | Reasoning LLMs from Scratch](https://youtu.be/_8ZX9KMyy4c?si=uI4XtEr9PWI1qOBr)
+
+  [Lecture 20 -GRPO |Reinforcement Learning Phase|Reasoning LLMs from Scratch](https://youtu.be/T54EqTCJZR0?si=sBpErLef5cYBD9qX)
+
+  [Lecture 21 - Build your first Reasoning Model using GRPO | Reasoning LLMs from Scratch](https://youtu.be/eoquuWALXKA?si=3HX4P8eDxFj6fAgy)
+
 * [GPT in 60 lines of NumPy code with Jay Mody, blog, (January, 2023)](https://jaykmody.com/blog/gpt-from-scratch/)
   
 * [How ChatGPT is Trained with Ari Seff (February, 2023)](https://www.youtube.com/watch?v=VPRSBzXzavo)
