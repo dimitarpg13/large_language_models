@@ -185,3 +185,4 @@ articles/GePa/GEPA-Reflective_Prompt_Evolution_Can_Outperform_Reinforcement_Lear
 articles/ReAct/ReAct-Synergizing_Reasoning_and_Acting_in_Language_Models_Yao_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Toolformer/Toolformer-Language_Models_Can_Teach_Themselves_to_Use_Tools_Schick_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/attention/All_You_Need_To_Know_About_The_Self-Attention_Layer_Beneveniste_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/attention/Scaled-Dot-Product_Attention_as_One-Sided_Entropic_Optimal_Transport_Littman_2025.pdf filter=lfs diff=lfs merge=lfs -text
