@@ -184,3 +184,4 @@ articles/Reflexion/Self-Reflection_in_LLM_Agents-Effects_on_Problem-Solving_Perf
 articles/GePa/GEPA-Reflective_Prompt_Evolution_Can_Outperform_Reinforcement_Learning_Agrawal_Berkeley_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/ReAct/ReAct-Synergizing_Reasoning_and_Acting_in_Language_Models_Yao_2023.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Toolformer/Toolformer-Language_Models_Can_Teach_Themselves_to_Use_Tools_Schick_2023.pdf filter=lfs diff=lfs merge=lfs -text
+articles/attention/All_You_Need_To_Know_About_The_Self-Attention_Layer_Beneveniste_2025.pdf filter=lfs diff=lfs merge=lfs -text
