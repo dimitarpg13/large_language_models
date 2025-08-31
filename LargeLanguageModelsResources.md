@@ -642,6 +642,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [Performance Prediction for Large Systems via Text-to-Text Regression, Yash Akhauri et al, Google, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/tabular_data/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf)
 
+* [OmniPred: Language Models as Universal Regressors, Xingyou Song et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/OmniPred-Language_Models_as_Universal_Regressors_Song_2025.pdf)
+
 ### Retrieval-Augmented Generation (RAG)
 
 * [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Patrick Lewis et al, Facebook AI, UCL, 2021](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rag/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks_Lewis_2021.pdf)
@@ -679,6 +681,8 @@ relevant repos:
 * [Decoding-based Regression, Xingyou Song and Dara Bahri, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/Decoding-based_Regression_Song_2025.pdf)
 
 * [OmniPred: Language Models as Universal Regressors, Xingyou Song et al, Google DeepMind, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/regression/OmniPred-Language_Models_as_Universal_Regressors_Song_2025.pdf)
+
+* [Performance Prediction for Large Systems via Text-to-Text Regression, Yash Akhauri et al, Google, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/tabular_data/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf)
 
 ### The Attention Mechanicsm and Its Alternatives in Large Language Models
 
