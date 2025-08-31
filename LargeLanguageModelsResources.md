@@ -638,9 +638,9 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [Are Language Models Actually Useful for Time Series Forecasting? M. Tan et al, U. of Virginia, U. of Washington, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/time_series_forecasting/Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting_Tan_2024.pdf)
 
-### Performance Prediction
+### Tabular Data Processing and Text-to-Text Regression
 
-* [Performance Prediction for Large Systems via Text-to-Text Regression, Yash Akhauri et al, Google, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/performance_prediction/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf)
+* [Performance Prediction for Large Systems via Text-to-Text Regression, Yash Akhauri et al, Google, Cornell U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/tabular_data/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf)
 
 ### Retrieval-Augmented Generation (RAG)
 
