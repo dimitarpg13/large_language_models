@@ -213,6 +213,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Training LLMs
 
+* [Achieving 10,000x training data reduction with high-fidelity labels, Markus Krause et al, Aug 7, 2025](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
+
 * [Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful, M. Marek, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/training/Small_Batch_Size_Training_for_Language_Models-When_Vanilla_SGD_Works_and_Why_Gradien_Accumulation_Is_Wasteful_Marek_2025.pdf)
 
 * [Unsupervised Elicitation of Language Models, J. Wen et al, Anthropic, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/training/Unsupervised_Elicitation_of_Language_Models_Wen_2025.pdf)
