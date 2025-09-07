@@ -556,6 +556,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 ### Hallucinations in Large Language Models
 
+* [Why Language Models Hallucinate, A.T. Kalai et al, OpenAI, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/hallucination/Why_Language_Models_Hallucinate_Kallai_OpenAI_2025.pdf)
+
 * [(Im)possibility of Automated Hallucination Detection in Large Language Models, A. Karbasi et al, Yale U., 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/hallucination/Impossibility_of_Automated_Hallucination_Detection_in_Large_Language_Models_Karbasi_yale_2025.pdf)
 
 * [Do Language Models Hallucinate Because We Punish Resistance? Izzat Imran, May 10, 2025, Linkedin](https://www.linkedin.com/pulse/do-language-models-hallucinate-because-we-punish-resistance-imran-jcekc/)
