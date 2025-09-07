@@ -564,6 +564,9 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [LLMs are Bayesian, In Expectation, Not in Realization, Leon Chlon et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/probabilistic_modeling/LLMs_are_Bayesian_in_Expectation_not_in_Realization_Leon_Chlon_2025.pdf)
 
+* [Unfamiliar Finetuning Examples Control How Language Models Hallucinate, Katie Kang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Unfamiliar_Finetuning_Examples_Control_How_Language_Models_Hallucinate_Kang_2024.pdf)
+
+
 ### Memorization abilities of Large Language Models
 
 * [How Much Do Language Models Memorize? J.X. Morris et al, FAIR at Meta, 2025](https://github.com/dimitarpg13/large_language_models/tree/main/articles/memorization)
