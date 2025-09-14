@@ -190,3 +190,4 @@ articles/LNS-Madam-Low-Precision_Training_in_Logarithmic_Number_System_using_Mul
 articles/tabular_data/Performance_Prediction_for_Large_Systems_via_Text-to-Text_Regression_Akhauri_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/tabular_data/OmniPred-Language_Models_as_Universal_Regressors_Song_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/reinforcement_learning/RL_Razor-Why_Online_Reinforcement_Learning_Forgets_Less_Shenfeld_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/ecommerce/eCeLLM-Generalizing_Large_Language_Models_for_E-commerce_from_Large-scale_High-quality_Instruction_Data_Peng_2024.pdf filter=lfs diff=lfs merge=lfs -text
