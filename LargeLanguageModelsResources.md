@@ -759,6 +759,19 @@ relevant repos:
 
    repo: https://github.com/stanfordnlp/dspy
 
+### E-commerse applications of LLMs
+
+* [eCeLLM: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data, Bo Peng et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/ecommerce/eCeLLM-Generalizing_Large_Language_Models_for_E-commerce_from_Large-scale_High-quality_Instruction_Data_Peng_2024.pdf)
+
+  The Model on HuggingFace: https://huggingface.co/NingLab
+  
+  The ECInstruct dataset on HuggingFace: https://huggingface.co/datasets/NingLab/ECInstruct
+
+  Code: https://github.com/ninglab/eCeLLM
+  
+  Code, Model, Datasets : https://ninglab.github.io/eCeLLM/
+
+
 ## LLM anti-hype reading list
 
 * [The list by Vicki Boykis](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
