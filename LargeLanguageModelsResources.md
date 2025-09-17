@@ -252,6 +252,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### In-Context Learning
 
+* [Is In-Context Learning Learning, Adrian de Wynter, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/in-context_learning/Is_In-Context_Learning_Learning_de_Wynter_2025.pdf)
+
 * [Learning without training: The implicit dynamics of in-context learning, Benoit Dherin et al, Google Research, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/in-context_learning/Learning_without_training-The_implicit_dynamics_of_in-context_learning_Dherin_2025.pdf)
 
 * [Is In-Context Learning in Large Language Models Bayesian? A Martingale Perspective, Fabian Falck et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/in-context_learning/Is_In-Context_Learning_in_Large_Language_Models_Bayesian_A_Martingale_Perspective_Falck_2024.pdf)
