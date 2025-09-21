@@ -557,6 +557,11 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs, J. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Learning_to_Think-Information-Theoretic_Reinforcement_Fine-Tuning_for_LLMs_Wang_2025.pdf)
 
+### Nondeterminism in Large Language Models
+
+* [Defeating Nondeterminism in LLM Inference, Horace He et al, Thinking Machines, Sep 10, 2025](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+
+* [Mira Murati’s Thinking Machines Study: Your LLM Isn’t Creative, It’s Just Broken, Medium, Sep 11, 2025](https://ninza7.medium.com/mira-muratis-thinking-machines-study-your-llm-isn-t-creative-it-s-just-broken-d3c84d5efd88)
 
 ### Hallucinations in Large Language Models
 
