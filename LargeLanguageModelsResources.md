@@ -320,6 +320,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Chain-of-Thought in LLMs
 
+* [Soft Tokens, Hard Truths, Natasha Butt et al, U. of Amsterdam, Meta FAIR, NYU, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Soft_Tokens_Hard_Truths_Butt_2025.pdf)
+
 * [Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures, Tushar Pandey et al, Agnostiq, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/graph_models/Adaptive_Graph_of_Thoughts-Test-Time_Adaptive_Reasoning_Unifying_Chain_Tree_and_Graph_Structures_Pandey_2025.pdf)
 
 * [Understanding Chain-of-Thought in LLMs through Information Theory, Jean-François Ton et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Understanding_Chain-of-Thought_in_LLMs_through_Information_Theory_Ton_2024.pdf)
