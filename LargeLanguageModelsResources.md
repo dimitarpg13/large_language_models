@@ -511,6 +511,14 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [ACPO: Adaptive Curriculum Policy Optimization for Aligning Vision-Language Models in Complex Reasoning, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/ACPO-Adaptive_Curriculum_Policy_Optimization_for_Aligning_Vision-Language_Models_in_Complex_Reasoning_Wang_2025.pdf)
+
+* [BroRL: Scaling Reinforcement Learning via Broadened Exploration, J. Hu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/BroRL-Scaling_Reinforcement_Learning_via_Broadened_Exploration_Hu_2025.pdf)
+
+* [RiskPO: Risk-based Policy Optimization via Verifiable Reward for LLM Post-Training, T. Ren et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/RiskPO-Risk-based_Policy_Optimization_via_Verifiable_Reward_for_LLM_Post-Training_Ren_2025.pdf)
+
+* [Simultaneous Multi-Objective Alignment across Verifiable and Non-Verifiable Rewards, Y. Shen et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Simultaneous_Multi-objective_Alignment_Across_Verifiable_and_Non-verifiable_Rewards_Shen_2025.pdf)
+
 * [RL Razor - Why Online Reinforcement Learning Forgets Less, I. Shenfeld et al, MIT Improbable AI Lab, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/RL_Razor-Why_Online_Reinforcement_Learning_Forgets_Less_Shenfeld_2025.pdf)
 
 * [Reinforcement Pre-Training, Qingxiu Dong et al, Microsoft, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/Reinforcement_Pre-Training_Tang_2025.pdf)
