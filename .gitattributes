@@ -196,3 +196,4 @@ articles/CoT/Soft_Tokens_Hard_Truths_Butt_2025.pdf filter=lfs diff=lfs merge=lfs
 articles/reinforcement_learning/ACPO-Adaptive_Curriculum_Policy_Optimization_for_Aligning_Vision-Language_Models_in_Complex_Reasoning_Wang_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/reinforcement_learning/BroRL-Scaling_Reinforcement_Learning_via_Broadened_Exploration_Hu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/reinforcement_learning/RiskPO-Risk-based_Policy_Optimization_via_Verifiable_Reward_for_LLM_Post-Training_Ren_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/reinforcement_learning/Simultaneous_Multi-objective_Alignment_Across_Verifiable_and_Non-verifiable_Rewards_Shen_2025.pdf filter=lfs diff=lfs merge=lfs -text
