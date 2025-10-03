@@ -360,6 +360,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Indeterminism in Large Language Models: An Unintentional Step Toward Open-Ended Intelligence, G. Karelin et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/emergence/Indeterminism_in_Large_Language_Models__preprint.pdf)
+
 * [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty, Mehul Damani et al, MIT, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Beyond_Binary_Rewards-Training_LMs_to_Reason_About_Their_Uncertainty_Damani_2025.pdf)
 
 * [Energy-Based Transformers are Scalable Learners and Thinkers, Alexi Gladstone et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/energy-based_methods/Energy-Based_Transformers_are_Scalable_Learners_and_Thinkers_Gladstone_2025.pdf)
@@ -492,6 +494,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 #### Large Language Model as Markov Chain
 
 * [Large Language Models as Markov Chains, O. Zekri et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/LLM_is_Markov_chain/Large_Language_Models_as_Markov_Chains_Zekri_2025.pdf)
+
+#### The Role of Non-determinism in LLMs
+
+* [Indeterminism in Large Language Models: An Unintentional Step Toward Open-Ended Intelligence, G. Karelin et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/emergence/Indeterminism_in_Large_Language_Models__preprint.pdf)
 
 ### Large Concept Models
 
