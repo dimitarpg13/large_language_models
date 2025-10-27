@@ -696,6 +696,10 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/large_lang
 
 * [AirRAG: Activating Intrinsic Reasoning for Retrieval Augmented Generation via Tree-based Search, W. Feng et al, Alibaba, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rag/AirRAG-Activating_Intrinsic_Reasoning_for_Retrieval_Augmented_Generation_via_Tree-based_Search_Wang_2025.pdf)
 
+### Memory Augmentation of LLMs
+
+* [LightMem: Lightweight and Efficient Memory-Augmented Generation, J. Fang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/memory/LightMem-Lightweight_and_Efficient_Memory-Augmented_Generation_Fang_2025.pdf)
+
 ### Retrieval-Augmented Fine Tuning (RAFT)
 
 * [RAFT:  A new way to teach LLMs to be better at RAG, Cedric Vidal, 2024](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
