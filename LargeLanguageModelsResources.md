@@ -328,6 +328,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Self-Consistency Improves Chain-of-Thought Reasoning in Large Language Models, X. Wang et al, 2024](https://github.com/dimitarpg13/large_language_models/blob/main/articles/Self-Consistency_Improves_Chain_of_Thought_Reasoning_in_Language_Models_Wang_2022.pdf)
 
+* [Chain-of-Thought Hijacking, J. Zhao et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Chain-of-Thought_Hijacking_Zhao_2025.pdf)
+
 ### Deep Research with LLMs
 
 * https://openai.com/index/introducing-deep-research/
