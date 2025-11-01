@@ -330,6 +330,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 * [Chain-of-Thought Hijacking, J. Zhao et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Chain-of-Thought_Hijacking_Zhao_2025.pdf)
 
+* [H-CoT: Hĳacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking, M. Kuo et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/H-CoT-Hijacking_the_Chain-of-Thought_Safety_Reasoning_Mechanism_Kuo_2025.pdf)
+
+* [Chain-of-Thought is not Explainability, F. Barez et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/CoT/Cot_Is_Not_Explainability_Barez_2025.pdf)
+
 ### Deep Research with LLMs
 
 * https://openai.com/index/introducing-deep-research/
