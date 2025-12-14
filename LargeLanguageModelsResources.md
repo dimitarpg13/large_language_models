@@ -806,6 +806,10 @@ relevant repos:
   
   Code, Model, Datasets : https://ninglab.github.io/eCeLLM/
 
+## Architecture Comparison of LLM models
+
+* [The Big LLM Architecture Comparison, Sebastian Raschka, 2025](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+
 
 ## LLM anti-hype reading list
 
