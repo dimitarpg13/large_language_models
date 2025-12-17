@@ -234,6 +234,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Fine Tuning LLMs
 
+* [Learning Dynamics of LLM Fine Tuning, Yi Ren and Danica J. Sutherland, U. of British Columbia, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/Learning_Dynamics_of_LLM_Finetuning_Ren_2025.pdf)
+
 * [Overtrained Language Models Are Harder to Fine-Tune, Jacob Mitchell Springer et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/Overtrained_Language_Models_Are_Harder_to_Fine-Tune_Springer_2025.pdf)
 
 * [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs, Jan Betley et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/fine_tuning/Emergent_Misalignment_Narrow_finetuning_can_produce_broadly_misaligned_LLMs_Betley_2025.pdf)
