@@ -202,3 +202,4 @@ articles/memory/LightMem-Lightweight_and_Efficient_Memory-Augmented_Generation_F
 articles/CoT/Chain-of-Thought_Hijacking_Zhao_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/CoT/H-CoT-Hijacking_the_Chain-of-Thought_Safety_Reasoning_Mechanism_Kuo_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/attention/Attention_as_Discrete-Time_Markov_Chains_Erel_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/fine_tuning/Learning_Dynamics_of_LLM_Finetuning_Ren_2025.pdf filter=lfs diff=lfs merge=lfs -text
