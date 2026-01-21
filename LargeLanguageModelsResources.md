@@ -368,6 +368,10 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Reasoning Models Generate Societies of Thought, Junsol Kim et al , Google, 2026](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_Models_Generate_Societies_of_Thought_Kim_2026.pdf)
+
+* [Are Language Models Rational? The Case of Coherence Norms and Belief Revision, Thomas Hofweber et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rationality/Are_Language_Models_Rational_The_Case_of_Coherence_Norms_and_Belief_Revision_Hofweber_2025.pdf)
+
 * [Indeterminism in Large Language Models: An Unintentional Step Toward Open-Ended Intelligence, G. Karelin et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/emergence/Indeterminism_in_Large_Language_Models__preprint.pdf)
 
 * [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty, Mehul Damani et al, MIT, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Beyond_Binary_Rewards-Training_LMs_to_Reason_About_Their_Uncertainty_Damani_2025.pdf)
