@@ -204,3 +204,4 @@ articles/CoT/H-CoT-Hijacking_the_Chain-of-Thought_Safety_Reasoning_Mechanism_Kuo
 articles/attention/Attention_as_Discrete-Time_Markov_Chains_Erel_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/fine_tuning/Learning_Dynamics_of_LLM_Finetuning_Ren_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/human_like_reasoning/Reasoning_Models_Generate_Societies_of_Thought_Kim_2026.pdf filter=lfs diff=lfs merge=lfs -text
+articles/algebra_of_thoughts/Transformers_Provably_Learn_Chain-of-Thought_Reasoning_with_Length_Generalization_Huang_2025.pdf filter=lfs diff=lfs merge=lfs -text
