@@ -531,6 +531,8 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Reinforcement Learning Techniques in LLM
 
+* [Reinforced Attention Learning, B. Li et al, 2026](https://github.com/dimitarpg13/large_language_models/blob/main/articles/attention/Reinforced_Attention_Learning_Li_2026.pdf)
+
 * [ACPO: Adaptive Curriculum Policy Optimization for Aligning Vision-Language Models in Complex Reasoning, Y. Wang et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/ACPO-Adaptive_Curriculum_Policy_Optimization_for_Aligning_Vision-Language_Models_in_Complex_Reasoning_Wang_2025.pdf)
 
 * [BroRL: Scaling Reinforcement Learning via Broadened Exploration, J. Hu et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/reinforcement_learning/BroRL-Scaling_Reinforcement_Learning_via_Broadened_Exploration_Hu_2025.pdf)
