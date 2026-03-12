@@ -368,6 +368,9 @@ Opportunities of Large Vision Models, Y. Liu et al, Lehigh U., Microsoft Researc
 
 ### Human-like Reasoning and Representation Learning
 
+* [Thinking to Recall: How Reasoning Unlocks
+Parametric Knowledge in LLMs, Z. Gekhman et al, Google Research, 2026](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Thinking_to_Recall-How_Reasoning_Unlocks_Parametric_Knowledge_in_LLMs_Gekhman_2026.pdf)
+
 * [Reasoning Models Generate Societies of Thought, Junsol Kim et al , Google, 2026](https://github.com/dimitarpg13/large_language_models/blob/main/articles/human_like_reasoning/Reasoning_Models_Generate_Societies_of_Thought_Kim_2026.pdf)
 
 * [Are Language Models Rational? The Case of Coherence Norms and Belief Revision, Thomas Hofweber et al, 2025](https://github.com/dimitarpg13/large_language_models/blob/main/articles/rationality/Are_Language_Models_Rational_The_Case_of_Coherence_Norms_and_Belief_Revision_Hofweber_2025.pdf)
