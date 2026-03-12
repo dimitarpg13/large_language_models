@@ -208,3 +208,4 @@ articles/algebra_of_thoughts/Transformers_Provably_Learn_Chain-of-Thought_Reason
 articles/human_like_reasoning/Large_Language_Model_Reasoning_Failures_Song_2026.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Foundations_of_LLM_Xiao_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/attention/Reinforced_Attention_Learning_Li_2026.pdf filter=lfs diff=lfs merge=lfs -text
+articles/human_like_reasoning/Thinking_to_Recall-How_Reasoning_Unlocks_Parametric_Knowledge_in_LLMs_Gekhman_2026.pdf filter=lfs diff=lfs merge=lfs -text
